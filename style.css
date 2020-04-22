@@ -24,8 +24,12 @@ div.quote-box {
     width: 50%;
 }
 
-h1.quote:hover, h1.today:hover {
+h1.quote {
     opacity: 50%;
+}
+
+h1.quote:hover, h1.today:hover {
+    opacity: 30%;
     -webkit-transition: all 500ms ease;
 }
 

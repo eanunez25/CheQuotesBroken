@@ -38,15 +38,31 @@ let anytimeGreetings = [
     "Salutations",
     "Sup",
     "Howdy",
-    "Bonour",
+    "Bonjour",
     "Hola", 
     "Konnichiwa",
-    "Kamusta"
+    "Kamusta",
+    "WAZZAAAAAAP",
+    "Que Onda"
+];
+
+let nicknames = [
+    "Che",
+    "Lumba",
+    "Future Optometrist",
+    "Rachael Joy",
+    "Nutella's Owner",
+    "Che Che",
+    "Forehead",
+    "Elvin's Secretary",
+    "1x FSA RGV Co-President",
+    "Rachael"
 ];
 
 const greeting = document.querySelector(".statement");
 randomGreeting = () => {
-    greeting.textContent = anytimeGreetings[Math.floor(Math.random() * anytimeGreetings.length)] + ", Rachael";
+    greeting.textContent = anytimeGreetings[Math.floor(Math.random() * anytimeGreetings.length)];
+    greeting.textContent += ", " + nicknames[Math.floor(Math.random() * nicknames.length)];
 }
 
 randomGreeting();

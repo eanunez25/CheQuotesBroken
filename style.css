@@ -12,11 +12,11 @@ h1.greeting {
     font-weight: 5000;
     display:inline-block;
 }
-/*
+
 h1.greeting:hover {
     opacity: 50%;
+    -webkit-transition: all 500ms ease;
 }
-*/
 
 div.quote-box {
     position: absolute;
@@ -26,6 +26,7 @@ div.quote-box {
 
 h1.quote:hover, h1.today:hover {
     opacity: 50%;
+    -webkit-transition: all 500ms ease;
 }
 
 h1.today, h1.quote {

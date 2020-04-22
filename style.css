@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(255, 242, 231);
+    font-family: 'Manrope', sans-serif;
+}
+
+h1.greeting {
+    position: relative;
+    /*width: 800px;*/
+    font-size: 100px;
+    margin: 100px auto;
+    text-align: right;
+    font-weight: 5000;
+}

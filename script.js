@@ -27,5 +27,26 @@ let quotesArr = [
     `“You miss 100% of the shots you don’t take.”– Wayne Gretzky`,
     `“Procrastination is opportunity’s assassin.” —Victor Kiam`,
     `"I am Beyonce always"`,
-    `"When you come to a fork in the road, take it" -Yogi Berra`
+    `"When you come to a fork in the road, take it" -Yogi Berra`,
+    `"Third time's a charm."`
 ];
+
+let anytimeGreetings = [
+    "Yo",
+    "Greetings",
+    "Hello",
+    "Salutations",
+    "Sup",
+    "Howdy",
+    "Bonour",
+    "Hola", 
+    "Konnichiwa",
+    "Kamusta"
+];
+
+const greeting = document.querySelector(".statement");
+randomGreeting = () => {
+    greeting.textContent = anytimeGreetings[Math.floor(Math.random() * anytimeGreetings.length)] + ", Rachael";
+}
+
+randomGreeting();

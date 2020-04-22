@@ -84,3 +84,7 @@ h1.greeting span:nth-of-type(2)::after{
     0% {transform: translateX(0)}
     100% {transform: translateX(200%)}
 }
+
+span.statement {
+    height: 130px;
+}

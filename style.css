@@ -6,7 +6,7 @@
 h1.greeting {
     position: relative;
     /* width: 800px; */
-    font-size: 100px;
+    font-size: 90px;
     margin: 100px auto;
     float: right;
     font-weight: 5000;
@@ -96,7 +96,7 @@ span.statement {
 
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1300px) {
     h1.greeting {
         font-size: 60px;
         overflow: break-word;

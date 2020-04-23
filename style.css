@@ -121,9 +121,7 @@ span.statement {
         font-size: 60px;
         overflow: break-word;
     }
-    * {
-        background-color: rgb(255, 242, 231);
-    }
+
 }
 
 @media screen and (max-width: 500px) {
@@ -135,7 +133,5 @@ span.statement {
         font-size: 10px;
         width: 80%;
     }
-    *{
-        background-color: rgb(255, 242, 231);
-    }
+
 }

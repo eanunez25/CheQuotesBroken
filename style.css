@@ -11,6 +11,7 @@ h1.greeting {
     float: right;
     font-weight: 5000;
     display:inline-block;
+    overflow-wrap: break-word;
 }
 
 h1.greeting:hover {
@@ -91,4 +92,23 @@ h1.greeting span:nth-of-type(2)::after{
 
 span.statement {
     height: 130px;
+}
+
+
+
+@media screen and (max-width: 1400px) {
+    h1.greeting {
+        font-size: 60px;
+        overflow: break-word;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    h1.greeting {
+        font-size: 30px;
+        overflow: break-word;
+    }
+    div.quote-box {
+        font-size: 10px;
+    }
 }

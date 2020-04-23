@@ -31,6 +31,16 @@ let quotesArr = [
     `"Third time's a charm."`
 ];
 
+let cheQuotes = [
+    `"Hello world, I'm with a yellow girl, number two pencil"  -Lil Wayne, James also`,
+    `"Third time's a charm."`,
+    `"No." -Rosa Parks`,
+    `"I got a Glock in my 'Rari" -Fetty Wap`,
+    `"If you don't know where you are going, you might end up someplace else." -Yogi Berra`,
+    `"Baseball is 90% mental and the other half is physical" -Yogi Berra, baseball and almost everything else in life`,
+    
+]
+
 let anytimeGreetings = [
     "Yo",
     "Greetings",
@@ -64,5 +74,4 @@ randomGreeting = () => {
     greeting.textContent = anytimeGreetings[Math.floor(Math.random() * anytimeGreetings.length)];
     greeting.textContent += ", " + nicknames[Math.floor(Math.random() * nicknames.length)];
 }
-
 randomGreeting();

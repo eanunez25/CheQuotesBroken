@@ -82,7 +82,7 @@ timebasedGreeting = () =>{
     }
     return timebasedArray;
 }
-console.table(timebasedGreeting());
+// console.table(timebasedGreeting());
 
 const greeting = document.querySelector(".statement");
 randomGreeting = () => {
@@ -91,10 +91,10 @@ randomGreeting = () => {
 }
 randomGreeting();
 
-console.table(cheQuotes);
+// console.table(cheQuotes);
 
 let launchDate = new Date();
-launchDate.setFullYear(2020, 3, 23);
+launchDate.setFullYear(2020, 3, 24);
 let today = new Date();
 let dayDifference = today.getDate() - launchDate.getDate();
 

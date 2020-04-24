@@ -75,7 +75,7 @@ timebasedGreeting = () =>{
     let time = new Date().getHours();
     if (time >= 5 && time <= 11) {
         timebasedArray = anytimeGreetings.concat(morningGreetings);
-    } else if (time >= 12 && time <= 20) {
+    } else if (time >= 12 && time <= 19) {
         timebasedArray = anytimeGreetings.concat(afternoonGreetings);
     } else {
         timebasedArray = anytimeGreetings.concat(nightGreetings);

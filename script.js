@@ -1,10 +1,10 @@
 let toBeSorted = [
-    
+    `"Noone cared who I was until I put on a mask." -Obito Uchiha`,
 ];
 
 let cheQuotes = [
     `"Its been 'one of those days' for three years now." -daily Elvin thought`,
-    `"A relationship without trust is like a phone without service. And what do you do with a phone that doesn't have service? Play games." -Drake, street poet and philosopher`,
+    `"A relationship without trust is like a phone without service. And what do you do with a phone that doesn't have service? Play games." -street poet and philosopher, Drake`,
     `"If you don't know where you are going, you might end up someplace else." -Yogi Berra`,
     `"Hello world, I'm with a yellow girl, number two pencil"  -Lil Wayne, James also`,
     `“Of all the trees we could have hit, we had to get the one that hits back.” -Ronald Weasley`,
@@ -74,8 +74,8 @@ let timebasedArray = [];
 timebasedGreeting = () =>{
     let time = new Date().getHours();
     if (time >= 5 && time <= 11) {
-        timebasedArray = morningGreetings.concat(anytimeGreetings);
-    } else if (time >= 12 && time <= 18) {
+        timebasedArray = anytimeGreetings.concat(morningGreetings);
+    } else if (time >= 12 && time <= 20) {
         timebasedArray = anytimeGreetings.concat(afternoonGreetings);
     } else {
         timebasedArray = anytimeGreetings.concat(nightGreetings);

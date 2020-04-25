@@ -4,6 +4,7 @@ let toBeSorted = [
 
 let cheQuotes = [
     `"Its been 'one of those days' for three years now." -daily Elvin thought`,
+    `"18 years man, 18 years. The baby mama's car and crib is bigger than his. You turn on the TV on any given Sunday, win the Superbowl and drive off in a Hyudai. She was supposed to buy your shorty Tyco with your money. Then she went to the doctor and got lipo with your money." -Lebron James on using protection`,
     `"A relationship without trust is like a phone without service. And what do you do with a phone that doesn't have service? Play games." -street poet and philosopher, Drake`,
     `"If you don't know where you are going, you might end up someplace else." -Yogi Berra`,
     `"Hello world, I'm with a yellow girl, number two pencil"  -Lil Wayne, James also`,
@@ -14,7 +15,6 @@ let cheQuotes = [
     `"I got a Glock in my 'Rari" -Fetty Wap`,
     `"Baseball is 90% mental and the other half is physical" -Yogi Berra, on baseball and almost everything else in life`,
     `"There was no collusion. Everybody knows there was no collution." -Donald Trump after his former lawyer, Michael Cohen, was found guilty of 8 forms of fraud, a former campaign chairman, Paul Manafort, who was too found guilty of 8 forms of fraud, another former campaign chairman, George Papadapalous, was found guilty lying to FBI agents, a Dutch attorney, Alex van der Zwaan, who lied to the FBI for Manafort, former Trump advisor, Roger Stone, was caught tampering and lying to Congress, former Trump advisor, Rick Gates, guilty to conspiracy and lying to the FBI, and still awaiting sentencing, Michael Flynn, the former national security advisor that sold out our country`,
-    `"18 years man, 18 years. The baby mama's car and crib is bigger than his. You turn on the TV on any given Sunday, win the Superbowl and drive off in a Hyudai. She was supposed to buy your shorty Tyco with your money. Then she went to the doctor and got lipo with your money." -Lebron James on using protection`,
 ]
 
 let anytimeGreetings = [
@@ -67,7 +67,7 @@ let nicknames = [
     "Forehead",
     "Elvin's Secretary",
     "1x FSA RGV Co-President",
-    "Rachael"
+    "Rachael",
 ];
 
 let timebasedArray = [];
@@ -103,3 +103,6 @@ todaysQuote = () => {
     quoteBox.textContent = cheQuotes[dayDifference];
 }
 todaysQuote();
+
+const quotesLeft = cheQuotes.length - dayDifference -1;
+console.log("Quotes left: " + quotesLeft);

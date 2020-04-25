@@ -101,6 +101,20 @@ let dayDifference = today.getDate() - launchDate.getDate();
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
     quoteBox.textContent = cheQuotes[dayDifference];
+
+    // for the day
+    let time2 = new Date().getHours();
+    if (time2 >= 10 && time2 <= 23) {
+        let linebreak = document.createElement("br");
+        let link = document.createElement("a");
+        link.innerHTML = "Trainwreck link (might have pop-ups, welp)";
+        const box = document.querySelector(".quote-box")
+        box.appendChild(linebreak);
+        box.appendChild(linebreak);
+        link.href = "https://soap2day.is/movie_aTo1OTI7.html";
+        box.appendChild(link);
+    }
+    
 }
 todaysQuote();
 

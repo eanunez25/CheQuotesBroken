@@ -168,6 +168,8 @@ todaysQuote = () => {
         box.appendChild(linebreak);
         link.href = "https://soap2day.is/movie_aTo1OTI7.html";
         box.appendChild(link);
+
+        
     }
     
 }

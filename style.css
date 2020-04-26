@@ -135,3 +135,12 @@ span.statement {
     }
 
 }
+
+div.memes {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+img.ye {
+    max-width: 300px;
+}

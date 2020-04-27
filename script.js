@@ -6,7 +6,22 @@ let toBeSorted = [
     `“If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.” -Dr. Martin Luther King Jr.`,
     `"I got a Glock in my 'Rari" -Fetty Wap`,
     `"Baseball is 90% mental and the other half is physical" -Yogi Berra, on baseball and almost everything else in life`,
-    
+    `"No one can defeat me, because I have given up the idea of winning. How can you defeat me? You can only defeat someone who wants to win.” ―Lao Tzu`,
+    `“See, if you look at the drug war from a purely economic point of view, the role of the government is to protect the drug cartel. That's literally true” - Milton Friedman`,
+    `"Psychedelics are illegal not because a loving government is concerned that you may jump out of a third story window. Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behavior and information processing." —Terence McKenna`,
+    `"Eagles may soar, but weasels don't get sucked into jet engines"`,
+    `"You can't spell advertisements without semen between the tits."`,
+    `"I dont have the time or the crayons to explain this to you." -overheard from Christopher Martinez while learning new ways to say "fuck off"`,
+    `"If he f**k me good, I take his ass to Red Lobster. -Beyonce, Marissa too but just once`,
+    `If I was your boyfriend, I’d never let you go <br>
+    I could take you places you ain’t never been before <br>
+    Baby, take a chance, or you’ll never ever know <br>
+    I got money in my hands that I’d really like to blow <br>
+    Swag swag swag, on you <br>
+    Chillin' by the fire while we eating fondue <br>
+    I dunno about me, but I know about you <br>
+    So say hello to falsetto in three, two, swag <br>
+    -Justin Bieber on everything that's wrong with society`,
 ];
 
 let cheQuotes = [
@@ -17,6 +32,63 @@ let cheQuotes = [
     `"Hello world, I'm with a yellow girl, number two pencil"  -Lil Wayne, James also`,
     `"There was no collusion. Everybody knows there was no collution." -Donald Trump after his former lawyer, Michael Cohen, was found guilty of 8 forms of fraud, a former campaign chairman, Paul Manafort, who was too found guilty of 8 forms of fraud, another former campaign chairman, George Papadapalous, was found guilty lying to FBI agents, a Dutch attorney, Alex van der Zwaan, who lied to the FBI for Manafort, former Trump advisor, Roger Stone, was caught tampering and lying to Congress, former Trump advisor, Rick Gates, guilty to conspiracy and lying to the FBI, and still awaiting sentencing, Michael Flynn, the former national security advisor that sold out our country`,
     `"Noone cared who I was until I put on the mask." -Bane and probably Obito Uchiha`,
+    `"Coming out of my cage <br>
+    And I've been doing just fine <br>
+    Gotta gotta be down  <br>
+    Because I want it all <br>
+    It started out with a kiss <br>
+    How did it end up like this? <br>
+    It was only a kiss, it was only a kiss <br>
+    Now I'm falling asleep <br>
+    And she's calling a cab <br>
+    While he's having a smoke <br>
+    And she's taking a drag <br>
+    Now they're going to bed <br>
+    And my stomach is sick <br>
+    And it's all in my head <br>
+    But she's touching his chest now <br>
+    He takes off her dress now <br>
+    Let me go <br>
+    And I just can't look, it's killing me <br>
+    And taking control <br>
+    Jealousy, turning saints into the sea <br>
+    Swimming through sick lullabies <br>
+    Choking on your alibis <br>
+    But it's just the price I pay <br>
+    Destiny is calling me <br>
+    Open up my eager eyes <br>
+    Cause I'm Mr. Brightside <br>
+    I'm coming out of my cage <br>
+    And I've been doing just fine <br>
+    Gotta gotta be down <br>
+    Because I want it all <br>
+    It started out with a kiss <br>
+    How did it end up like this? <br>
+    (It was only a kiss), it was only a kiss <br>
+    Now I'm falling asleep <br>
+    And she's calling a cab <br>
+    While he's having a smoke <br>
+    And she's taking a drag <br>
+    Now they're going to bed <br>
+    And my stomach is sick <br>
+    And it's all in my head <br>
+    But she's touching his chest now <br>
+    He takes off her dress now <br>
+    Let me go <br>
+    Cause I just can't look, it's killing me <br>
+    And taking control <br>
+    Jealousy, turning saints into the sea <br>
+    Swimming through sick lullabies <br>
+    Choking on your alibi <br>
+    But it's just the price I pay <br>
+    Destiny is calling me <br>
+    Open up my eager eyes <br>
+    Cause I'm Mr. Brightside <br>
+    I never <br>
+    I never <br>
+    I never <br>
+    I never" <br>
+    -Marcelo when he poured his heart out to Rachael in front of all of SciTech and she wasn't even in the room, wtf che.`,
 ]
 
 let anytimeGreetings = [
@@ -59,6 +131,7 @@ let nightGreetings = [
     "G'night",
     "Night",
     "Turn Up", 
+    "Look Behind You"
 ]
 
 let sundayGreetings = [
@@ -157,7 +230,7 @@ let dayDifference = today.getDate() - launchDate.getDate();
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.textContent = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference];
 
     // for the day
     /*
@@ -178,3 +251,4 @@ twitter.setAttribute("data-text", cheQuotes[dayDifference]);
 
 const quotesLeft = cheQuotes.length - dayDifference -1;
 console.log("Quotes left: " + quotesLeft);
+console.log("Quotes to be filtered: " + toBeSorted.length);

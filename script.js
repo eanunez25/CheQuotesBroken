@@ -102,7 +102,7 @@ let nicknames = [
     "Rachael",
     "Lumba",
     "Future Optometrist",
-    "Nutella's Owner",
+    "Nutella's Human",
     "Che Che",
     "Forehead",
     "Elvin's Secretary",
@@ -141,6 +141,7 @@ timebasedGreeting = () =>{
 // console.table(timebasedGreeting());
 
 const greeting = document.querySelector(".statement");
+const twitter = document.querySelector(".twitter-share-button");
 randomGreeting = () => {
     greeting.textContent = timebasedGreeting()[Math.floor(Math.random() * timebasedGreeting().length)];
     greeting.textContent += ", " + nicknames[Math.floor(Math.random() * nicknames.length)];
@@ -159,6 +160,7 @@ todaysQuote = () => {
     quoteBox.textContent = cheQuotes[dayDifference];
 
     // for the day
+    /*
     let time2 = new Date().getDay();
     if (time2 == 6) {
         let linebreak = document.createElement("br");
@@ -168,12 +170,11 @@ todaysQuote = () => {
         box.appendChild(linebreak);
         link.href = "https://soap2day.is/movie_aTo1OTI7.html";
         box.appendChild(link);
-
-        
     }
-    
+    */
 }
 todaysQuote();
+twitter.setAttribute("data-text", cheQuotes[dayDifference]);
 
 const quotesLeft = cheQuotes.length - dayDifference -1;
 console.log("Quotes left: " + quotesLeft);

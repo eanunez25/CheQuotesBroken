@@ -59,14 +59,14 @@ h1.today, h1.quote {
     margin: 0px;
 }
 
-h1.greeting span{
+h1.greeting a{
     position: relative;
     overflow: hidden;
     display: block;
     line-height: 1.2;
 }
 
-h1.greeting span::after{
+h1.greeting a::after{
     content: '';
     position: absolute;
     top: 0;
@@ -78,7 +78,7 @@ h1.greeting span::after{
     transform: translateX(-101%);
 }
 
-h1.greeting span::before{
+h1.greeting a::before{
     content: '';
     position: absolute;
     top: 0;
@@ -90,13 +90,13 @@ h1.greeting span::before{
     transform: translateX(0);
 }
 
-h1.greeting span:nth-of-type(1)::before,
-h1.greeting span:nth-of-type(1)::after{
+h1.greeting a:nth-of-type(1)::before,
+h1.greeting a:nth-of-type(1)::after{
     animation-delay: 1s;
 }
 
-h1.greeting span:nth-of-type(2)::before,
-h1.greeting span:nth-of-type(2)::after{
+h1.greeting a:nth-of-type(2)::before,
+h1.greeting a:nth-of-type(2)::after{
     animation-delay: 1.5s;
 }
 
@@ -110,7 +110,7 @@ h1.greeting span:nth-of-type(2)::after{
     100% {transform: translateX(200%)}
 }
 
-span.statement {
+a.statement {
     height: 130px;
 }
 
@@ -147,4 +147,8 @@ img.ye {
 
 .twitter-share-button {
     color: #dd8d8d;
+}
+
+a {
+    color: black;
 }

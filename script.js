@@ -29,9 +29,6 @@ let cheQuotes = [
     `"18 years man, 18 years. The baby mama's car and crib is bigger than his. You turn on the TV on any given Sunday, win the Superbowl and drive off in a Hyudai. She was supposed to buy your shorty Tyco with your money. Then she went to the doctor and got lipo with your money." -Lebron James on using protection`,
     `“Of all the trees we could have hit, we had to get the one that hits back.” -Ronald Weasley`,
     `"When this is all over we are throwing the biggest St. Pats Easter de Mayo Bash of July ever" -a restaurant sign in El Paso`,
-    `"Hello world, I'm with a yellow girl, number two pencil"  -Lil Wayne, James also`,
-    `"There was no collusion. Everybody knows there was no collution." -Donald Trump after his former lawyer, Michael Cohen, was found guilty of 8 forms of fraud, a former campaign chairman, Paul Manafort, who was too found guilty of 8 forms of fraud, another former campaign chairman, George Papadapalous, was found guilty lying to FBI agents, a Dutch attorney, Alex van der Zwaan, who lied to the FBI for Manafort, former Trump advisor, Roger Stone, was caught tampering and lying to Congress, former Trump advisor, Rick Gates, guilty to conspiracy and lying to the FBI, and still awaiting sentencing, Michael Flynn, the former national security advisor that sold out our country`,
-    `"Noone cared who I was until I put on the mask." -Bane and probably Obito Uchiha`,
     `"Coming out of my cage <br>
     And I've been doing just fine <br>
     Gotta gotta be down  <br>
@@ -88,7 +85,11 @@ let cheQuotes = [
     I never <br>
     I never <br>
     I never" <br>
-    -Marcelo when he poured his heart out to Rachael in front of all of SciTech and she wasn't even in the room, wtf che.`,
+    -Marcelo when he poured his heart out to Rachael in front of all of SciTech and she wasn't even in the room, wtf che`,
+    `"There was no collusion. Everybody knows there was no collution." -Donald Trump after his former lawyer, Michael Cohen, was found guilty of 8 forms of fraud, a former campaign chairman, Paul Manafort, who was too found guilty of 8 forms of fraud, another former campaign chairman, George Papadapalous, was found guilty lying to FBI agents, a Dutch attorney, Alex van der Zwaan, who lied to the FBI for Manafort, former Trump advisor, Roger Stone, was caught tampering and lying to Congress, former Trump advisor, Rick Gates, guilty to conspiracy and lying to the FBI, and still awaiting sentencing, Michael Flynn, the former national security advisor that sold out our country`,
+    `"Hello world, I'm with a yellow girl, number two pencil"  -Lil Wayne, James also`,
+    `"Noone cared who I was until I put on the mask." -Bane and probably Obito Uchiha`,
+
 ]
 
 let anytimeGreetings = [
@@ -106,6 +107,7 @@ let anytimeGreetings = [
     "Go Study",
     "When's the Wedding",
     "You Doctor Yet",
+    "Feed Me",
 ];
 
 let morningGreetings = [

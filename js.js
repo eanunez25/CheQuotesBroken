@@ -240,7 +240,7 @@ let dayDifference = today.getDate() - launchDate.getDate();
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference + 30];
 
     // for the day
     /*
@@ -263,3 +263,4 @@ todaysQuote();
 const quotesLeft = cheQuotes.length - dayDifference -1;
 console.log("Quotes left: " + quotesLeft);
 console.log("Quotes to be filtered: " + toBeSorted.length);
+console.log(dayDifference+30)

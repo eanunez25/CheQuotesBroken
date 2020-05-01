@@ -237,10 +237,12 @@ let launchDate = new Date();
 launchDate.setFullYear(2020, 3, 24);
 let today = new Date();
 let dayDifference = today.getDate() - launchDate.getDate();
+const day = 1000 * 60 * 60 * 24;
+dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference + 30];
+    quoteBox.innerHTML = cheQuotes[dayDifference];
 
     // for the day
     /*
@@ -263,4 +265,4 @@ todaysQuote();
 const quotesLeft = cheQuotes.length - dayDifference -1;
 console.log("Quotes left: " + quotesLeft);
 console.log("Quotes to be filtered: " + toBeSorted.length);
-console.log(dayDifference+30)
+console.log(dayDifference)

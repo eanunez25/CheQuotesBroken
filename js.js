@@ -265,4 +265,4 @@ todaysQuote();
 const quotesLeft = cheQuotes.length - dayDifference -1;
 console.log("Quotes left: " + quotesLeft);
 console.log("Quotes to be filtered: " + toBeSorted.length);
-console.log(dayDifference)
+console.log("Inspiring Rachael everyday with motivational quotes for the last " + dayDifference + " days.")

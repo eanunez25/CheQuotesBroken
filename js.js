@@ -88,8 +88,8 @@ let cheQuotes = [
   `"There was no collusion. Everybody knows there was no collution." -Donald Trump after his former lawyer, Michael Cohen, was found guilty of 8 forms of fraud, a former campaign chairman, Paul Manafort, who was too found guilty of 8 forms of fraud, another former campaign chairman, George Papadapalous, was found guilty lying to FBI agents, a Dutch attorney, Alex van der Zwaan, who lied to the FBI for Manafort, former Trump advisor, Roger Stone, was caught tampering and lying to Congress, former Trump advisor, Rick Gates, guilty to conspiracy and lying to the FBI, and still awaiting sentencing, Michael Flynn, the former national security advisor that sold out our country`,
   `"Hello world, I'm with a yellow girl, number two pencil"  -Lil Wayne, James also`,
   `"I dont have the time or the crayons to explain this to you." -overheard from Christopher Martinez while learning new ways to say "fuck off"`,
-  `"If he f**k me good, I take his ass to Red Lobster. -Beyonce, Marissa too but just once`,
-  `"Noone cared who I was until I put on the mask." -Bane and probably Obito Uchiha`,
+  `"If he f**k me good, I take his ass to Red Lobster." -Beyonce, Marissa too but just once`,
+  `"Noone cared who I was until I put on the mask." -Bane but probably better relates to Obito Uchiha`,
 
 ]
 

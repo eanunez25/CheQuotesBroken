@@ -89,6 +89,7 @@ let cheQuotes = [
   `"Hello world, I'm with a yellow girl, number two pencil"  -Lil Wayne, James also`,
   `"I dont have the time or the crayons to explain this to you." -overheard from Christopher Martinez while learning new ways to say "fuck off"`,
   `"If he f**k me good, I take his ass to Red Lobster." -Beyonce, Marissa too but just once`,
+  `"Never bet against America" -Warren Buffet yesterday`
   `"Noone cared who I was until I put on the mask." -Bane but probably better relates to Obito Uchiha`,
 
 ]

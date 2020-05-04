@@ -4,13 +4,11 @@ let toBeSorted = [
   `"If you don't know where you are going, you might end up someplace else." -Yogi Berra`,
   `"Third time's a charm."`,
   `"No." -Rosa Parks`,
-  `“If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.” -Dr. Martin Luther King Jr.`,
   `"I got a Glock in my 'Rari" -Fetty Wap`,
   `"Baseball is 90% mental and the other half is physical" -Yogi Berra, on baseball and almost everything else in life`,
   `"No one can defeat me, because I have given up the idea of winning. How can you defeat me? You can only defeat someone who wants to win.” ―Lao Tzu`,
   `“See, if you look at the drug war from a purely economic point of view, the role of the government is to protect the drug cartel. That's literally true” - Milton Friedman`,
   `"Psychedelics are illegal not because a loving government is concerned that you may jump out of a third story window. Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behavior and information processing." —Terence McKenna`,
-  `"Eagles may soar, but weasels don't get sucked into jet engines"`,
   `"You can't spell advertisements without semen between the tits."`,
   `"If I was your boyfriend, I’d never let you go <br>
   I could take you places you ain’t never been before <br>
@@ -91,7 +89,8 @@ let cheQuotes = [
   `"If he f**k me good, I take his ass to Red Lobster." -Beyonce, Marissa too but just once`,
   `"Never - never - bet against America" -Warren Buffet yesterday`,
   `"Noone cared who I was until I put on the mask." -Bane but probably better relates to Obito Uchiha`,
-
+  `"Eagles may soar, but weasels don't get sucked into jet engines"`,
+  `“If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.” -Dr. Martin Luther King Jr.`,
 ]
 
 
@@ -112,6 +111,7 @@ let anytimeGreetings = [
   "When's the Wedding",
   "You Doctor Yet",
   "Feed Me",
+  "Join My Family Plan"
 ];
 
 let morningGreetings = [
@@ -270,4 +270,5 @@ console.log("Quotes to be filtered: " + toBeSorted.length);
 
 //  about ------------------------------------------------------------------------
 const about = document.querySelector(".about");
-about.textContent = "Inspiring Rachael everyday with motivational quotes for the last " + Math.floor(dayDifference) + " days.";
+const dayStreak = (Math.floor(dayDifference).toString() + " days.").bold()
+about.innerHTML = "Inspiring Rachael everyday with motivational quotes for the last " + dayStreak;

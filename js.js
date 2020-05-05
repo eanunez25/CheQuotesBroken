@@ -89,6 +89,7 @@ let cheQuotes = [
   `"If he f**k me good, I take his ass to Red Lobster." -Beyonce, Marissa too but just once`,
   `"Never - never - bet against America" -Warren Buffet yesterday`,
   `"Noone cared who I was until I put on the mask." -Bane but probably better relates to Obito Uchiha`,
+  `"If you don't know what cinco de mayo is, it's a celebration of Mexico's 1862 victory in battle over France, although France, who previously had not won a war since 1066, later won the war against Mexico. However, since the Mexicans beat the French for this one battle, Mexicans took their cue from the Irish (who don't actually celebrate St. Patrick's Day, from what I can tell). The Mexicans said, "Okay, hey, let's do a pub crawl!!!!!' Except they said it in Spanish. Which makes me wonder why Mexicans would do a pub crawl, seeing as how Mexico doesn't seem to have a lot of pubs, seeing as how it's Mexico and not Ireland. But never mind that now. You should also never mind the fact that cinco de mayo is more widely celebrated here in the States than it is in Mexico." -Urban Dictionary`,
   `"Eagles may soar, but weasels don't get sucked into jet engines"`,
   `“If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.” -Dr. Martin Luther King Jr.`,
 ]
@@ -172,6 +173,21 @@ let fridayGreetings = [
   "Fri-nally",
 ]
 
+let cincodeMayoGreetings = [
+  "Happy Pico de Gallo",
+  "Happy Pico de Gallo",
+  "Happy Pico de Gallo",
+  "Happy Pico de Gallo",
+  "Happy Pico de Gallo",
+  "Happy Pico de Gallo",
+  "Happy Cinco",
+  "Happy Cinoo",
+  "Happy Cinco",
+  "Happy Cinco de Mayo",
+  "Happy Cinco de Mayo",
+  "Happy Cinco de Mayo",
+]
+
 
 
 //  nicknames------------------------------------------------------------------------
@@ -218,6 +234,12 @@ timebasedGreeting = () =>{
         timebasedArray =timebasedArray.concat(thursdayGreetings);
     } else if (day == 5) {
         timebasedArray =timebasedArray.concat(fridayGreetings);
+    }
+
+    let month = new Date().getMonth() + 1;
+    let dayofMonth = new Date().getDate();
+    if (month == 5 && dayofMonth == 4) {
+      timebasedArray = timebasedArray.concat(cincodeMayoGreetings);
     }
 
     return timebasedArray;

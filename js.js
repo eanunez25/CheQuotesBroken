@@ -238,7 +238,7 @@ timebasedGreeting = () =>{
 
     let month = new Date().getMonth() + 1;
     let dayofMonth = new Date().getDate();
-    if (month == 5 && dayofMonth == 4) {
+    if (month == 5 && dayofMonth == 5) {
       timebasedArray = timebasedArray.concat(cincodeMayoGreetings);
     }
 

@@ -93,6 +93,7 @@ let cheQuotes = [
   `“I like butts, and I think about butts and I felt like making a butt song because I made a booby song so I was like, aight I’ll make a butt song.” -Doja Cat`,
   `"Eagles may soar, but weasels don't get sucked into jet engines"`,
   `“If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.” -Dr. Martin Luther King Jr.`,
+  `"Aw hail no" -my neigborhood`,
   `"Pip Pip Da Doodly Doo" -Drake`,
   `"I only love my bed and my momma, I'm sorry" -Drake`,
   `"A few final thoughts, don't get married until you're thirty. Play laser tag once a week. Give at least as many high fives as you get. Teacup pigs are lady magnets, but are very hard to care for... Not worth the effort. The same goes for dogs and babies. And most importantly, whatever you do in this life... it's not legendary unless your friends are there to see it. Good luck boys. Take care of the game for me." -you already know`,

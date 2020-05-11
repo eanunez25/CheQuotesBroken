@@ -109,7 +109,9 @@ let cheQuotes = [
   To return the shopping cart is an easy, convenient task and one which we all recognize as the correct, appropriate thing to do. To return the shopping cart is objectively right. There are no situations other than dire emergencies in which a person is not able to return their cart. Simultaneously, it is not illegal to abandon your shopping cart. Therefore the shopping cart presents itself as the apex example of whether a person will do what is right without being forced to do it. No one will punish you for not returning the shopping cart, no one will fine you or kill you for not returning the shopping cart, you gain nothing by returning the shopping cart. You must return the shopping cart out of the goodness of your own heart. You must return the shopping cart because it is the right thing to do. Because it is correct. <br><br>
   A person who is unable to do this is no better than an animal, an absolute savage who can only be made to do what is right by threatening them with a law and the force that stands behind it. <br><br>
   The Shopping Cart is what determines whether a person is a good or bad member of society."`,
-
+  `"Number one. Steady hand. One day, Kim Jong Un need new heart. I do operation. But mistake! Kim Jong Un die! SSD very mad! I hide fishing boat, come to America. No English, no food, no money. Darryl give me job. Now I have house, American car and new woman. Darryl save life. <br><br>
+  My big secret. I kill Kim Jong Un on opurpose. I good surgeon. The best!" <br><br>
+  I hope you're inspired, future doctor.`
 ]
 
 

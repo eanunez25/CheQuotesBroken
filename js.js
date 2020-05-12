@@ -97,6 +97,7 @@ let cheQuotes = [
   `"I only love my bed and my momma, I'm sorry" -Drake`,
   `"Pip Pip Da Doodly Doo" -Drake`,
   `"A few final thoughts, don't get married until you're thirty. Play laser tag once a week. Give at least as many high fives as you get. Teacup pigs are lady magnets, but are very hard to care for... Not worth the effort. The same goes for dogs and babies. And most importantly, whatever you do in this life... it's not legendary unless your friends are there to see it. Good luck boys. Take care of the game for me." -you already know`,
+  `"'You only live once?' False. You live everyday. You only die once." -Dwight Schrute, Manager`,
   `"Versace, Versace, Versace, Versace. 
   Versace, Versace, Versace, Versace. 
   Versace Versace, Versace Versace, Versace. 
@@ -111,7 +112,7 @@ let cheQuotes = [
   The Shopping Cart is what determines whether a person is a good or bad member of society."`,
   `"Number one. Steady hand. One day, Kim Jong Un need new heart. I do operation. But mistake! Kim Jong Un die! SSD very mad! I hide fishing boat, come to America. No English, no food, no money. Darryl give me job. Now I have house, American car and new woman. Darryl save life. <br><br>
   My big secret. I kill Kim Jong Un on opurpose. I good surgeon. The best!" <br><br>
-  I hope you're inspired, future doctor.`
+  I hope you're inspired, future doctor.`,
 ]
 
 

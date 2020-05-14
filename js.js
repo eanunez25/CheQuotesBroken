@@ -97,7 +97,6 @@ let cheQuotes = [
   `"I only love my bed and my momma, I'm sorry" -Drake`,
   `"Pip Pip Da Doodly Doo" -Drake`,
   `"A few final thoughts, don't get married until you're thirty. Play laser tag once a week. Give at least as many high fives as you get. Teacup pigs are lady magnets, but are very hard to care for... Not worth the effort. The same goes for dogs and babies. And most importantly, whatever you do in this life... it's not legendary unless your friends are there to see it. Good luck boys. Take care of the game for me." -you already know`,
-  `"'You only live once?' False. You live everyday. You only die once." -Dwight Schrute, Manager`,
   `"Versace, Versace, Versace, Versace. 
   Versace, Versace, Versace, Versace. 
   Versace Versace, Versace Versace, Versace. 
@@ -114,6 +113,7 @@ let cheQuotes = [
   My big secret. I kill Kim Jong Un on opurpose. I good surgeon. The best!" <br><br>
   I hope you're inspired, future doctor.`,
   `"Juice is temporary. You could say that just 'cause you got a nice car or something, like 'Aw man, he got the juice'... it's something that kind of comes and goes. But the sauce: Sauce is forever." -Gordon Terry, 21-year-old Best Buy employee`,
+  `"'You only live once?' False. You live everyday. You only die once." -Dwight Schrute, Manager`,
 ]
 
 

@@ -134,7 +134,6 @@ let anytimeGreetings = [
   "When's the Wedding",
   "You Doctor Yet",
   "Feed Me",
-  "Join My Family Plan"
 ];
 
 let morningGreetings = [

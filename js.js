@@ -114,7 +114,7 @@ let cheQuotes = [
   I hope you're inspired, future doctor.`,
   `<blockquote cite="https://www.youtube.com/watch?v=DLgzY8uL86U">"Juice is temporary. You could say that just 'cause you got a nice car or something, like 'Aw man, he got the juice'... it's something that kind of comes and goes. But the sauce: Sauce is forever."</blockquote> Gordon Terry, 21-year-old Best Buy employee`,
   `<blockquote>"'You only live once?' False. You live everyday. You only die once."</blockquote> Dwight Schrute, Manager`,
-  `<blockquote>"Just do it."</blockquote> Shia Labeouf`,
+  `<blockquote>"Just do it."</blockquote> Shia Labeouf<br><br><img src="images/shia.gif">`,
 ]
 
 
@@ -287,7 +287,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference + 3];
 
     // for the day
     /*

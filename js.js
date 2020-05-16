@@ -112,8 +112,9 @@ let cheQuotes = [
   `"Number one. Steady hand. One day, Kim Jong Un need new heart. I do operation. But mistake! Kim Jong Un die! SSD very mad! I hide fishing boat, come to America. No English, no food, no money. Darryl give me job. Now I have house, American car and new woman. Darryl save life. <br><br>
   My big secret. I kill Kim Jong Un on opurpose. I good surgeon. The best!" <br><br>
   I hope you're inspired, future doctor.`,
-  `"Juice is temporary. You could say that just 'cause you got a nice car or something, like 'Aw man, he got the juice'... it's something that kind of comes and goes. But the sauce: Sauce is forever." -Gordon Terry, 21-year-old Best Buy employee`,
-  `"'You only live once?' False. You live everyday. You only die once." -Dwight Schrute, Manager`,
+  `<blockquote cite="https://www.youtube.com/watch?v=DLgzY8uL86U">"Juice is temporary. You could say that just 'cause you got a nice car or something, like 'Aw man, he got the juice'... it's something that kind of comes and goes. But the sauce: Sauce is forever."</blockquote> Gordon Terry, 21-year-old Best Buy employee`,
+  `<blockquote>"'You only live once?' False. You live everyday. You only die once."</blockquote> Dwight Schrute, Manager`,
+  `<blockquote>"Just do it."</blockquote> Shia Labeouf`,
 ]
 
 
@@ -286,7 +287,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference + 3];
 
     // for the day
     /*

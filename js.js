@@ -115,7 +115,10 @@ let cheQuotes = [
   `<blockquote cite="https://www.youtube.com/watch?v=DLgzY8uL86U">"Juice is temporary. You could say that just 'cause you got a nice car or something, like 'Aw man, he got the juice'... it's something that kind of comes and goes. But the sauce: Sauce is forever."</blockquote> Gordon Terry, 21-year-old Best Buy employee`,
   `<blockquote>"'You only live once?' False. You live everyday. You only die once."</blockquote> Dwight Schrute, Manager`,
   `<blockquote>"Just do it."</blockquote> Shia Labeouf<br><br><img src="images/shia.gif">`,
-  `<blockquote>"Fish are friends, not food."</blockquote>Bruce`
+  `<blockquote>"Fish are friends, not food."</blockquote>Bruce`,
+  `<blockquote>"Sometimes clouds have two sides, a dark and light, and a silver lining in between. It's like a silver sandwich. So when life gets hard, just take a bite out of the silver sandwich."</blockquote> Prince Zuko`,
+  `<blockquote>"Cut that b<span id="blur">itch</span> out like an edit."</blockquote>A message board in Monica's appartment`,
+  
 ]
 
 

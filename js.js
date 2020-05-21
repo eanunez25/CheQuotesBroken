@@ -118,6 +118,10 @@ let cheQuotes = [
   `<blockquote>"Fish are friends, not food."</blockquote>Bruce`,
   `<blockquote>"Sometimes clouds have two sides, a dark and light, and a silver lining in between. It's like a silver sandwich. So when life gets hard, just take a bite out of the silver sandwich."</blockquote> Prince Zuko`,
   `<blockquote>"Cut that b<span id="blur">itch</span> out like an edit."</blockquote>A message board in Monica's appartment`,
+  `<blockquote>"B<span id="blur">ITCH</span> DON'T WEAR NO SHOES IN MY HOUSE"</blockquote>Roddy Ricch when he moves into the White House`,
+  `<blockquote>"B<span id="blur">itch</span>, real G's move in silence like lasagna"</blockquote> Lil Wayne referencing Biggie referencing Boogie Down`,
+  `<blockquote>"My lifestyle simple: Live easy and Bruce Willis <br>I’m the boss, Michael Scott, y’all b<span id="blur">itch</span>es is just Phyllis"</blockquote>Childish Gambino`,
+  `<blockquote>"I'm cuddly b<span id="blur">itch</span>. Deal with it."</blockquote>Marshall Ericsen, slam dunk champion of Nicollet County, Minnesota<br><br><img src="images/himym.gif">`,
   
 ]
 
@@ -291,7 +295,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference + 5];
 
     // for the day
     /*

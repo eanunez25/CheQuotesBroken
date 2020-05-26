@@ -122,6 +122,7 @@ let cheQuotes = [
   `<blockquote>"B<span id="blur">itch</span>, real G's move in silence like lasagna"</blockquote> Lil Wayne referencing Biggie referencing Boogie Down`,
   `<blockquote>"My lifestyle simple: Live easy and Bruce Willis <br>I’m the boss, Michael Scott, y’all b<span id="blur">itch</span>es is just Phyllis"</blockquote>Childish Gambino`,
   `<blockquote>"I'm cuddly b<span id="blur">itch</span>. Deal with it."</blockquote>Marshall Ericsen, slam dunk champion of Nicollet County, Minnesota<br><br><img src="images/himym.gif">`,
+  `<blockquote>"Eat pasta, run fasta."</blockquote>`,
   
 ]
 

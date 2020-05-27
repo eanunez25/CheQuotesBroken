@@ -124,6 +124,7 @@ let cheQuotes = [
   `<blockquote>"I'm cuddly b<span id="blur">itch</span>. Deal with it."</blockquote>Marshall Ericsen, slam dunk champion of Nicollet County, Minnesota<br><br><img src="images/himym.gif">`,
   `<blockquote>"Eat pasta, run fasta."</blockquote>`,
   `<blockquote>"Every pizza is a personal pizza if you try hard and believe in yourself."</blockquote>Bill Murray`,
+  `<blockquote>"Poor friends are the worst friends."</blockquote>Maurice Marroquin`,
   
 ]
 

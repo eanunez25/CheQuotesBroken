@@ -221,6 +221,12 @@ let cincodeMayoGreetings = [
   "Happy Cinco de Mayo",
 ]
 
+let learnAboutCompostingDay = []
+let times = 20
+for(let i = 0; i < times; i++) {
+  learnAboutCompostingDay.push("Happy Learn About Composting Day")
+}
+
 
 
 //  nicknames------------------------------------------------------------------------
@@ -273,8 +279,9 @@ timebasedGreeting = () =>{
     let dayofMonth = new Date().getDate();
     if (month == 5 && dayofMonth == 5) {
       timebasedArray = timebasedArray.concat(cincodeMayoGreetings);
+    } else if (month == 5 && dayofMonth == 28) {
+      timebasedArray = timebasedArray.concat(learnAboutCompostingDay)
     }
-
     return timebasedArray;
 }
 

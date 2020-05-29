@@ -125,7 +125,7 @@ let cheQuotes = [
   `<blockquote>"Eat pasta, run fasta."</blockquote>`,
   `<blockquote>"Every pizza is a personal pizza if you try hard and believe in yourself."</blockquote>Bill Murray`,
   `<blockquote>"Poor friends are the worst friends."</blockquote>Maurice Marroquin`,
-  
+  `<blockquote>"Careful you could puncture the hull of an empire class fire nation battleship leaving thousands to drown at sea."</blockquote>Princess Azula on dressing sharply<br><br><img src="images/azula.gif">`,
 ]
 
 
@@ -279,7 +279,7 @@ timebasedGreeting = () =>{
     let dayofMonth = new Date().getDate();
     if (month == 5 && dayofMonth == 5) {
       timebasedArray = timebasedArray.concat(cincodeMayoGreetings);
-    } else if (month == 5 && dayofMonth == 28) {
+    } else if (month == 5 && dayofMonth == 29) {
       timebasedArray = timebasedArray.concat(learnAboutCompostingDay)
     }
     return timebasedArray;

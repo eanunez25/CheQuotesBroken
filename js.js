@@ -126,6 +126,7 @@ let cheQuotes = [
   `<blockquote>"Every pizza is a personal pizza if you try hard and believe in yourself."</blockquote>Bill Murray`,
   `<blockquote>"Poor friends are the worst friends."</blockquote>Maurice Marroquin`,
   `<blockquote>"Careful you could puncture the hull of an empire class fire nation battleship leaving thousands to drown at sea."</blockquote>Princess Azula on dressing sharply<br><br><img src="images/azula.gif">`,
+  `<blockquote>"You have to look within yourself to save yourself from your other self."</blockquote>Zuko, to himself`,
 ]
 
 

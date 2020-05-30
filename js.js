@@ -128,7 +128,7 @@ let cheQuotes = [
   `<blockquote>"Careful you could puncture the hull of an empire class fire nation battleship leaving thousands to drown at sea."</blockquote>Princess Azula on dressing sharply<br><br><img src="images/azula.gif">`,
   `<blockquote>"We need a riot. You wouldn't happen to know how to start one, would you?"</blockquote>Sokka, like MLK, knew of the neccessity of riots for the plight of timely justice and freedom`,
   `<blockquote>"You have to look within yourself to save yourself from your other self."</blockquote>Zuko, to himself`,
-
+  `<strong>Toph:</strong> <i>Did you at least get some good meat?</i><br><br><strong>Sokka:</strong> <i>I did. The best meat of all. The meat of friendship and fatherhood.</i>`,
 ]
 
 

@@ -19,6 +19,7 @@ let toBeSorted = [
   I dunno about me, but I know about you <br>
   So say hello to falsetto in three, two, swag" <br>
   -Justin Bieber on everything that's wrong with society`,
+  `<blockquote>"You can be anything you're good at. As long as they're hiring."</blockquote>Chris Rock`,
 ];
 
 let cheQuotes = [
@@ -129,6 +130,15 @@ let cheQuotes = [
   `<blockquote>"We need a riot. You wouldn't happen to know how to start one, would you?"</blockquote>Sokka, like MLK, knew of the neccessity of riots for the plight of timely justice and freedom`,
   `<blockquote>"You have to look within yourself to save yourself from your other self."</blockquote>Zuko, to himself`,
   `<strong>Toph:</strong> <i>Did you at least get some good meat?</i><br><br><strong>Sokka:</strong> <i>I did. The best meat of all. The meat of friendship and fatherhood.</i>`,
+  `<blockquote>"I want to live in a world where an equal amount of white kids are shot."</blockquote>Chris Rock`,
+  `<blockquote>
+    What's good good? And what's good evil? <br>
+    And what's good gangstas? And what's good people?<br>
+    And why God phone die every time that I call on Him?<br>
+    If his son had a Twitter, wonder if I would follow Him<br>
+  </blockquote>Chance the Rapper<br><br>This lyrical genius plays on a popular form of greeting while questioning the binary nature of human
+  morality. What makes up goodness when destructive people still exist? Gun violence and police brutality Black America experiences is unanimously wrong and yet, still eludes faith. Proper self reflection is indespensable.`,
+  
 ]
 
 

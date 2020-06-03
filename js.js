@@ -137,6 +137,8 @@ let cheQuotes = [
     And why God phone die every time that I call on Him?<br>
     If his son had a Twitter, wonder if I would follow Him<br>
   </blockquote>Chance the Rapper`,
+  `<blockquote>"This is not the time for us to lecture. It is time for us to listen."</blockquote>George W. Bush, black revolutionist <br>
+  George Bush was so bad, he gave us Obama`,
   
 ]
 

@@ -136,8 +136,7 @@ let cheQuotes = [
     And what's good gangstas? And what's good people?<br>
     And why God phone die every time that I call on Him?<br>
     If his son had a Twitter, wonder if I would follow Him<br>
-  </blockquote>Chance the Rapper<br><br>This lyrical genius plays on a popular form of greeting while questioning the binary nature of human
-  morality. What makes up goodness when destructive people still exist? Gun violence and police brutality Black America experiences is unanimously wrong and yet, still eludes faith. Proper self reflection is indespensable.`,
+  </blockquote>Chance the Rapper`,
   
 ]
 

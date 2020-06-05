@@ -139,6 +139,13 @@ let cheQuotes = [
   </blockquote>Chance the Rapper`,
   `<blockquote>"This is not the time for us to lecture. It is time for us to listen."</blockquote>George W. Bush, black revolutionist <br>
   George Bush was so bad, he gave us Obama`,
+  `<blockquote>Bob is sitting at the dinner table.<br>
+  Everyone else gets a plate of food except Bob.<br>
+  Bob says "Bob deserves food".<br>
+  Everyone at the table responds with "Everyone deserves food" and continues eating.<br>
+  Although Everyone Deserves Food is a true statement, <br>
+  it does nothing to actually rectify the fact that Bob has no food.
+  </blockquote>`,
   
 ]
 

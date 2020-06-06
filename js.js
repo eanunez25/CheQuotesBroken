@@ -20,6 +20,7 @@ let toBeSorted = [
   So say hello to falsetto in three, two, swag" <br>
   -Justin Bieber on everything that's wrong with society`,
   `<blockquote>"You can be anything you're good at. As long as they're hiring."</blockquote>Chris Rock`,
+  `"You know a wise man once said nothing at all" Drake`,
 ];
 
 let cheQuotes = [
@@ -146,7 +147,10 @@ let cheQuotes = [
   Although Everyone Deserves Food is a true statement, <br>
   it does nothing to actually rectify the fact that Bob has no food.
   </blockquote>`,
-  
+  `<blockquote>
+    I have a dream! That white people, and black people... and even Chinese people <br>
+    can gamble together without getting different chips!
+  </blockquote>Detective James Carter, LAPD`,
 ]
 
 

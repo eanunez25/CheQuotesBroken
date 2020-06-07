@@ -21,6 +21,7 @@ let toBeSorted = [
   -Justin Bieber on everything that's wrong with society`,
   `<blockquote>"You can be anything you're good at. As long as they're hiring."</blockquote>Chris Rock`,
   `"You know a wise man once said nothing at all" Drake`,
+  `"Never follow anyone else's path. Unless you're in the woods and you're lost and you see a path. Then by all means follow tht path." -Elen Degeneres`,
 ];
 
 let cheQuotes = [
@@ -151,6 +152,7 @@ let cheQuotes = [
     I have a dream! That white people, and black people... and even Chinese people <br>
     can gamble together without getting different chips!
   </blockquote>Detective James Carter, LAPD`,
+  `<blockquote>"I've been called worse on the basketball court."</blockquote>No Drama Obama`,
 ]
 
 

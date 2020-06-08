@@ -153,6 +153,13 @@ let cheQuotes = [
     can gamble together without getting different chips!
   </blockquote>Detective James Carter, LAPD`,
   `<blockquote>"I've been called worse on the basketball court."</blockquote>No Drama Obama`,
+ ` <blockquote>My wife says I can't be a spy,<br>
+  that I have to be home for dinner.<br>
+  The truth is I am a driver. <br>
+  Nothing more. <br>
+  This is my destiny. <br>
+  I will never know what it's like to be an American, <br>
+  never know what it feels like to kill for no reason.</blockquote>George`,
 ]
 
 

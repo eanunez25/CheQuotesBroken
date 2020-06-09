@@ -160,6 +160,16 @@ let cheQuotes = [
   This is my destiny. <br>
   I will never know what it's like to be an American, <br>
   never know what it feels like to kill for no reason.</blockquote>George`,
+  `<blockquote>Fool me one time, shame on you<br>
+  Fool me twice, can't put the blame on you<br>
+  Fool me three times, f<span id="blur">uc</span>k the peace signs<br>
+  Load the chopper, let it rain on you</blockquote>J. Cole, graduated high school with a 4.2 GPA, <br>
+  attended St. John University on scholarship,<br>
+  served as president of a Pan-African student coalition,<br>
+  graduated with a magna cum laude in communication and business,<br>
+  didn't receive his diploma because of overdue library fees,<br>
+  performed a concert on campus 8 years later where he finally got his degree, <br>
+  and got triple platinum, back to back to back, no features`,
 ]
 
 

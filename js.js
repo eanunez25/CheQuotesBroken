@@ -170,6 +170,7 @@ let cheQuotes = [
   didn't receive his diploma because of overdue library fees,<br>
   performed a concert on campus 8 years later where he finally got his degree, <br>
   and got triple platinum, back to back to back, no features`,
+  `<blockquote>"Fondue is not a good date food."</blockquote>James`,
 ]
 
 

@@ -171,6 +171,7 @@ let cheQuotes = [
   performed a concert on campus 8 years later where he finally got his degree, <br>
   and got triple platinum, back to back to back, no features`,
   `<blockquote>"Fondue is not a good date food."</blockquote>James`,
+  `<blockquote>"I just want ramen."</blockquote>James`,
 ]
 
 

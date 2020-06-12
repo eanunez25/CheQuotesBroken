@@ -173,6 +173,8 @@ let cheQuotes = [
   `<blockquote>"Fondue is not a good date food."</blockquote>James`,
   `<blockquote>"I just want ramen."</blockquote>James`,
   `<a href="https://www.tiktok.com/@complex/video/6836791159163997446">PeacEfUl bLACK PROTeSTeR gETS gUNNED DoWN ON stReeT by NAtIonal guArD</a>`,
+  `<blockquote>"Do dogs see police dogs and think 'oh no, its the cops'"</blockquote>El Arroyo, Elvin approved restaurant in Austin`
+
 ]
 
 

@@ -172,6 +172,7 @@ let cheQuotes = [
   and got triple platinum, back to back to back, no features`,
   `<blockquote>"Fondue is not a good date food."</blockquote>James`,
   `<blockquote>"I just want ramen."</blockquote>James`,
+  `<a href="https://www.tiktok.com/@complex/video/6836791159163997446">PeacEfUl bLACK PROTeSTeR gETS gUNNED DoWN ON stReeT by NAtIonal guArD</a>`,
 ]
 
 

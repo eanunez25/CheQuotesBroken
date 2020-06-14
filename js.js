@@ -21,7 +21,7 @@ let toBeSorted = [
   -Justin Bieber on everything that's wrong with society`,
   `<blockquote>"You can be anything you're good at. As long as they're hiring."</blockquote>Chris Rock`,
   `"You know a wise man once said nothing at all" Drake`,
-  `"Never follow anyone else's path. Unless you're in the woods and you're lost and you see a path. Then by all means follow tht path." -Elen Degeneres`,
+  
 ];
 
 let cheQuotes = [
@@ -173,7 +173,9 @@ let cheQuotes = [
   `<blockquote>"Fondue is not a good date food."</blockquote>James`,
   `<blockquote>"I just want ramen."</blockquote>James`,
   `<a href="https://www.tiktok.com/@complex/video/6836791159163997446">PeacEfUl bLACK PROTeSTeR gETS gUNNED DoWN ON stReeT by NAtIonal guArD</a>`,
-  `<blockquote>"Do dogs see police dogs and think 'oh no, its the cops'"</blockquote>El Arroyo, Elvin approved restaurant in Austin`
+  `<blockquote>"Do dogs see police dogs and think 'oh no, its the cops'"</blockquote>El Arroyo, Elvin approved restaurant in Austin`,
+  `<blockquote>"Never follow anyone else's path. Unless you're in the woods and you're lost and you see a path. Then by all means follow tht path."</blockquote>Elen Degeneres`,
+
 
 ]
 

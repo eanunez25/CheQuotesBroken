@@ -175,6 +175,7 @@ let cheQuotes = [
   `<a href="https://www.tiktok.com/@complex/video/6836791159163997446">PeacEfUl bLACK PROTeSTeR gETS gUNNED DoWN ON stReeT by NAtIonal guArD</a>`,
   `<blockquote>"Do dogs see police dogs and think 'oh no, its the cops'"</blockquote>El Arroyo, Elvin approved restaurant in Austin`,
   `<blockquote>"Never follow anyone else's path. Unless you're in the woods and you're lost and you see a path. Then by all means follow tht path."</blockquote>Elen Degeneres`,
+  `<blockquote>"Lebenslanger schicksalsschatz is not something that develops over time. It is something that happens instantaneously. It courses through you like the water of a river after a storm, filling you and emptying you all at once. You feel it throughout your body, in your hands, in your heart, in your stomach, in your skin... have you ever felt this way about someone?"</blockquote>Klaus`,
 
 
 ]

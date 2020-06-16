@@ -176,6 +176,29 @@ let cheQuotes = [
   `<blockquote>"Do dogs see police dogs and think 'oh no, its the cops'"</blockquote>El Arroyo, Elvin approved restaurant in Austin`,
   `<blockquote>"Never follow anyone else's path. Unless you're in the woods and you're lost and you see a path. Then by all means follow tht path."</blockquote>Elen Degeneres`,
   `<blockquote>"Lebenslanger schicksalsschatz is not something that develops over time. It is something that happens instantaneously. It courses through you like the water of a river after a storm, filling you and emptying you all at once. You feel it throughout your body, in your hands, in your heart, in your stomach, in your skin... have you ever felt this way about someone?"</blockquote>Klaus`,
+  `<blockquote>I miss the old Kanye<br>
+  straight from the Go Kanye<br>
+  Chop up the soul Kanye<br>
+  set on his goals Kanye<br>
+  I hate the new Kanye<br>
+  the bad mood Kanye<br>
+  The always rude Kanye<br>
+  spaz in the news Kanye<br>
+  I miss the sweet Kanye<br>
+  chop up the beats Kanye<br>
+  I gotta say, at that time I'd like to meet Kanye<br>
+  See, I invented Kanye<br>
+  it wasn't any Kanyes<br>
+  And now I look and look around and there's so many Kanyes<br>
+  I used to love Kanye<br>
+  I used to love Kanye<br>  
+  I even had the pink polo, I thought I was Kanye<br>
+  What if Kanye made a song about Kanye<br>
+  Called "I Miss The Old Kanye"?<br>
+  Man, that'd be so Kanye<br>
+  That's all it was Kanye<br>
+  we still love Kanye<br>
+  And I love you like Kanye loves Kanye</blockquote>Kanye`,
 
 
 ]

@@ -198,7 +198,7 @@ let cheQuotes = [
   Man, that'd be so Kanye<br>
   That's all it was Kanye<br>
   we still love Kanye<br>
-  And I love you like Kanye loves Kanye</blockquote>Kanye`,
+  And I love you like Kanye loves Kanye</blockquote>Kanye<br>`,
 
 
 ]

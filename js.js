@@ -199,7 +199,7 @@ let cheQuotes = [
   That's all it was Kanye<br>
   we still love Kanye<br>
   And I love you like Kanye loves Kanye</blockquote>Kanye<br>`,
-  `<blockquote>"Strawberries are only soft because they are red. Its the opposite color of the sun, which is the harest thing in space. That's why I do this."</blockquote>Zac Efron`,
+  `<blockquote>"Strawberries are only soft because they are red. Its the opposite color of the sun, which is the hardest thing in space. That's why I do this."</blockquote>Zac Efron`,
 
 
 ]

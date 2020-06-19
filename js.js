@@ -202,6 +202,12 @@ let cheQuotes = [
   `<blockquote>"Strawberries are only soft because they are red. Its the opposite color of the sun, which is the hardest thing in space. That's why I do this."</blockquote>Zac Efron`,
   `Anything Iroh said`,
   `<blockquote>"I believe in God but I also believe He abandoned us long ago. Which i understand. I would abandon my kids too if they were still racist at age 225,000."</blockquote>Geoffrey Asmus`,
+  `<blockquote>Good sex<br>
+  No stress<br>
+  One boo <br>
+  No ex <br>
+  Small circle <br>
+  Big checks</blockquote>Some shirt I ordered and never got`,
 
 
 ]

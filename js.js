@@ -208,6 +208,8 @@ let cheQuotes = [
   No ex <br>
   Small circle <br>
   Big checks</blockquote>Some shirt I ordered and never got`,
+  `<blockquote>If I was out flashin' my dollas<br>
+  I'd be a b<span id="blur">itch</span>, not a baller</blockquote>T-Swizzle`,
 
 
 ]
@@ -390,7 +392,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+1];
 
     // for the day
     /*

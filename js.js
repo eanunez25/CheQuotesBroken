@@ -210,6 +210,13 @@ let cheQuotes = [
   Big checks</blockquote>Some shirt I ordered and never got`,
   `<blockquote>If I was out flashin' my dollas<br>
   I'd be a b<span id="blur">itch</span>, not a baller</blockquote>T-Swizzle`,
+  `<blockquote>Growing up, we were taught that the <s>Fire Nation</s> United States was the greatest civilization in history
+  and somehow, <s>the war</s> our freedom was our way of sharing our greatness with the rest of the world. <br>
+  What an amazing lie that was. <br>
+  The people of the world are terrified by the <s>Fire Nation</s> United States! <br>
+  They don't see our greatness, they hate us! And we deserve it. <br>
+  And if we don't want the world to destroy itself, <br>
+  we need to replace it with an era of peace and kindness.</blockquote>Zuko`
 
 
 ]

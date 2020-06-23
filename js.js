@@ -216,7 +216,11 @@ let cheQuotes = [
   The people of the world are terrified by the <s>Fire Nation</s> United States! <br>
   They don't see our greatness, they hate us! And we deserve it. <br>
   And if we don't want the world to destroy itself, <br>
-  we need to replace it with an era of peace and kindness.</blockquote>Zuko`
+  we need to replace it with an era of peace and kindness.</blockquote>Zuko`,
+  `<blockquote>I know up on top <br>
+  you are seeing great sights, <br>
+  but down here at the botton, <br>
+  we, too, should have rights.</blockquote>Dr. Seuss`,
 
 
 ]

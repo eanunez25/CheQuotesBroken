@@ -224,6 +224,7 @@ let cheQuotes = [
   `<blockquote>Play nice with the other kids. <br>
   Unless one of the other kids want to fight, <br>
   then you have to kick the other kid's butt</blockquote>Mushu`,
+  `<blockquote>Thick thighs save lives</blockquote>Melissa Viviane Jefferson "Lizzo"`,
 
 
 ]

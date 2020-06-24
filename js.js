@@ -221,6 +221,9 @@ let cheQuotes = [
   you are seeing great sights, <br>
   but down here at the botton, <br>
   we, too, should have rights.</blockquote>Dr. Seuss`,
+  `<blockquote>Play nice with the other kids. <br>
+  Unless one of the other kids want to fight, <br>
+  then you have to kick the other kid's butt</blockquote>Mushu`,
 
 
 ]

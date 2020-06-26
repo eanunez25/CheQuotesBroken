@@ -225,6 +225,8 @@ let cheQuotes = [
   Unless one of the other kids want to fight, <br>
   then you have to kick the other kid's butt</blockquote>Mushu`,
   `<blockquote>Thick thighs save lives</blockquote>Melissa Viviane Jefferson "Lizzo"`,
+  `<blockquote>Like a sprained ankle, boy, I ain't nothin' to play with</blockquote>Drake, after hurting his knee playing basketball, further injuring it on stage, and getting surgery `,
+  `<blockquote>Monday, Tuesday, Wednesday and Thursday. Friday, Saturday, Saturday and Sunday. </blockquote>Black Eyed Peas`,
 
 
 ]

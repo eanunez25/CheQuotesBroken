@@ -21,6 +21,7 @@ let toBeSorted = [
   -Justin Bieber on everything that's wrong with society`,
   `<blockquote>"You can be anything you're good at. As long as they're hiring."</blockquote>Chris Rock`,
   `"You know a wise man once said nothing at all" Drake`,
+  `"Wish Corona Virus cam early so Kobe can stay inside his house"`,
   
 ];
 
@@ -227,6 +228,18 @@ let cheQuotes = [
   `<blockquote>Thick thighs save lives</blockquote>Melissa Viviane Jefferson "Lizzo"`,
   `<blockquote>Like a sprained ankle, boy, I ain't nothin' to play with</blockquote>Drake, after hurting his knee playing basketball, further injuring it on stage, and getting surgery `,
   `<blockquote>Monday, Tuesday, Wednesday and Thursday. Friday, Saturday, Saturday and Sunday. </blockquote>Black Eyed Peas`,
+  `<blockquote>Getting married isn't going to make your relationship better. It's just a ceremony.</blockquote>Row Lowe`, 
+  `<blockquote>Anytime I ask my husband to do anything, he suddenly has to poop.</blockquote>`,
+  `<blockquote>Nowadays it's hip not to be married</blockquote>John Lennon`,
+  `<blockquote>I'm not interested in being hip</blockquote>John Lennon`,
+  `<blockquote>Getting married was a ball. Being married was a nightmare.</blockquote>Kid Rock`,
+  `<blockquote>I'm not having jitters. <br>
+  It just occurs to me that once I put this tie on, <br> 
+  I can never take it off. <br>
+  I have to wear this tie forever and ever. </blockquote>The Barnacle`,
+  `<blockquote>Marriage is hard man. Marriage is so hard, Nelson Mandela got a divorce. <br>
+  Nelson Mandela spent 27 years in a South African prison getting tortured and beaten everyday of his life for 27 straight years .He got out of jail, spent 6 months with his wife, and said "I can't this sh<span id="blur">i</span>t!"</blockquote>Chris Rock`,
+
 
 
 ]

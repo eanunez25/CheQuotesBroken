@@ -232,7 +232,6 @@ let cheQuotes = [
   `<blockquote>Anytime I ask my husband to do anything, he suddenly has to poop.</blockquote>`,
   `<blockquote>Nowadays it's hip not to be married</blockquote>John Lennon`,
   `<blockquote>I'm not interested in being hip</blockquote>John Lennon`,
-  `<blockquote>Getting married was a ball. Being married was a nightmare.</blockquote>Kid Rock`,
   `<blockquote>I'm not having jitters. <br>
   It just occurs to me that once I put this tie on, <br> 
   I can never take it off. <br>

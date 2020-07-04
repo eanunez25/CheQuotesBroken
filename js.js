@@ -238,6 +238,12 @@ let cheQuotes = [
   I have to wear this tie forever and ever. </blockquote>The Barnacle`,
   `<blockquote>Marriage is hard man. Marriage is so hard, Nelson Mandela got a divorce. <br>
   Nelson Mandela spent 27 years in a South African prison getting tortured and beaten everyday of his life for 27 straight years .He got out of jail, spent 6 months with his wife, and said "I can't take this sh<span id="blur">i</span>t!"</blockquote>Chris Rock`,
+  `<blockquote>G
+  Maybe Jesus was black <br>
+  Maybe Jesus had dreads <br>
+  Spiderman should be back <br>
+  I vote for Glover instead
+  </blockquote>Logic`,
 
 
 

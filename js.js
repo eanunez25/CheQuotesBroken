@@ -238,12 +238,26 @@ let cheQuotes = [
   I have to wear this tie forever and ever. </blockquote>The Barnacle`,
   `<blockquote>Marriage is hard man. Marriage is so hard, Nelson Mandela got a divorce. <br>
   Nelson Mandela spent 27 years in a South African prison getting tortured and beaten everyday of his life for 27 straight years .He got out of jail, spent 6 months with his wife, and said "I can't take this sh<span id="blur">i</span>t!"</blockquote>Chris Rock`,
-  `<blockquote>G
+  `<blockquote>
   Maybe Jesus was black <br>
   Maybe Jesus had dreads <br>
   Spiderman should be back <br>
   I vote for Glover instead
   </blockquote>Logic`,
+  `<blockquote>亡羊补牢</blockquote>
+  An ancient Chinese proverb that translates to: 
+  <blockquote>Better late than never</blockquote>
+  But some translate it as:
+  <blockquote>To lock the gate after the horse has bolted</blockquote>
+  Or simply:
+  <blockquote>To act too late</blockquote>
+  However, some argue the loose interpretation:
+  <blockquote>You should still take the time to mend the gate even after you've lost a sheep, because the wolf may return tonight.</blockquote>
+  After further digging, I've come to this:
+  <blockquote> 见兔而顾犬，未为晚也；亡羊则补牢，未为迟也。</blockquote>
+  Or
+  <blockquote>It is not too late to see the rabbit and look at the dog; it is not too late to die for the dead sheep.</blockquote>
+  <br>Make of that what you will`,
 
 
 

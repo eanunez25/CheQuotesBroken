@@ -258,6 +258,19 @@ let cheQuotes = [
   Or
   <blockquote>It is not too late to see the rabbit and look at the dog; it is not too late to die for the dead sheep.</blockquote>
   <br>Make of that what you will`,
+  `<blockquote>
+  Oh I wouldn't think it funny <br>
+  If you beat upon a bat <br>
+  And I'd never punch a bunny <br>
+  Or a puppy <br>
+  Or a cat <br></br>
+  I would think that it's a pity <br>
+  If you ever hit a frog <br>
+  And I wouldn't kill a kitty <br>
+  Or a piggy <br>
+  Or a dog.  <br></br>
+  'Cept mosquitoes.  <br>
+  They can die. </blockquote>Poem_for_your_sprog`,
 
 
 

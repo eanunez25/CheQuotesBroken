@@ -276,6 +276,12 @@ let cheQuotes = [
   I wraps my hair<br>
   Around my bare,<br>
   And down the road I goes. </blockquote>Shel Silverstein`,
+  `<blockquote>
+  I love Canes, it's chicken tender delight,<br>
+  More than Edward loves Bella in Twilight.<br></br>
+  Freshly squeezed lemonade and a Caniac Combo<br>
+  Satisfying like a Kobe (RIP) free throw.<br></br>
+  I'm hungry. Thanks for the f<span id="blur">uck</span>ing invite.</blockquote>`,
 
 
 

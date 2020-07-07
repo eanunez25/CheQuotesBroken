@@ -271,6 +271,11 @@ let cheQuotes = [
   Or a dog.  <br></br>
   'Cept mosquitoes.  <br>
   They can die. </blockquote>Poem_for_your_sprog`,
+  `<blockquote>My beard grows to my toes<br>
+  I never wear no clothes,<br>
+  I wraps my hair<br>
+  Around my bare,<br>
+  And down the road I goes. </blockquote>Shel Silverstein`,
 
 
 

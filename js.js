@@ -282,6 +282,9 @@ let cheQuotes = [
   Fresh lemonade and a Caniac Combo<br>
   Satisfying like a Kobe free throw.<br></br>
   I'm hungry. Thanks for the f<span id="blur">uck</span>ing invite.</blockquote>`,
+  `<blockquote>
+  Secrets secrets are no fun <br>
+  Secrets secrets hurt someone </blockquote>Some stripper`,
 
 
 

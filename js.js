@@ -279,8 +279,8 @@ let cheQuotes = [
   `<blockquote>
   I love Canes, it's chicken tender delight,<br>
   More than Edward loves Bella in Twilight.<br></br>
-  Freshly squeezed lemonade and a Caniac Combo<br>
-  Satisfying like a Kobe (RIP) free throw.<br></br>
+  Fresh lemonade and a Caniac Combo<br>
+  Satisfying like a Kobe free throw.<br></br>
   I'm hungry. Thanks for the f<span id="blur">uck</span>ing invite.</blockquote>`,
 
 

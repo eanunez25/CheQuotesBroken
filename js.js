@@ -285,6 +285,9 @@ let cheQuotes = [
   `<blockquote>
   Secrets secrets are no fun <br>
   Secrets secrets hurt someone </blockquote>Some stripper`,
+  `<blockquote>Squish squash, sling that slang.<br>
+  I'm always right back at you <br>
+  Like my boomerang.</blockquote>Sokka`,
 
 
 

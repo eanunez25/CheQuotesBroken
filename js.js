@@ -288,6 +288,10 @@ let cheQuotes = [
   `<blockquote>Squish squash, sling that slang.<br>
   I'm always right back at you <br>
   Like my boomerang.</blockquote>Sokka`,
+  `<blockquote>Roses are red<br>
+  Violets are blue<br>
+  If he's busy on Saturday<br>
+  The side chick is you</blockquote>`,
 
 
 

@@ -292,6 +292,8 @@ let cheQuotes = [
   Violets are blue<br>
   If he's busy on Saturday<br>
   The side chick is you</blockquote>`,
+  `<blockquote>Be the type of person that when your feet touch the floor in the morning the devil says,<br>
+  "Aww sh<span id="blur">i</span>t, they're up"</blockquote>The Rock<br></br><br></br>In remembrance, PO Chavez & Garza`
 
 
 

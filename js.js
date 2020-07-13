@@ -293,7 +293,24 @@ let cheQuotes = [
   If he's busy on Saturday<br>
   The side chick is you</blockquote>`,
   `<blockquote>Be the type of person that when your feet touch the floor in the morning the devil says,<br>
-  "Aww sh<span id="blur">i</span>t, they're up"</blockquote>The Rock<br></br><br></br>In remembrance, PO Chavez & Garza`
+  "Aww sh<span id="blur">i</span>t, they're up"</blockquote>The Rock<br></br><br></br>In remembrance, PO Chavez & Garza`,
+  `<h4>Things you can say during sex and a family game of Monopoly:</h1><br>
+  <blockquote>"This is taking too long"<br>
+  "Are you finished yet?"<br>
+  "Loser has to clean up"<br>
+  "How much do I owe you?"<br>
+  "It's your turn"<br>
+  "There, my rent is paid for"<br>
+  "That took forever to finish"<br>
+  "You f<span id="blur">uc</span>king cheater"<br>
+  "I'm going to jail for this"<br>
+  "If you do that, I'll divorce you"<br>
+  "You just landed on Water Works"<br>
+  "I have to mortgage my property to pay you"<br>
+  "I'm never going to recover financially from this"<br>
+  "There's no point if its just the two of us"<br>
+  "Move the dog!"<br>
+  </blockquote>`,
 
 
 

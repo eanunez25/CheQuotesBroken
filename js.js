@@ -311,10 +311,13 @@ let cheQuotes = [
   "There's no point if its just the two of us"<br>
   "Move the dog!"<br>
   </blockquote>`,
-
-
+  `<blockquote>Light bulbs were such a good idea that they became the symbol for a good idea</blockquote>Literal Elvin Shower Thoughts`,
 
 ]
+
+// categories(used) ------------------------------------------------------------------------
+
+// Literal Elvin Shower Thoughts 1
 
 
 //  greetings ------------------------------------------------------------------------

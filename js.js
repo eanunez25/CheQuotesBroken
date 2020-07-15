@@ -312,12 +312,13 @@ let cheQuotes = [
   "Move the dog!"<br>
   </blockquote>`,
   `<blockquote>Light bulbs were such a good idea that they became the symbol for a good idea</blockquote>Literal Elvin Shower Thoughts`,
+  `<blockquote>If Eminem's mom really wanted to, she can make hella money selling spaghetti</blockquote>Literal Elvin Shower Thoughs #2`
 
 ]
 
 // categories(used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts 1
+// Literal Elvin Shower Thoughts #2
 
 
 //  greetings ------------------------------------------------------------------------

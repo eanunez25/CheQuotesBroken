@@ -314,6 +314,7 @@ let cheQuotes = [
   `<blockquote>Light bulbs were such a good idea that they became the symbol for a good idea</blockquote>Literal Elvin Shower Thoughts`,
   `<blockquote>If Eminem's mom really wanted to, she can make hella money selling spaghetti</blockquote>Literal Elvin Shower Thoughs #2`,
   `<blockquote>Two people should be able to have sex like they're playing tennis</blockquote>Justin Timblerlake`,
+  `<blockquote>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.</blockquote>MLK`,
 
 ]
 

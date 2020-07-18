@@ -315,12 +315,12 @@ let cheQuotes = [
   `<blockquote>If Eminem's mom really wanted to, she can make hella money selling spaghetti</blockquote>Literal Elvin Shower Thoughs #2`,
   `<blockquote>Two people should be able to have sex like they're playing tennis</blockquote>Justin Timblerlake`,
   `<blockquote>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.</blockquote>MLK`,
-
+  `<blockquote>Coffee makes you energetic but cafes tend to be chill. Alcohol is a depressant but nightclubs are designed to be lit. wtd</blockquote>Literal Elvin Shower Thoughts #3`,
 ]
 
 // categories(used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #2
+// Literal Elvin Shower Thoughts #3
 
 
 //  greetings ------------------------------------------------------------------------

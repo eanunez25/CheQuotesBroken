@@ -316,7 +316,13 @@ let cheQuotes = [
   `<blockquote>Two people should be able to have sex like they're playing tennis</blockquote>Justin Timblerlake`,
   `<blockquote>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.</blockquote>MLK`,
   `<blockquote>Coffee makes you energetic but cafes tend to be chill. Alcohol is a depressant but nightclubs are designed to be lit. wtd</blockquote>Literal Elvin Shower Thoughts #3`,
-  `<blockquote>There is no point in being alive if you cannot do the deadlift</blockquote>Jon Pall Sigmarsson`
+  `<blockquote>There is no point in being alive if you cannot do the deadlift</blockquote>Jon Pall Sigmarsson`,
+  `<h3>Grandma Fa was woke af:</h3><br>
+  <blockquote><b>Mulan:</b> Would you like to stay for dinner?<br>
+  <b>Mulan's Grandma:</b> WOULD YOU LIKE TO STAY FOREVER?</blockquote>
+  <blockquote>Sign me up for the next war</blockquote>
+  <blockquote>How lucky can they be? They're dead *holds up Crickey*</blockquote>
+  <blockquote>BEAAAAAAAADDDSSS OF JAAAAAAAAAADE FOR BEAUTY</blockquote>`
 ]
 
 // categories(used) ------------------------------------------------------------------------

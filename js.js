@@ -322,7 +322,8 @@ let cheQuotes = [
   <b>Mulan's Grandma:</b> WOULD YOU LIKE TO STAY FOREVER?</blockquote>
   <blockquote>Sign me up for the next war</blockquote>
   <blockquote>How lucky can they be? They're dead *holds up Crickey*</blockquote>
-  <blockquote>BEAAAAAAAADDDSSS OF JAAAAAAAAAADE FOR BEAUTY</blockquote>`
+  <blockquote>BEAAAAAAAADDDSSS OF JAAAAAAAAAADE FOR BEAUTY</blockquote>`, 
+  `<blockquote>Bok bok, b<span id="blur">i</span>tch</blockquote>Constance Wu`,
 ]
 
 // categories(used) ------------------------------------------------------------------------

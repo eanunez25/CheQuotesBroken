@@ -324,6 +324,7 @@ let cheQuotes = [
   <blockquote>How lucky can they be? They're dead *holds up Crickey*</blockquote>
   <blockquote>BEAAAAAAAADDDSSS OF JAAAAAAAAAADE FOR BEAUTY</blockquote>`, 
   `<blockquote>Bok bok, b<span id="blur">i</span>tch</blockquote>Constance Wu`,
+  `<blockquote>Thousands have lived without love, not one without water.</blockquote>W. H. Auden`,
 ]
 
 // categories(used) ------------------------------------------------------------------------

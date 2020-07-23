@@ -325,6 +325,16 @@ let cheQuotes = [
   <blockquote>BEAAAAAAAADDDSSS OF JAAAAAAAAAADE FOR BEAUTY</blockquote>`, 
   `<blockquote>Bok bok, b<span id="blur">i</span>tch</blockquote>Constance Wu`,
   `<blockquote>Thousands have lived without love, not one without water.</blockquote>W. H. Auden`,
+  `<blockquote>Uh, f<span id="blur">u</span>ck, I don't f<span id="blur">u</span>ck with you<br>
+  You lil' stupid <span id="blur">a</span>ss b<span id="blur">i</span>tch, I ain't f<span id="blur">u</span>ckin' with you<br>
+  You lil', you li' dumb <span id="blur">a</span>ss b<span id="blur">i</span>tch, I ain't f<span id="blur">u</span>ckin' with you<br>
+  I got a million trillion things I'd rather f<span id="blur">u</span>ckin' do<br>
+  Than to be f<span id="blur">u</span>ckin' with you, lil' stupid <span id="blur">a</span>ss<br><br>
+  I don't give a f<span id="blur">u</span>ck, I don't give a f<span id="blur">u</span>ck<br>
+  I don't, I don't, I don't give a f<span id="blur">u</span>ck<br>
+  B<span id="blur">i</span>tch, I don't give a f<span id="blur">u</span>ck about you<br>
+  Or anything that you do<br>
+  Don't give a f<span id="blur">u</span>ck about you, or anything that you do</blockquote>Big Sean`,
 ]
 
 // categories(used) ------------------------------------------------------------------------

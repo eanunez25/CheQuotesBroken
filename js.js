@@ -336,11 +336,12 @@ let cheQuotes = [
   Or anything that you do<br>
   Don't give a f<span id="blur">u</span>ck about you, or anything that you do</blockquote>Big Sean`,
   `<blockquote>Clothed again</blockquote>That gentlemen's club on Owassa Road`,
+  `<blockquote>Aang went from "Wanna go penguin sledding with me?" to "Fire Lord Ozai, you and your forefathers have devastated the balance of this world, and now you shall pay the ultimate price" and repopulating the Air Nomads with Katara</blockquote>Literal Elvin Shower Thoughts #4`,
 ]
 
 // categories(used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #3
+// Literal Elvin Shower Thoughts #4
 
 
 //  greetings ------------------------------------------------------------------------

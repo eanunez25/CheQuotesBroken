@@ -340,7 +340,7 @@ let cheQuotes = [
   `<blockquote>If your home is hit by a dolphin, do not go out to see if the dolphin is okay. That's how hurricanes trick you into coming outside.</blockquote>Elvin's Life Pro Tips #1`,
 ]
 
-// categories(used) ------------------------------------------------------------------------
+// categories(#used) ------------------------------------------------------------------------
 
 // Literal Elvin Shower Thoughts #5
 // Elvin's Life Pro Tips #1

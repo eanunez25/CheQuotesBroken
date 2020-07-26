@@ -21,7 +21,6 @@ let toBeSorted = [
   -Justin Bieber on everything that's wrong with society`,
   `<blockquote>"You can be anything you're good at. As long as they're hiring."</blockquote>Chris Rock`,
   `"You know a wise man once said nothing at all" Drake`,
-  `"Wish Corona Virus cam early so Kobe can stay inside his house"`,
   
 ];
 
@@ -338,11 +337,13 @@ let cheQuotes = [
   `<blockquote>Clothed again</blockquote>That gentlemen's club on Owassa Road`,
   `<blockquote>Aang went from "Wanna go penguin sledding with me?" to "Fire Lord Ozai, you and your forefathers have devastated the balance of this world, and now you shall pay the ultimate price" and repopulating the Air Nomads with Katara</blockquote>Literal Elvin Shower Thoughts #4`,
   `<blockquote>I wish COVID came earlier so that Kobe would have been forced to stay inside</blockquote>Literal Elvin Shower Thoughts #5`,
+  `<blockquote>If your home is hit by a dolphin, do not go out to see if the dolphin is okay. That's how hurricanes trick you into coming outside.</blockquote>Elvin's Life Pro Tips #1`,
 ]
 
 // categories(used) ------------------------------------------------------------------------
 
 // Literal Elvin Shower Thoughts #5
+// Elvin's Life Pro Tips #1
 
 
 //  greetings ------------------------------------------------------------------------
@@ -522,7 +523,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+1];
 
     // for the day
     /*

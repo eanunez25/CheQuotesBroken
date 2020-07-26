@@ -523,7 +523,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference+1];
+    quoteBox.innerHTML = cheQuotes[dayDifference];
 
     // for the day
     /*

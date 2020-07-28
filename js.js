@@ -338,6 +338,11 @@ let cheQuotes = [
   `<blockquote>Aang went from "Wanna go penguin sledding with me?" to "Fire Lord Ozai, you and your forefathers have devastated the balance of this world, and now you shall pay the ultimate price" and repopulating the Air Nomads with Katara</blockquote>Literal Elvin Shower Thoughts #4`,
   `<blockquote>I wish COVID came earlier so that Kobe would have been forced to stay inside</blockquote>Literal Elvin Shower Thoughts #5`,
   `<blockquote>If your home is hit by a dolphin, do not go out to see if the dolphin is okay. That's how hurricanes trick you into coming outside.</blockquote>Elvin's Life Pro Tips #1`,
+  `<blockquote>Yeah, my schedules packed, I got a pool, I haven't swam in it<br>
+  I'm on a date, we watchin' Parasite, she lovin' it<br>
+  I like to keep my dates affordable<br>
+  that's why I got on Forbes' article
+  </blockquote>Rich Brian`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

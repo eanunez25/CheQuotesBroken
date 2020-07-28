@@ -343,6 +343,7 @@ let cheQuotes = [
   I like to keep my dates affordable<br>
   that's why I got on Forbes' article
   </blockquote>Rich Brian`,
+  `<blockquote>When you start to Excel, people start to spreadsheet</blockquote>@franzego13`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

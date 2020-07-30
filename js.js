@@ -346,11 +346,12 @@ let cheQuotes = [
   `<blockquote>Behold the rain which descends from heaven upon our vineyards, there it enters the roots of the vines, to be changed into wine, a constant proof that God loves us, and loves to see us happy.</blockquote>Benjamin Franklin<br><br>
   <img src="images/alcoholicche.jpg" width="300">`,
   `<blockquote>When you start to Excel, people start to spreadsheet</blockquote>@franzego13`,
+  `<blockquote>One Direction > Jonas Brothers</blockquote>Literal Elvin Shower Thoughts #6`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #5
+// Literal Elvin Shower Thoughts #6
 // Elvin's Life Pro Tips #1
 
 

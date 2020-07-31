@@ -346,7 +346,35 @@ let cheQuotes = [
   `<blockquote>Behold the rain which descends from heaven upon our vineyards, there it enters the roots of the vines, to be changed into wine, a constant proof that God loves us, and loves to see us happy.</blockquote>Benjamin Franklin<br><br>
   <img src="images/alcoholicche.jpg" width="300">`,
   `<blockquote>When you start to Excel, people start to spreadsheet</blockquote>@franzego13`,
-  ``,
+  `<h3>God's Favorite Spreadable Food</h3><br>
+  <blockquote>
+  Endless green grass and infinite thrill<br>
+  A heavenly park, where time stands still<br><br>
+
+  Nutella can run and happily for days<br>
+  No mean dogs to tell her to wear pink on Wednesdays<br><br>
+
+  She never understood  how long an hour was<br>
+  And probably hated watching Che’s k-dramas<br><br>
+
+  Yet she lived a loved live with fam and friends<br>
+  Helped Che study rap lyrics and eye lens<br><br>
+
+  Whenever you visit and knock at the door<br>
+  It was tippy taps, kisses, and cuddles galore<br><br>
+
+  A fighter and lover, she protec and she attac<br>
+  She would bark on command and she indeed did clap back<br><br>
+
+  Man’s best friend, a loyalty that’s tried and true<br>
+  Nutella was more dazzling than Rachael’s debut<br><br>
+
+  Our four-legged friend left us in sorrow and too early<br>
+  Yet we can only feel grateful like Nemo was for Dory<br><br>
+
+  Her unconditional love had us all feeling blessed<br>
+  So its true what they say, God only takes the best
+  </blockquote>Elvin`,
   `<blockquote>One Direction > Jonas Brothers</blockquote>Literal Elvin Shower Thoughts #6`,
 ]
 

@@ -375,6 +375,7 @@ let cheQuotes = [
   Her unconditional love had us all feeling blessed<br>
   So its true what they say, God only takes the best
   </blockquote>Elvin`,
+  
   `<blockquote>One Direction > Jonas Brothers</blockquote>Literal Elvin Shower Thoughts #6`,
 ]
 
@@ -416,7 +417,7 @@ let afternoonGreetings = [
   "Good Afternoon",
   "It's Lunch Time", 
   "Grind Time", 
-  "Walk Nutella",
+  // "Walk Nutella",
 ]
 
 let nightGreetings = [
@@ -495,7 +496,7 @@ let nicknames = [
   "Rachael",
   "Lumba",
   "Future Optometrist",
-  "Nutella's Human",
+  // "Nutella's Human",
   "Che Che",
   "Forehead",
   "Elvin's Secretary",

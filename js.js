@@ -375,8 +375,10 @@ let cheQuotes = [
   Her unconditional love had us all feeling blessed<br>
   So its true what they say, God only takes the best
   </blockquote>Elvin`,
-  
+
   `<blockquote>One Direction > Jonas Brothers</blockquote>Literal Elvin Shower Thoughts #6`,
+  
+  `<blockquote>Have you ever seen a crack head say: "I have no money. I am not going to smoke today." No. They always find a way.</blockquote>A whiteboard at a doctor's office`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

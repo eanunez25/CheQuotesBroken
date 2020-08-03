@@ -497,6 +497,12 @@ for(let i = 0; i < neemTimes; i++) {
   nationalEyeExamMonth.push("It's National Eye Exam Month")
 }
 
+let zucchiniDay = []
+let zdTimes = 1000
+for(let i = 0; i < neemTimes; i++) {
+  zucchiniDay.push("It's National Sneak Some Zucchini Onto Your Neighbor's Porch Day")
+}
+
 
 
 //  nicknames------------------------------------------------------------------------
@@ -545,6 +551,7 @@ timebasedGreeting = () =>{
         timebasedArray =timebasedArray.concat(fridayGreetings);
     }
 
+    // holidays ------------------------------------------------------------------------
     let month = new Date().getMonth() + 1;
     let dayofMonth = new Date().getDate();
     if (month == 5 && dayofMonth == 5) {
@@ -553,6 +560,8 @@ timebasedGreeting = () =>{
       timebasedArray = timebasedArray.concat(learnAboutCompostingDay)
     } else if (month == 8) {
       timebasedArray = timebasedArray.concat(nationalEyeExamMonth)
+    } else if (month == 8 && dayofMonth == 8) {
+      timebasedArray = timebasedArray.concat(zucchiniDay)
     }
     return timebasedArray;
 }
@@ -578,20 +587,6 @@ dayDifference = (today - launchDate) / day;
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
     quoteBox.innerHTML = cheQuotes[dayDifference];
-
-    // for the day
-    /*
-    let time2 = new Date().getDay();
-    if (time2 == 6) {
-        let linebreak = document.createElement("br");
-        let link = document.createElement("a");
-        link.innerHTML = "Trainwreck link (might have pop-ups, welp)";
-        const box = document.querySelector(".quote-box")
-        box.appendChild(linebreak);
-        link.href = "https://soap2day.is/movie_aTo1OTI7.html";
-        box.appendChild(link);
-    }
-    */
 }
 todaysQuote();
 

@@ -491,6 +491,12 @@ for(let i = 0; i < times; i++) {
   learnAboutCompostingDay.push("Happy Learn About Composting Day")
 }
 
+let nationalEyeExamMonth = []
+let neemTimes = 1000
+for(let i = 0; i < neemTimes; i++) {
+  nationalEyeExamMonth.push("It's National Eye Exam Month")
+}
+
 
 
 //  nicknames------------------------------------------------------------------------
@@ -545,6 +551,8 @@ timebasedGreeting = () =>{
       timebasedArray = timebasedArray.concat(cincodeMayoGreetings);
     } else if (month == 5 && dayofMonth == 29) {
       timebasedArray = timebasedArray.concat(learnAboutCompostingDay)
+    } else if (month == 8) {
+      timebasedArray = timebasedArray.concat(nationalEyeExamMonth)
     }
     return timebasedArray;
 }

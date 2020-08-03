@@ -379,11 +379,16 @@ let cheQuotes = [
   `<blockquote>One Direction > Jonas Brothers</blockquote>Literal Elvin Shower Thoughts #6`,
   
   `<blockquote>Have you ever seen a crack head say: "I have no money. I am not going to smoke today." No. They always find a way.</blockquote>A whiteboard at a doctor's office`,
+
+  `<blockquote>  2020 - 1776 = 244<br></br>
+  24 / 244 = 9.8%<br></br>
+  At 24, we've been alive for 10% of the US's history.
+  </blockquote>Literal Elvin Shower Thoughts #7`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #6
+// Literal Elvin Shower Thoughts #7
 // Elvin's Life Pro Tips #1
 
 

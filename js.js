@@ -384,6 +384,8 @@ let cheQuotes = [
   24 / 244 = 9.8%<br></br>
   At 24, we've been alive for 10% of the US's history.
   </blockquote>Literal Elvin Shower Thoughts #7`,
+  
+  `<blockquote>I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle</blockquote>Kanye`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -492,7 +494,7 @@ for(let i = 0; i < times; i++) {
 }
 
 let nationalEyeExamMonth = []
-let neemTimes = 1000
+let neemTimes = 10
 for(let i = 0; i < neemTimes; i++) {
   nationalEyeExamMonth.push("It's National Eye Exam Month")
 }

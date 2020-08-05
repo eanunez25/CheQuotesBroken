@@ -392,11 +392,21 @@ let cheQuotes = [
     I think it's like sort of really progressive and innovative. I think at the forefront of that movement of music that should be forgotten about is Lil Yachty.
     I think that guy is an absolute innovator of music that should never be referenced or heard by human beings again.
   </blockquote>Drake`,
+
+  `<blockquote>
+    The market drops whenever Lil Yachty drops an album
+  </blockquote>Literal Elvin Shower Thoughts #8<br></br>
+  <img src="images/yachtyanalysis.jpg" width="300">`,
+
+  `<blockquote>
+    I hope you never get off Fridays<br>
+    And you work at a Friday's thats always busy on Friday
+  </blockquote>Chance the Rapper`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #7
+// Literal Elvin Shower Thoughts #8
 // Elvin's Life Pro Tips #1
 
 
@@ -594,7 +604,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+2];
 }
 todaysQuote();
 

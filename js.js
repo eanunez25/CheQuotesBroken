@@ -378,17 +378,19 @@ let cheQuotes = [
 
   `<blockquote>One Direction > Jonas Brothers</blockquote>Literal Elvin Shower Thoughts #6`,
   
-  `<blockquote>Have you ever seen a crack head say: "I have no money. I am not going to smoke today." No. They always find a way.</blockquote>A whiteboard at a doctor's office`,
+  `<blockquote>Have you ever seen a crack head say: "I have no money. I am not going to smoke today." 
+  No. They always find a way.</blockquote>A whiteboard at a doctor's office`,
 
   `<blockquote>  2020 - 1776 = 244<br></br>
   24 / 244 = 9.8%<br></br>
   At 24, we've been alive for 10% of the US's history.
   </blockquote>Literal Elvin Shower Thoughts #7`,
   
-  `<blockquote>I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle</blockquote>Kanye`,
+  `<blockquote>I hate when I'm on a flight and I wake up with a water bottle next 
+  to me like oh great now I gotta be responsible for this water bottle</blockquote>Kanye`,
 
   `<blockquote>I embrace it. I love all the little diddies and all the little jingles that the kids are doing on their
-    SoundCloud or the other think, the Tok Tik. I think it's really amazing. Just literallly writing nursery rhymes that nobody can understand.
+    SoundCloud or the other thing, the Tok Tik. I think it's really amazing. Just literallly writing nursery rhymes that nobody can understand.
     I think it's like sort of really progressive and innovative. I think at the forefront of that movement of music that should be forgotten about is Lil Yachty.
     I think that guy is an absolute innovator of music that should never be referenced or heard by human beings again.
   </blockquote>Drake`,

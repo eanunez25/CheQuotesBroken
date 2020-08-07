@@ -406,6 +406,12 @@ let cheQuotes = [
   </blockquote>Chance the Rapper`,
 
   `<img class="image" src="images/boardgames.JPG"></img>`,
+
+  `<blockquote>
+    Two of the people in this photo are deceased, one of the others is missing a husband and a daughter, one is missing
+    a father and a sister, and all of us are missing a president with intelligence and compassion.
+  </blockquote>orockers<br></br>
+  <img class="image" src="images/obama.jpg"></img>`,
   
 ]
 

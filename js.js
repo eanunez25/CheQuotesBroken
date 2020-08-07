@@ -404,6 +404,9 @@ let cheQuotes = [
     I hope you never get off Fridays<br>
     And you work at a Friday's thats always busy on Friday
   </blockquote>Chance the Rapper`,
+
+  `<img class="image" src="images/boardgames.JPG"></img>`,
+  
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -606,7 +609,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+1];
 }
 todaysQuote();
 

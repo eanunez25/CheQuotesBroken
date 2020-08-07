@@ -1553,6 +1553,13 @@ input, select, textarea {
 
 	.image {
 		display: inline-block;
+		width: 600px;
+	}
+
+	@media screen and (max-width: 736px) {
+		.image {
+			width: 300px;
+		}
 	}
 
 		.image img {

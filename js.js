@@ -412,6 +412,10 @@ let cheQuotes = [
     a father and a sister, and all of us are missing a president with intelligence and compassion.
   </blockquote>orockers<br></br>
   <img class="image" src="images/obama.jpg"></img>`,
+
+  `<blockquote>
+    Rice is great when you're hungry and you want 2000 of something.
+  </blockquote>Mitch Hedberg`,
   
 ]
 

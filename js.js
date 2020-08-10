@@ -413,6 +413,41 @@ let cheQuotes = [
   </blockquote>orockers<br></br>
   <img class="image" src="images/obama.jpg"></img>`,
 
+  `<h3>Prom Queen</h3><br>
+  <blockquote>
+    Another year has passed, <br>
+    What a year it has been…<br>
+    Kobe, Floyd, Taylor, and Lloyd<br>
+    Don’t even let me begin<br><br>
+
+    I wish you the littest of days<br>
+    And happiness tenfold<br>
+    And some big booty hoes<br>
+    Why are your feet always cold<br><br>
+
+    According to Spongebob,<br>
+    This age should be fun,<br>
+    Funner than your debut<br>
+    Since Rachael’s was a-one<br><br>
+
+    Happy twenty-four<br>
+    You crazy plant lady<br>
+    Crazier than the night<br>
+    In which twice you díd pee<br><br>
+
+    This became a roast<br>
+    Sorry, t’was a bit mean<br>
+    Please don’t hurt me<br>
+    All hail the prom queen<br><br>
+
+    All is better with rhymes<br>
+    I learned from your yearbook<br>
+    I wish an abundance of wealth<br>
+    They’ll call you Tom Nook
+
+  </blockquote>`,
+
+
   `<blockquote>
     Rice is great when you're hungry and you want 2000 of something.
   </blockquote>Mitch Hedberg`,

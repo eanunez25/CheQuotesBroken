@@ -451,6 +451,8 @@ let cheQuotes = [
   `<blockquote>
     Rice is great when you're hungry and you want 2000 of something.
   </blockquote>Mitch Hedberg`,
+
+  `<img class="image" src="images/utrgvquote.jpg"></img>`,
   
 ]
 

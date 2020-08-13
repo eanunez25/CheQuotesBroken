@@ -453,6 +453,10 @@ let cheQuotes = [
   </blockquote>Mitch Hedberg`,
 
   `<img class="image" src="images/utrgvquote.jpg"></img>`,
+
+  `<blockquote>Everyday in high school, I was looking for snacks not knowing I was 
+    the snack all along.
+  </blockquote>`
   
 ]
 

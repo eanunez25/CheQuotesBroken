@@ -461,6 +461,8 @@ let cheQuotes = [
   `<blockquote>
     Kamala Harris is something you cry about in a good way, like Obama, or when your kid graduates from college. 
   </blockquote>Ursula Burns, first black woman to serve as CEO of a Fortune 500 company`,
+
+  `<img class="image" src="images/hakuna.jpg"></img>`,
   
 ]
 

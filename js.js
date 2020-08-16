@@ -466,11 +466,14 @@ let cheQuotes = [
 
   `<blockquote>
     <h1>I HAD A JOINT</h1><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>knee replacement
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    7 years ago
-  </blockquote>Happy Birthday, knee`,
+    7 years ago<br><br><br><br><br>Happy birthday, knee
+  </blockquote>`,
   
 ]
 
@@ -674,7 +677,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+1];
 }
 todaysQuote();
 

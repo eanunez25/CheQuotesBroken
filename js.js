@@ -463,6 +463,14 @@ let cheQuotes = [
   </blockquote>Ursula Burns, first black woman to serve as CEO of a Fortune 500 company`,
 
   `<img class="image" src="images/hakuna.jpg"></img>`,
+
+  `<blockquote>
+    <h1>I HAD A JOINT</h1><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>knee replacement
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    7 years ago
+  </blockquote>Happy Birthday, knee`,
   
 ]
 
@@ -666,7 +674,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+1];
 }
 todaysQuote();
 

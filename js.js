@@ -474,6 +474,8 @@ let cheQuotes = [
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     7 years ago<br><br><br><br><br>Happy birthday, knee
   </blockquote>`,
+
+  `<img class="image" src="images/cheisshort.PNG"></img>`,
   
 ]
 

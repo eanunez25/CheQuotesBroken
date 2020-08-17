@@ -475,8 +475,7 @@ let cheQuotes = [
     7 years ago<br><br><br><br><br>Happy birthday, knee
   </blockquote>`,
 
-  `<img class="image" src="images/cheisshort.PNG"></img><br></br>
-  <a href="https://www.youtube.com/watch?v=T--Uyog21gg&feature=youtu.be">chicago vlog</a><br></br>
+  `<a href="https://www.youtube.com/watch?v=T--Uyog21gg&feature=youtu.be">chicago vlog</a><br></br>
   <blockquote>I told you I'd finish before the anniversary</blockquote>Marissa`,
   
 ]

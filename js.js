@@ -477,6 +477,13 @@ let cheQuotes = [
 
   `<a href="https://www.youtube.com/watch?v=T--Uyog21gg&feature=youtu.be">chicago vlog</a><br></br>
   <blockquote>I told you I'd finish before the anniversary</blockquote>Marissa`,
+
+  `<blockquote>
+    I think love is caramel. Sweet and fragant; always welcome. 
+    It is the gentle golden colour of a setting harvest sun; the warmth of a squeezed embrace; 
+    the easy melting of two souls into one and a taste that lingers even when everything else has melted away. 
+    Once tasted it is never forgotten.
+  </blockquote>Jenny Colgan, genius behind Doctor Who`,
   
 ]
 

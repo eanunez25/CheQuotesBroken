@@ -484,6 +484,10 @@ let cheQuotes = [
     the easy melting of two souls into one and a taste that lingers even when everything else has melted away. 
     Once tasted it is never forgotten.
   </blockquote>Jenny Colgan, genius behind Doctor Who`,
+
+  `<blockquote>
+    The only flakes you should put up with are the ones in your cereal bowl.
+  </blockquote>`,
   
 ]
 

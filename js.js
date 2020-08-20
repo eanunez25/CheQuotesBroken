@@ -488,12 +488,16 @@ let cheQuotes = [
   `<blockquote>
     The only flakes you should put up with are the ones in your cereal bowl.
   </blockquote>`,
+
+  `<blockquote>
+    The buffet at Hogwarts was so good that Harry Potter was fine sending his kids there even though he almost died every year.
+  </blockquote>Literal Elvin Shower Thoughts #9`,
   
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #8
+// Literal Elvin Shower Thoughts #9
 // Elvin's Life Pro Tips #1
 
 

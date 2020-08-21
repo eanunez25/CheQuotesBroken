@@ -493,12 +493,16 @@ let cheQuotes = [
     The buffet at Hogwarts was so good that Harry Potter was fine sending his kids there even though he almost died every year.
   </blockquote>Literal Elvin Shower Thoughts #9`,
   
+  `<blockquote>
+    I'm ugly and I'm proud
+  </blockquote>Spongebob`
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
 // Literal Elvin Shower Thoughts #9
 // Elvin's Life Pro Tips #1
+// REAL TALC #1
 
 
 //  greetings ------------------------------------------------------------------------

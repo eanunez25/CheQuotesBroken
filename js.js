@@ -495,7 +495,12 @@ let cheQuotes = [
   
   `<blockquote>
     I'm ugly and I'm proud
-  </blockquote>Spongebob`
+  </blockquote>Spongebob`,
+
+  `<img class="image" src="images/mx.png"></img><br></br>
+  I dropped 2 hundo on a keyboard and mouse to make this website better.<br></br>
+  In Accordance to the Prophecy, <br>
+  -Elvin`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -699,7 +704,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+1];
 }
 todaysQuote();
 

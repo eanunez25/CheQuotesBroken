@@ -505,11 +505,15 @@ let cheQuotes = [
   `<blockquote>
     Toners that have severe alcohol in them, you are literally just wiping the future off of your face.
   </blockquote>Jeffery Star`,
+
+  `<blockquote>
+    If I get kidnapped or killed from 8PM to 3AM, you'll probably be the first to find out.
+  </blockquote>Literal Elvin Shower Thoughts #10`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #9
+// Literal Elvin Shower Thoughts #10
 // Elvin's Life Pro Tips #1
 // REAL TALC #1
 

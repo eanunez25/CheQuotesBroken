@@ -501,6 +501,10 @@ let cheQuotes = [
   I dropped 2 hundo on a keyboard and mouse to make this website better.<br></br>
   In Accordance to the Prophecy, <br>
   -Elvin`,
+
+  `<blockquote>
+    Toners that have severe alcohol in them, you are literally just wiping the future off of your face.
+  </blockquote>Jeffery Star`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

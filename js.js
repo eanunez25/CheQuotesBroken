@@ -509,6 +509,10 @@ let cheQuotes = [
   `<blockquote>
     If I get kidnapped or killed from 8PM to 3AM, you'll probably be the first to find out.
   </blockquote>Literal Elvin Shower Thoughts #10`,
+
+  `<blockquote>
+    You can't produce a baby in one month by getting nine women pregnant.
+  </blockquote>Warren Buffet`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

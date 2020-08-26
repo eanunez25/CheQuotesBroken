@@ -513,6 +513,10 @@ let cheQuotes = [
   `<blockquote>
     You can't produce a baby in one month by getting nine women pregnant.
   </blockquote>Warren Buffet`,
+
+  `<blockquote>
+    I know the human being and fish can coexist peacefully
+  </blockquote>George W. Bush`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

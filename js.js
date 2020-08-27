@@ -518,7 +518,7 @@ let cheQuotes = [
     I know the human being and fish can coexist peacefully
   </blockquote>George W. Bush`,
 
-  `<img class="image" src="images/monica.jpg"></img>><br>Monica Anna Silverio`,
+  `<img class="image" src="images/monica.jpg"></img><br>Monica Anna Silverio`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

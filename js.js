@@ -21,6 +21,20 @@ let toBeSorted = [
   -Justin Bieber on everything that's wrong with society`,
   `<blockquote>"You can be anything you're good at. As long as they're hiring."</blockquote>Chris Rock`,
   `"You know a wise man once said nothing at all" Drake`,
+  `<br><h2>Jacob Blake Timeline</h2><br></br>
+  <h3>Sunday</h3>
+  <ul>
+  <li>At 5:11pm, Kenosha Police Department responded to a <a href="https://www.facebook.com/Kenoshapolice/photos/a.10151999394132207/10158490036207207/">domestic indident</a></li>
+  <li><a href="#">Raysean White</a>, neighbor who recorded the <a href="#">shooting</a>(<s>NSFW</s> NSFL), 
+  saw police put Blake in a headlock, punch him in the ribs, and tase him before shooting him in the back 7 times in front of his three kids</li>
+  <li>Blake was <a href="https://www.wichiefs.org/protraining-scenario-based-mental-health-de-escalation-training">airlifted</a> from the scene in serious condition around 5:30pm, 20 minutes after cops arrived, showing a complete disreguard to 
+  whatever de-escalattion training they <a href="https://www.wichiefs.org/protraining-scenario-based-mental-health-de-escalation-training">claim</a> to have</li>
+  <li><a href="https://bencrump.com/about/">Ben Crump<a/>, attorney badass who is also represesenting the Floyd family, publicly released the video of the shooting
+  and decided to represent Blake as well</li>
+  <li>At night, protesters marched to the Kenosha Country Public Safety Building, burning car lots and clashing with officers in riot gear on the way there</li>
+  <li>Democratic Govenor Tony Evers and candidate Joe Biden condemned the shooting </li>
+  <li>City curfew was implemented until Monday
+  </ul`,
   
 ];
 
@@ -519,6 +533,10 @@ let cheQuotes = [
   </blockquote>George W. Bush`,
 
   `<img class="image" src="images/monica.jpg"></img><br>Monica Anne Silverio<br></br>Edit: misspelled Anne`,
+
+  `<blockquote>
+    Let's hope America keeps producing nicer white people
+  </blockquote>Chris Rock`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

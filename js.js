@@ -537,6 +537,10 @@ let cheQuotes = [
   `<blockquote>
     Let's hope America keeps producing nicer white people
   </blockquote>Chris Rock`,
+
+  `<blockquote>
+    You need to be your own individual.
+  </blockquote>2 Chainz`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

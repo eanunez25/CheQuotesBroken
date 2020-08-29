@@ -539,6 +539,10 @@ let cheQuotes = [
   </blockquote>Chris Rock`,
 
   `<blockquote>
+    Wakanda Forever :(
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

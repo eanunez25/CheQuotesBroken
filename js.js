@@ -542,6 +542,8 @@ let cheQuotes = [
     Wakanda Forever :(
   </blockquote>`,
 
+  `<img class="image" src="images/tweet.jpeg"></img><br>Most liked Tweet in history`,
+
   `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,

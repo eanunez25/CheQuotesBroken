@@ -545,6 +545,10 @@ let cheQuotes = [
   `<img class="image" src="images/tweet.jpeg"></img><br>Most liked Tweet in history`,
 
   `<blockquote>
+    Calories don't count on the weekend
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

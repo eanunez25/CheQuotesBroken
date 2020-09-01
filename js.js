@@ -549,6 +549,10 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    Car keys go through so much but they never break
+  </blockquote>Diane`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

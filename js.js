@@ -553,6 +553,13 @@ let cheQuotes = [
   </blockquote>Diane`,
 
   `<blockquote>
+    First they ignore you<br>
+    Then they laught at you<br>
+    Then they fight you<br>
+    Then you win<br>
+  </blockquote>Gandhi`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

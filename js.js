@@ -560,13 +560,17 @@ let cheQuotes = [
   </blockquote>Gandhi`,
 
   `<blockquote>
+    A lot of what I own today was funded by the gay community. 
+  </blockquote>Literal Elvin Shower Thoughts #11`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #10
+// Literal Elvin Shower Thoughts #11
 // Elvin's Life Pro Tips #1
 // REAL TALC #1
 

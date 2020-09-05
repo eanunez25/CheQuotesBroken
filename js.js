@@ -566,6 +566,10 @@ let cheQuotes = [
   `<img class="image" src="images/dogcat.png"></img>`,
 
   `<blockquote>
+    In order to make delicious food, you must eat delicious food
+  </blockquote>Jiro Ono, greatest living sushi craftsman`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

@@ -570,6 +570,10 @@ let cheQuotes = [
   </blockquote>Jiro Ono, greatest living sushi craftsman`,
 
   `<blockquote>
+    Reflect before you snack
+  </blockquote>Fa Mulan`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

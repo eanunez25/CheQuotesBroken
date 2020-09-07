@@ -574,6 +574,11 @@ let cheQuotes = [
   </blockquote>Fa Mulan`,
 
   `<blockquote>
+    Never let anyone treat you like a yellow Starburst. You are
+    a pink Starburst
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

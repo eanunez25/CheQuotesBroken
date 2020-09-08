@@ -579,6 +579,10 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    ACAB
+  </blockquote>Monica Anne Silverio`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

@@ -583,6 +583,10 @@ let cheQuotes = [
   </blockquote>Monica Anne Silverio`,
 
   `<blockquote>
+    No boba tea, no workee
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

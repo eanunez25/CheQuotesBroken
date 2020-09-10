@@ -586,6 +586,8 @@ let cheQuotes = [
     No boba tea, no workee
   </blockquote>`,
 
+  `<img class="image" src="images/kdrama.jpg"></img><br>Some quote from the finale of a kdrama Marissa finished`,
+
   `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,

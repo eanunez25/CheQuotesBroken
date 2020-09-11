@@ -589,6 +589,10 @@ let cheQuotes = [
   `<img class="image" src="images/kdrama.jpg"></img><br>Some quote from the finale of a kdrama Marissa finished`,
 
   `<blockquote>
+    Sorry I'm late guys. A black cat crossed my path so I had to go the long way. 
+  </blockquote>Kakashi Hatake`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

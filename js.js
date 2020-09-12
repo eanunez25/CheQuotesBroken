@@ -593,6 +593,11 @@ let cheQuotes = [
   </blockquote>Kakashi Hatake`,
 
   `<blockquote>
+    When you copy the idea of a writer, it's called plagiarism.<br>
+    When you copy the ideas of many people, it's called a PhD.
+  </blockquote>Wilson Mizner`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

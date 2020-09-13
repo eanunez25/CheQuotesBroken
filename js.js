@@ -596,6 +596,12 @@ let cheQuotes = [
     When you copy the idea of a writer, it's called plagiarism.<br>
     When you copy the ideas of many people, it's called a PhD.
   </blockquote>Wilson Mizner`,
+  
+  `<blockquote>
+    To be stupid and selfish and to have good health are the three
+    requirements for happiness. Though if stupidity is lacking, the others
+    are useless.
+  </blockquote>Stefan Sagmeister`,
 
   `<blockquote>
     You need to be your own individual.

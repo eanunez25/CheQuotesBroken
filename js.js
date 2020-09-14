@@ -604,6 +604,10 @@ let cheQuotes = [
   </blockquote>Stefan Sagmeister`,
 
   `<blockquote>
+    If you shoot my dog, I'ma kill your cat.
+  </blockquote>Jay-Z`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

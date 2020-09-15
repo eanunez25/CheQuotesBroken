@@ -608,6 +608,10 @@ let cheQuotes = [
   </blockquote>Jay-Z`,
 
   `<blockquote>
+    The only thing that sat it's way to success was a hen
+  </blockquote>Sarah Brown`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

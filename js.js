@@ -612,6 +612,11 @@ let cheQuotes = [
   </blockquote>Sarah Brown`,
 
   `<blockquote>
+    Sorry your dog passed away. JK don't tell her that. Hope you're doing well. Thank you for
+    acknowledging that I exist in your life. Appreciate you. See you soon.
+  </blockquote>Trung`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

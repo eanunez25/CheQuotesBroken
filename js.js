@@ -617,6 +617,10 @@ let cheQuotes = [
   </blockquote>Trung`,
 
   `<blockquote>
+    I don't duck nobody but tape
+  </blockquote>Nicki Minaj`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

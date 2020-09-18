@@ -621,6 +621,10 @@ let cheQuotes = [
   </blockquote>Nicki Minaj`,
 
   `<blockquote>
+    Stupid is as stupid does
+  </blockquote>Forrest Gump's Mom`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

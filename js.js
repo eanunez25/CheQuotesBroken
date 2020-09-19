@@ -625,6 +625,23 @@ let cheQuotes = [
   </blockquote>Forrest Gump's Mom`,
 
   `<blockquote>
+    Quit? You know, once I was thinking about quitting when I was diagnosed with brain, lung, and testicular cancer
+    all at the same time. But with the love and support of my friends and family, I got back on the bike and I won the 
+    Tour de France five times in a row. But I'm sure you have a good reason to quit.
+  </blockquote>Lance Armstrong`,
+
+  `<blockquote>
+    I know it’s a mistake, but there are certain things in life where you know it’s a mistake, but you don’t really 
+    know it’s a mistake, because the only way to really know it’s a mistake is to make the mistake, and look back and say, 
+    ‘Yep, that was a mistake.’ So really, the bigger mistake would be to not make the mistake because then you’d go your 
+    whole life not really knowing if something is a mistake or not.
+  </blockquote>Lily Aldrin`,
+
+  `<blockquote>
+    If all nights are legendary, no nights are legendary.
+  </blockquote>Ted Mosby`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

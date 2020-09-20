@@ -636,6 +636,14 @@ let cheQuotes = [
     ‘Yep, that was a mistake.’ So really, the bigger mistake would be to not make the mistake because then you’d go your 
     whole life not really knowing if something is a mistake or not.
   </blockquote>Lily Aldrin`,
+  
+  `<blockquote>
+    Before I do anything I ask myself, "Would an idiot do that?" and if the answer is yes, I do not do that thing.
+  </blockquote>Dwight Schrute`,
+
+  `<blockquote>
+    You have as many hours in a day as Beyoncé
+  </blockquote>`,
 
   `<blockquote>
     If all nights are legendary, no nights are legendary.

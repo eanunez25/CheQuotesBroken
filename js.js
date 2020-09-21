@@ -646,6 +646,14 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    I am a nice shark<br>
+    Not a mindless eating machine<br>
+    If I am to change this image<br>
+    I must first change myself<br>
+    Fish are friends, not food<br>
+  </blockquote>Bruce`,
+
+  `<blockquote>
     If all nights are legendary, no nights are legendary.
   </blockquote>Ted Mosby`,
 

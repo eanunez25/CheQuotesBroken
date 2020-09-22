@@ -654,6 +654,10 @@ let cheQuotes = [
   </blockquote>Bruce`,
 
   `<blockquote>
+    Always do sober what you said you'd do drunk
+  </blockquote>Ernest`,
+
+  `<blockquote>
     If all nights are legendary, no nights are legendary.
   </blockquote>Ted Mosby`,
 

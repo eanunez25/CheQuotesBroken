@@ -654,6 +654,19 @@ let cheQuotes = [
   </blockquote>Bruce`,
 
   `<blockquote>
+    Be happy, but never satisfied<br>
+    -Bruce Lee
+  </blockquote>Alex Nguyen`,
+
+  `<blockquote>
+    Psychologists are just people who weren’t smart enough to be psychics
+  </blockquote>Chelsea Peretti`,
+
+  `<blockquote>
+    Turn your greatest weakness into your greatest strength. Like Paris Hilton RE: her sex tape
+  </blockquote>Chelsea Peretti`,
+
+  `<blockquote>
     Always do sober what you said you'd do drunk
   </blockquote>Ernest`,
 

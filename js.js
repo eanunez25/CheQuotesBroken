@@ -675,6 +675,11 @@ let cheQuotes = [
   </blockquote>Ted Mosby`,
 
   `<blockquote>
+    <b>Terry Crews:</b> Whats's wrong with photos?<br><br>
+    <b>Andre Braugher:</b> If you love someone, you'll remember what they look like.
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

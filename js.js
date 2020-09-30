@@ -682,8 +682,38 @@ let cheQuotes = [
   `<img class="image" src="images/biden.jpg"></img><br>`,
 
   `<blockquote>
-    "'After all this time?' 'Always,' said Snape."
+    'After all this time?' 'Always,' said Snape.
   </blockquote>`,
+
+  `<blockquote>
+    A black belt only covers two inches of your a<span id="blur">ss</span>. You have to cover the rest.
+  </blockquote>Royce Gracie`,
+
+  `<blockquote>
+    I don't drink to avoid the pain<br>
+    We call that champagne
+  </blockquote>Logic`,
+  
+  `<blockqoute>
+    Life ain't picture perfect <br>
+    We use the negatives to develop
+  </blockqoute>Logic`,
+
+  `<blockquote>
+    I got a girl naked on my floor playing Connect Four <br>
+    Throwing sex out the window just to connect more
+  </blockquote>Logic`,
+
+  `<blockquote>
+    If pro is the opposite of con what's the opposite of progress?
+  </blockquote>Logic`,
+
+  `<blockquote>
+    I don't sip the syrup <br>
+    I got friends to lean on
+  </blockquote>Logic`,
+
+  `<img class="image" src="images/elviniscute.png"></img>`,
 
   `<blockquote>
     You need to be your own individual.
@@ -891,7 +921,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+8];
 }
 todaysQuote();
 

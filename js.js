@@ -682,6 +682,10 @@ let cheQuotes = [
   `<img class="image" src="images/biden.jpg"></img><br>`,
 
   `<blockquote>
+    "'After all this time?' 'Always,' said Snape."
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

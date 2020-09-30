@@ -678,6 +678,8 @@ let cheQuotes = [
     <b>Terry Crews:</b> Whats's wrong with photos?<br><br>
     <b>Andre Braugher:</b> If you love someone, you'll remember what they look like.
   </blockquote>`,
+  
+  `<img class="image" src="images/biden.jpg"></img><br>`,
 
   `<blockquote>
     You need to be your own individual.

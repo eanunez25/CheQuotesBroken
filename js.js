@@ -701,6 +701,12 @@ let cheQuotes = [
   `<img class="image" src="images/elviniscute.png"></img>`,
 
   `<blockquote>
+    "I got a lot on my plate"
+    <br></br>
+    "Then eat it"
+  </blockquote>Diane`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

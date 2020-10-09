@@ -707,6 +707,10 @@ let cheQuotes = [
   </blockquote>Diane`,
 
   `<blockquote>
+    Don't trip, just drip
+  </blockquote>Drip Coffee`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

@@ -711,6 +711,12 @@ let cheQuotes = [
   </blockquote>Drip Coffee`,
 
   `<blockquote>
+    A good percentage of my friends are nazis. <br>
+    That percentage is zero. <br>
+    That's a good percentage of nazi friends to have.
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

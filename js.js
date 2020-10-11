@@ -710,6 +710,8 @@ let cheQuotes = [
     Don't trip, just drip
   </blockquote>Drip Coffee`,
 
+  `<img class="image" src="images/bitches.jpg"></img><br></br>New phone background`,
+
   `<blockquote>
     A good percentage of my friends are nazis. <br>
     That percentage is zero. <br>

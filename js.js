@@ -719,6 +719,10 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    If you're going hard enough left, you'll find yourself turning right.
+  </blockquote>Doc Hudson`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

@@ -723,6 +723,10 @@ let cheQuotes = [
   </blockquote>Doc Hudson`,
 
   `<blockquote>
+    Stressed is desserts spelled backwards
+  </blockquote>Happy National Dessert Day`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

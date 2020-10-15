@@ -727,6 +727,10 @@ let cheQuotes = [
   </blockquote>Happy National Dessert Day`,
 
   `<blockquote>
+    If your phone screen isn't cracked, you're not living life to the fullest
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

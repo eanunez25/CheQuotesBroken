@@ -731,6 +731,15 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    Everybody come and play<br>
+    Throw every last care away<br>
+    Let's all stay at home today<br>
+  </blockquote>Robin Sparkles<br><br><br><br>
+  <blockquote>
+    I love a scotch old enought to order its own scotch
+  </blockquote> Also Robin`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

@@ -740,6 +740,10 @@ let cheQuotes = [
   </blockquote> Also Robin`,
 
   `<blockquote>
+    Kick names, take a<span id="blur">ass</span>
+  </blockquote>Mantis`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

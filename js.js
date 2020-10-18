@@ -744,6 +744,10 @@ let cheQuotes = [
   </blockquote>Mantis`,
 
   `<blockquote>
+    Maybe I’ll have to leave the country. I don’t know.
+  </blockquote>The Donald`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

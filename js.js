@@ -748,6 +748,10 @@ let cheQuotes = [
   </blockquote>The Donald`,
 
   `<blockquote>
+    I smoke in moderation. Only one cigar at a time. 
+  </blockquote>Mark Twain`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

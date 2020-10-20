@@ -756,6 +756,11 @@ let cheQuotes = [
   </blockquote>Jeremy Irons`,
 
   `<blockquote>
+    Don't let anyone treat you like free salsa. <br>
+    You are guacamole.
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

@@ -752,6 +752,10 @@ let cheQuotes = [
   </blockquote>Mark Twain`,
 
   `<blockquote>
+    There is no iron in the iron you use to iron shirts. Which is, ironically, both ironic and un-ironic.
+  </blockquote>Jeremy Irons`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

@@ -761,6 +761,18 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    Tomorrow is often the busiest day of the week.
+  </blockquote>Spanish Proverb`,
+
+  `<blockquote>
+    I remixed a remix, it was back to normal.
+  </blockquote>Mitch Hedberg`,
+
+  `<blockquote>
+    If a book about failures doesn’t sell, is it a success?
+  </blockquote>Jerry Seinfeld`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]
@@ -966,7 +978,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+1];
 }
 todaysQuote();
 

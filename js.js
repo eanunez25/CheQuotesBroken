@@ -775,6 +775,11 @@ let cheQuotes = [
   `Everything Obama says`,
 
   `<blockquote>
+    Chicago Bulls' Jimmy Butler reportedly took out his car's rearview mirror as a reminder
+    to never look back.
+  </blockquote>Patrick Dorsey, ESPN`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

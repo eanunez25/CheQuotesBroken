@@ -772,6 +772,8 @@ let cheQuotes = [
     If a book about failures doesn’t sell, is it a success?
   </blockquote>Jerry Seinfeld`,
 
+  `Everything Obama says`,
+
   `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
@@ -986,7 +988,7 @@ todaysQuote();
 //  quote count ------------------------------------------------------------------------
 const quotesLeft = cheQuotes.length - dayDifference -1;
 console.log("Quotes left: " + quotesLeft);
-console.log("Quotes to be filtered: " + toBeSorted.length);
+console.log("Quotes to be filtered: " + toBeSorted.length+1);
 
 
 //  about ------------------------------------------------------------------------

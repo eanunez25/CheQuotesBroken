@@ -780,6 +780,10 @@ let cheQuotes = [
   </blockquote>Patrick Dorsey, ESPN`,
 
   `<blockquote>
+    change everything but your wife and children
+  </blockquote>Lee Kun-Hee, Chairman of Samsung`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

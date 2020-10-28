@@ -784,6 +784,10 @@ let cheQuotes = [
   </blockquote>Lee Kun-Hee, Chairman of Samsung`,
 
   `<blockquote>
+    No good rest is to be had on a futon
+  </blockquote>Monica Anne Silverio`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

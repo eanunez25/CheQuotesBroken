@@ -788,6 +788,16 @@ let cheQuotes = [
   </blockquote>Monica Anne Silverio`,
 
   `<blockquote>
+    Roses are red<br>
+    True love is rare<br>
+    Booty <br>
+    Booty <br>
+    Booty<br>
+    Booty<br>
+    Rocking everywhere<br>
+  </blockquote>`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]
@@ -993,7 +1003,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[dayDifference+2];
 }
 todaysQuote();
 
@@ -1001,7 +1011,7 @@ todaysQuote();
 //  quote count ------------------------------------------------------------------------
 const quotesLeft = cheQuotes.length - dayDifference -1;
 console.log("Quotes left: " + quotesLeft);
-console.log("Quotes to be filtered: " + toBeSorted.length+1);
+console.log("Quotes to be filtered: " + toBeSorted.length);
 
 
 //  about ------------------------------------------------------------------------

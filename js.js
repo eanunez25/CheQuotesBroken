@@ -798,6 +798,10 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    If I don't shave, I must behave.
+  </blockquote>Robin Scherbatsky`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

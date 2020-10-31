@@ -797,9 +797,26 @@ let cheQuotes = [
     Rocking everywhere<br>
   </blockquote>`,
 
+  // `<br><h2>Reasons Why I Didn't Vote for Trump:</h1>
+  // <ol>
+  //   <li>Trump has complete inability to take blame or admit fault. I cannot trust someone that 
+  //   doesn't have an ounce of humility or doesn't take accountability seriously. </li>
+  //   <li>He lacks the ability to inspire and rally the country as a whole. His rallies have become more of a stand up routine. (<a href="https://www.youtube.com/watch?v=S4VoolvEsyQ&feature=emb_logo">
+  //   This</a> is what presidential motivation should sound like)</li>
+  //   <li>He speaks constantly without thinking. It's nice that we have someone who says what they really think but it'd be nicer if he would actually think at all. 
+  //   <a href="https://www.youtube.com/watch?v=79nHwsqQNBA">Here</a> is Canadian Prime Minister, Justin Trudeau pausing for 20 seconds to think before replying. 
+  //   Thinking before you say something is so rare, that the pause he takes became a little awkward.</li>
+  //   <li>He antagonizes everyone who doesn't worship him. </li>
+    
+  // </ol>`,
+      
   `<blockquote>
     If I don't shave, I must behave.
   </blockquote>Robin Scherbatsky`,
+
+  `<blockquote>
+    You're only as good as your last haircut
+  </blockquote>Fran Lebowitz`,
 
   `<blockquote>
     You need to be your own individual.

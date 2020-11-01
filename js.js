@@ -822,9 +822,6 @@ let cheQuotes = [
    <a href="https://tuckbot.tv/#/watch/jlsi4n">That's what I do.</a>
   </blockquote>Oballa`,
 
-  `<blockquote>
-    You need to be your own individual.
-  </blockquote>2 Chainz`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -1028,7 +1025,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[dayDifference];
+    quoteBox.innerHTML = cheQuotes[Math.floor(dayDifference)];
 }
 todaysQuote();
 

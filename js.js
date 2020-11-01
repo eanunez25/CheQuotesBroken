@@ -819,6 +819,10 @@ let cheQuotes = [
   </blockquote>Fran Lebowitz`,
 
   `<blockquote>
+   <a href="https://tuckbot.tv/#/watch/jlsi4n">That's what I do.</a>
+  </blockquote>Oballa`,
+
+  `<blockquote>
     You need to be your own individual.
   </blockquote>2 Chainz`,
 ]

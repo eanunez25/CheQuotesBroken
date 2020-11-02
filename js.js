@@ -822,6 +822,10 @@ let cheQuotes = [
    <a href="https://tuckbot.tv/#/watch/jlsi4n">That's what I do.</a>
   </blockquote>Oballa`,
 
+  `<blockquote>
+    Drink water and don't be racist.
+  </blockquote>AOC on looking you're best`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

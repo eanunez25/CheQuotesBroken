@@ -826,6 +826,21 @@ let cheQuotes = [
     Drink water and don't be racist.
   </blockquote>AOC on looking you're best`,
 
+  `<blockquote>
+    I did try and f<span id="blur">uck</span> her. She was married. <br>
+    I moved on her like a b<span id="blur">itch</span>, <br>
+    but I couldn't get there. <br>
+    And she was married. <br>
+    You know I'm automatically attracted to beautiful.<br>
+    I just start kissing them. It's like a magnet. <br>
+    Just a kiss.<br>
+    I don't even wait.<br>
+    And when you're a star they let you do it.<br>
+    You can do anything...<br>
+    Grab them by the pussy.<br>
+    You can do anything.<br>
+  </blockquote>The President of the United States of America`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

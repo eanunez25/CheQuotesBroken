@@ -841,6 +841,9 @@ let cheQuotes = [
     You can do anything.<br>
   </blockquote>The President of the United States of America`,
 
+  `<blockquote>
+    Cray-cray gotta go bye-bye before you get stab-stabbed
+  </blockquote>Barney Stinson`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

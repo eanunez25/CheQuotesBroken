@@ -844,6 +844,10 @@ let cheQuotes = [
   `<blockquote>
     Cray-cray gotta go bye-bye before you get stab-stabbed
   </blockquote>Barney Stinson`,
+
+  `<blockquote>
+    All dogs are therapy dogs. The majority are just freelancing.
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

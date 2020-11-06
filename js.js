@@ -848,6 +848,12 @@ let cheQuotes = [
   `<blockquote>
     All dogs are therapy dogs. The majority are just freelancing.
   </blockquote>`,
+
+  `<blockquote>
+    That is the president of the United States. That is the most powerful person 
+    in the world, and we see him like an obese turtle on his back, flailing in the 
+    hot sun, realizing his time is over.
+  </blockquote>Anderson Cooper`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

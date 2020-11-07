@@ -854,6 +854,11 @@ let cheQuotes = [
     in the world, and we see him like an obese turtle on his back, flailing in the 
     hot sun, realizing his time is over.
   </blockquote>Anderson Cooper`,
+
+  `<blockquote>
+    Finger, nose, penis, toes<br>
+    These are the places an EpiPen never goes
+  </blockquote>In case you ever need to use an EpiPen`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

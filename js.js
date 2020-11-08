@@ -859,6 +859,10 @@ let cheQuotes = [
     Finger, nose, penis, toes<br>
     These are the places an EpiPen never goes
   </blockquote>In case you ever need to use an EpiPen`,
+
+  `<blockquote>
+    BIDEEENNNNNNNNN B<span id="blur">itches</span>&#128557;&#128557;&#128557;&#128557;&#128557;
+  </blockquote>Billie Eilish`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

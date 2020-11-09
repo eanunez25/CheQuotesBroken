@@ -863,6 +863,10 @@ let cheQuotes = [
   `<blockquote>
     BIDEEENNNNNNNNN B<span id="blur">itches</span>&#128557;&#128557;&#128557;&#128557;&#128557;
   </blockquote>Billie Eilish`,
+
+  `<blockquote>
+    Don't minimize the important of luck in determining life's course.
+  </blockquote>Alex Trebek`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

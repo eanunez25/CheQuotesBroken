@@ -867,6 +867,12 @@ let cheQuotes = [
   `<blockquote>
     Don't minimize the important of luck in determining life's course.
   </blockquote>Alex Trebek`,
+
+  `<blockquote>
+    CauseI'vebeenactinglikesourmilkthatfellonthefloor
+    It'syourfaultyoudidn'tshuttherefrigerator
+    Maybethat'sthereasonI'vebeenactingsocold
+  </blockquote>Gwen Stefani`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

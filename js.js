@@ -873,6 +873,10 @@ let cheQuotes = [
     It'syourfaultyoudidn'tshuttherefrigerator
     Maybethat'sthereasonI'vebeenactingsocold
   </blockquote>Gwen Stefani`,
+
+  `<blockquote>
+    Behold the turtle. He makes progress only when he sticks his head out.
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

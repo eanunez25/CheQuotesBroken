@@ -877,11 +877,29 @@ let cheQuotes = [
   `<blockquote>
     Behold the turtle. He makes progress only when he sticks his head out.
   </blockquote>`,
+
+  `<blockquote>
+    I am immortal until proven mortal.
+  </blockquote>Literal Elvin Shower Thoughts #12`,
+
+  `<blockquote>
+    Another thing you have to do, of course, is to have a lot of assiduity. 
+    I like that word because it means: sit down on your a<span id="blur">ss</span> until you do it.
+  </blockquote>Charlie Munger`,
+
+  `<blockquote>
+    If it doesn't bring you an income, inspiration, or an orgasm, 
+    it doesn't belong in your life.
+  </blockquote>Jordan Belfort, the Wolf of Wall Street`,
+
+  `<blockquote>
+    Doing the right thing is always the right thing.
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #11
+// Literal Elvin Shower Thoughts #12
 // Elvin's Life Pro Tips #1
 // REAL TALC #1
 

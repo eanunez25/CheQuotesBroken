@@ -895,6 +895,11 @@ let cheQuotes = [
   `<blockquote>
     Doing the right thing is always the right thing.
   </blockquote>`,
+
+  `<blockquote>
+    I'd like to be the dick that sleeps with a girl and then 
+    feels nothing and leaves them wanting more
+  </blockquote>Monica Silverio`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

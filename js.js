@@ -900,6 +900,10 @@ let cheQuotes = [
     I'd like to be the dick that sleeps with a girl and then 
     feels nothing and leaves them wanting more
   </blockquote>Monica Silverio`,
+
+  `<blockquote>
+    There's no bigger pain anywhere in the world than a vegetarian
+  </blockquote>Gordon Ramsay`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

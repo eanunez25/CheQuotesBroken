@@ -903,12 +903,17 @@ let cheQuotes = [
 
   `<blockquote>
     There's no bigger pain anywhere in the world than a vegetarian
-  </blockquote>Gordon Ramsay`
+  </blockquote>Gordon Ramsay`,
+
+  `<img class="image" src="images/4mwm.jpg"></img><br><br>
+  <blockquote>
+    Papitas
+  </blockquote>Literal Elvin Shower Thoughts #13`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #12
+// Literal Elvin Shower Thoughts #13
 // Elvin's Life Pro Tips #1
 // REAL TALC #1
 

@@ -908,12 +908,12 @@ let cheQuotes = [
   `<img class="image" src="images/4mwm.jpg"></img><br><br>
   <blockquote>
     Papitas
-  </blockquote>Literal Elvin Shower Thoughts #13`,
+  </blockquote>Elvin`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
-// Literal Elvin Shower Thoughts #13
+// Literal Elvin Shower Thoughts #12
 // Elvin's Life Pro Tips #1
 // REAL TALC #1
 

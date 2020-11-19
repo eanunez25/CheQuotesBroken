@@ -909,6 +909,12 @@ let cheQuotes = [
   <blockquote>
     Papitas
   </blockquote>Elvin`,
+
+  `<blockquote>
+    Eat what you don't want, <br>
+    drink what you don't like, <br>
+    and do what you'd rather not. <br>
+  </blockquote>Mark Twain`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

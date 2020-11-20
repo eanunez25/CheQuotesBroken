@@ -915,6 +915,16 @@ let cheQuotes = [
     drink what you don't like, <br>
     and do what you'd rather not. <br>
   </blockquote>Mark Twain`,
+
+  `<blockquote>
+    B I Z N U S <br>
+    O <br>
+    B <br>
+    O <br>
+    D <br>
+    D <br>
+    Y<br>
+  </blockquote>Creed Bratton`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -925,12 +925,16 @@ let cheQuotes = [
     D <br>
     Y<br>
   </blockquote>Creed Bratton`,
+
+  `<blockquote>
+    Use "VIP50OFF" to get half off regular-priced items at Papa Johns
+  </blockquote>Elvin's Life Pro Tips #2`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
 // Literal Elvin Shower Thoughts #12
-// Elvin's Life Pro Tips #1
+// Elvin's Life Pro Tips #2
 // REAL TALC #1
 
 

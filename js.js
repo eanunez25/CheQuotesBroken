@@ -929,6 +929,11 @@ let cheQuotes = [
   `<blockquote>
     Use "VIP50OFF" to get half off regular-priced items at Papa Johns
   </blockquote>Elvin's Life Pro Tips #2`,
+
+  `<blockquote>
+    Savage, why you got a twelve car garage <br>
+    And you only got six cars?
+  </blockquote>They`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

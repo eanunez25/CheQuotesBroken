@@ -934,6 +934,10 @@ let cheQuotes = [
     Savage, why you got a twelve car garage <br>
     And you only got six cars?
   </blockquote>They`,
+
+  `<blockquote>
+    I'm not gonna lie, I hate spiders
+  </blockquote>Tom Holland`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

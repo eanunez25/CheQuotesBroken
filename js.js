@@ -938,6 +938,10 @@ let cheQuotes = [
   `<blockquote>
     I'm not gonna lie, I hate spiders
   </blockquote>Tom Holland`,
+
+  `<blockquote>
+    How could I make sense when I got millions on my mind?
+  </blockquote>Pre Malone`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

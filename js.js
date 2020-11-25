@@ -942,6 +942,10 @@ let cheQuotes = [
   `<blockquote>
     How could I make sense when I got millions on my mind?
   </blockquote>Pre Malone`,
+
+  `<blockquote>
+    If you buy a bigger bed, you have more bed room but less bedroom.
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

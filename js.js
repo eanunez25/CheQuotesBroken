@@ -946,6 +946,10 @@ let cheQuotes = [
   `<blockquote>
     If you buy a bigger bed, you have more bed room but less bedroom.
   </blockquote>`,
+
+  `<blockquote>
+    Leftovers are for quitters
+  </blockquote>Elvin`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

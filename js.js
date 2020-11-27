@@ -950,6 +950,10 @@ let cheQuotes = [
   `<blockquote>
     Leftovers are for quitters
   </blockquote>Elvin`,
+
+  `<blockquote>
+    Can you text a clickable <a href="https://www.youtube.com/watch?v=RrB9KmQnkio&feature=youtu.be">link</a>?
+  </blockquote>Beepo`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -954,6 +954,10 @@ let cheQuotes = [
   `<blockquote>
     Can you text a clickable <a href="https://www.youtube.com/watch?v=RrB9KmQnkio&feature=youtu.be">link</a>?
   </blockquote>Beepo`,
+
+  `<blockquote>
+    A peacock that rests on his tail feathers is just another turkey
+  </blockquote>Dolly  Parton`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

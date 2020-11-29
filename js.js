@@ -958,6 +958,10 @@ let cheQuotes = [
   `<blockquote>
     A peacock that rests on his tail feathers is just another turkey
   </blockquote>Dolly  Parton`,
+
+  `<blockquote>
+    The more I learn about people, the more I like my dog.
+  </blockquote>Mark Twain`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

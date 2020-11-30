@@ -962,6 +962,10 @@ let cheQuotes = [
   `<blockquote>
     The more I learn about people, the more I like my dog.
   </blockquote>Mark Twain`,
+
+  `<blockquote>
+    If you can't eat or play with it, pee on it and walk away
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

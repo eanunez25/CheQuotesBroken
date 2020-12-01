@@ -966,6 +966,15 @@ let cheQuotes = [
   `<blockquote>
     If you can't eat or play with it, pee on it and walk away
   </blockquote>`,
+
+  `<blockquote>
+    In order to find out how you actually feel about someone, ask yourself, "Would I have two beers with this person?" And: "Would I 
+    allow this person to look after my puppy over a weekend?". <br><br>
+    Some people are no and no. These people are to be avoided at all costs. 
+    Some people are yes and no. These people are to be cautiously trusted. Some people are are no and yes. These people are no fun 
+    but they make the world a better place- for puppies, especially. And some people are yes and yes. These people are wonderful people and 
+    your life and work are better for having them in your life. Seek them out. Enjoy their company.
+  </blockquote>Ross McCammon`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

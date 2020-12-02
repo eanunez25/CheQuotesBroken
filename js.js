@@ -975,6 +975,12 @@ let cheQuotes = [
     but they make the world a better place- for puppies, especially. And some people are yes and yes. These people are wonderful people and 
     your life and work are better for having them in your life. Seek them out. Enjoy their company.
   </blockquote>Ross McCammon`,
+
+  `
+  <img src="images/chg90.jpg" class="image"></img>
+  <blockquote>
+    The wider the screen, the more motivating the quote
+  </blockquote>Elvin`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

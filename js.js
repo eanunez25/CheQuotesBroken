@@ -981,6 +981,9 @@ let cheQuotes = [
   <blockquote>
     The wider the screen, the more motivating the quote
   </blockquote>Elvin`,
+
+  `
+  <img src="images/harry.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

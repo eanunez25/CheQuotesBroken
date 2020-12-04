@@ -982,8 +982,16 @@ let cheQuotes = [
     The wider the screen, the more motivating the quote
   </blockquote>Elvin`,
 
-  `
-  <img src="images/harry.jpg" class="image"></img>`,
+  `<img src="images/harry.jpg" class="image"></img>`,
+
+  `<blockquote>
+    Only a fool would buy IKEA furniture. Instead, I just download the instructions and keep emailing their 
+    service dept to say that I am missing a piece, until they ship me all the pieces over a six month period
+  </blockquote>`,
+
+  `<blockquote>
+   Fall in love with your problems, maybe they'll leave you
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

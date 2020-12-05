@@ -990,6 +990,10 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    Dogs never bite me. Just humans.
+  </blockquote>Marilyn Monroe`,
+
+  `<blockquote>
    Fall in love with your problems, maybe they'll leave you
   </blockquote>`,
 ]
@@ -1195,7 +1199,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[Math.floor(dayDifference)];
+    quoteBox.innerHTML = cheQuotes[Math.floor(dayDifference)+1];
 }
 todaysQuote();
 

@@ -996,6 +996,10 @@ let cheQuotes = [
   `<blockquote>
    Fall in love with your problems, maybe they'll leave you
   </blockquote>`,
+
+  `<blockquote>
+      You have the power to kill me with your bear hands
+  </blockquote>Marissa Jain`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

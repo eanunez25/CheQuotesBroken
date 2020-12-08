@@ -1000,6 +1000,10 @@ let cheQuotes = [
   `<blockquote>
       You have the power to kill me with your bear hands
   </blockquote>Marissa Jain`,
+
+  `<blockquote>
+    Anyone who doesn't eat is terrible in bed
+  </blockquote>Cleo, Queen's Gambit`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

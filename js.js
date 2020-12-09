@@ -1004,6 +1004,11 @@ let cheQuotes = [
   `<blockquote>
     Anyone who doesn't eat is terrible in bed
   </blockquote>Cleo, Queen's Gambit`,
+
+  `<blockquote>
+    Cigar companies kill their best customers.<br><br>
+    Condom companies kill their future customers. 
+  </blockquote>Literal Elvin Shower Thoughts #13`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

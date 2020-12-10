@@ -1009,6 +1009,10 @@ let cheQuotes = [
     Cigar companies kill their best customers.<br><br>
     Condom companies kill their future customers. 
   </blockquote>Literal Elvin Shower Thoughts #13`,
+
+  `<blockquote>
+    My brain: very small
+  </blockquote>Rachael Joy Lumba`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

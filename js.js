@@ -1012,7 +1012,8 @@ let cheQuotes = [
 
   `<blockquote>
     My brain: very small
-  </blockquote>Rachael Joy Lumba`,
+  </blockquote>Rachael Joy Lumba<br><br>
+  <p>Source: Marissa Jain</p>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

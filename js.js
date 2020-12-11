@@ -1014,6 +1014,23 @@ let cheQuotes = [
     My brain: very small
   </blockquote>Rachael Joy Lumba<br><br>
   <p>Source: Marissa Jain</p>`,
+
+  `<blockquote>
+    Man <br>
+    Because he sacrifices his health in order to make money <br>
+    Then he sacrifices money to recuperate his health <br>
+    And then he is so anxious about the future, <br>
+    that he does not enjoy the present <br>
+    The result being that he does not live in the present or the future <br>
+    He lives as if he is never going to die, <br>
+    And then dies having never really lived
+  </blockquote>The Dalai Lama`,
+
+  `<blockquote>
+    Before sex, you help each other to get naked and after sex, you only dress yourself <br></br>
+    Moral of the story: <br>
+    In life, no one helps you when you're f<span id="blur">u</span>cked
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

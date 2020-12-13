@@ -1031,6 +1031,8 @@ let cheQuotes = [
     Moral of the story: <br>
     In life, no one helps you when you're f<span id="blur">u</span>cked
   </blockquote>`,
+
+  `<img src="images/eggquote.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -1038,6 +1040,9 @@ let cheQuotes = [
 // Literal Elvin Shower Thoughts #12
 // Elvin's Life Pro Tips #2
 // REAL TALC #1
+
+// `<img src="images/.jpg" class="image"></img>`,
+// <span id="blur">u</span>
 
 
 //  greetings ------------------------------------------------------------------------

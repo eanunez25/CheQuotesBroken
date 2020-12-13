@@ -1050,12 +1050,12 @@ let anytimeGreetings = [
   "Yo",
   "Greetings",
   "Hello",
-  "Salutations",
-  "Sup",
+  // "Salutations",
+  // "Sup",
   "Hola", 
-  "Konnichiwa",
+  // "Konnichiwa",
   "Kamusta",
-  "WAZZAAAAAAP",
+  // "WAZZAAAAAAP",
   "Blessings", 
   "Wash Your Hands",
   "Go Study",
@@ -1063,6 +1063,9 @@ let anytimeGreetings = [
   "You Doctor Yet",
   "Feed Me",
   "Happy Engagement",
+  "A Gallon A Day",
+  "Let's Get Canes", 
+  "Let's Smoke Cigars",
 ];
 
 let morningGreetings = [
@@ -1071,6 +1074,8 @@ let morningGreetings = [
   "Wakey Wakey",
   "Mornin'", 
   "You Survived The Night",
+  "Tatcha is Hungry",
+  "Play With Tatcha",
 ]
 
 let afternoonGreetings = [
@@ -1078,6 +1083,7 @@ let afternoonGreetings = [
   "It's Lunch Time", 
   "Grind Time", 
   // "Walk Nutella",
+  "Play With Tatcha",
 ]
 
 let nightGreetings = [
@@ -1086,7 +1092,7 @@ let nightGreetings = [
   "Go To Sleep",
   "Au Revoir",
   "G'night",
-  "Night",
+  // "Night",
   "Turn Up", 
   "Look Behind You"
 ]
@@ -1173,7 +1179,8 @@ let nicknames = [
   "Forehead",
   "Elvin's Secretary",
   "1x FSA RGV Co-President",
-
+  "Tatcha's Human",
+  "K9 Kila",
 ];
 
 

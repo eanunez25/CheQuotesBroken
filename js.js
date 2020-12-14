@@ -1033,6 +1033,10 @@ let cheQuotes = [
   </blockquote>`,
 
   `<img src="images/eggquote.jpg" class="image"></img>`,
+
+  `<blockquote>
+    We are only as blind as we want to be
+  </blockquote>for your future patients from Maya Angelou`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

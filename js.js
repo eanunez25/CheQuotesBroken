@@ -1037,6 +1037,11 @@ let cheQuotes = [
   `<blockquote>
     We are only as blind as we want to be
   </blockquote>for your future patients from Maya Angelou`,
+
+  `<blockquote>
+    If someone is hotter than you <br>
+    then you are cooler than them
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

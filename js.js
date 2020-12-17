@@ -1033,6 +1033,10 @@ let cheQuotes = [
   `<blockquote>
     Be naughty, save Santa the trip
   </blockquote>`,
+
+  `<blockquote>
+    What I like about Christmas is that you can make people forget the past with the present
+  </blockquote>Don Marquis`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -1043,6 +1047,7 @@ let cheQuotes = [
 
 // `<img src="images/.jpg" class="image"></img>`,
 // <span id="blur">u</span>
+// `<blockquote></blockquote>`,
 
 
 //  greetings ------------------------------------------------------------------------

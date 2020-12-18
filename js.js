@@ -1037,6 +1037,10 @@ let cheQuotes = [
   `<blockquote>
     What I like about Christmas is that you can make people forget the past with the present
   </blockquote>Don Marquis`,
+
+  `<blockquote>Strike first <br>
+  Strike hard <br>
+  No mercy</blockquote>Cobra Kai`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

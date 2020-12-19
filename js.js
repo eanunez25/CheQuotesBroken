@@ -1040,7 +1040,15 @@ let cheQuotes = [
 
   `<blockquote>Strike first <br>
   Strike hard <br>
-  No mercy</blockquote>Cobra Kai`,
+  No mercy
+  </blockquote>Cobra Kai`,
+
+  `<blockquote>
+    If one hundred people start in martial arts today, half of them will drop out in the first week (50 left).
+    Half the remaining will drop out before three months (25 left) and half of the rest will drop out before six months (12 left).
+    Half of them will be gone before one year (6 left) and half of them will quit training before 1st degree (3 left). At best, three
+    will get to black belt and of those, two will quit before 2nd degree.
+  </blockquote>Randall Broad<br><br>Proof: am 1%`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

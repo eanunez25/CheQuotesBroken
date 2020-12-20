@@ -1049,6 +1049,8 @@ let cheQuotes = [
     Half of them will be gone before one year (6 left) and half of them will quit training before 1st degree (3 left). At best, three
     will get to black belt and of those, two will quit before 2nd degree.
   </blockquote>Randall Broad<br><br>Proof: am 1%`,
+
+  `<img src="images/croc.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

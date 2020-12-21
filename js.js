@@ -1051,6 +1051,11 @@ let cheQuotes = [
   </blockquote>Randall Broad<br><br>Proof: am 1%`,
 
   `<img src="images/croc.jpg" class="image"></img>`,
+
+  `<blockquote>
+    Squidward: I always thought the most important rule was: why do today what you can put off 'til tomorrow.<br></br>
+    Mr. Krabs: What is today but yesterday's tomorrow?
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

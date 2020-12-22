@@ -1056,6 +1056,10 @@ let cheQuotes = [
     Squidward: I always thought the most important rule was: why do today what you can put off 'til tomorrow.<br></br>
     Mr. Krabs: What is today but yesterday's tomorrow?
   </blockquote>`,
+
+  `<blockquote>
+    <a href="https://www.youtube.com/watch?v=qZVHpC1Yevc">Assert dominance</a>
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -1067,7 +1071,7 @@ let cheQuotes = [
 // `<img src="images/.jpg" class="image"></img>`,
 // <span id="blur">u</span>
 // `<blockquote></blockquote>`,
-
+// <a href="">link</a>
 
 //  greetings ------------------------------------------------------------------------
 let anytimeGreetings = [

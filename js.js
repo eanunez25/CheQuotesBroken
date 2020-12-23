@@ -1060,6 +1060,8 @@ let cheQuotes = [
   `<blockquote>
     <a href="https://www.youtube.com/watch?v=qZVHpC1Yevc">Assert dominance</a>
   </blockquote>`,
+
+  `<img src="images/study.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -1274,7 +1276,7 @@ dayDifference = (today - launchDate) / day;
 
 const quoteBox = document.querySelector(".quote");
 todaysQuote = () => {
-    quoteBox.innerHTML = cheQuotes[Math.floor(dayDifference)];
+    quoteBox.innerHTML = cheQuotes[Math.floor(dayDifference)+0];
 }
 todaysQuote();
 

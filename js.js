@@ -1062,6 +1062,12 @@ let cheQuotes = [
   </blockquote>`,
 
   `<img src="images/study.jpg" class="image"></img>`,
+
+  `<blockquote>
+    In the end the greatest snowball isn't a snowball at all.<br>
+    It's fear.<br>
+    Merry Christmas.
+  </blockquote>Dwight`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

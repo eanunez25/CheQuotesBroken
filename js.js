@@ -1067,7 +1067,11 @@ let cheQuotes = [
     In the end the greatest snowball isn't a snowball at all.<br>
     It's fear.<br>
     Merry Christmas.
-  </blockquote>Dwight`
+  </blockquote>Dwight`,
+
+  `<blockquote>
+    This is the time of year that we remember the importance of giving and there's no greater gift than the gift of booty
+  </blockquote>Barney`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

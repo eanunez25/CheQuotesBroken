@@ -1072,6 +1072,8 @@ let cheQuotes = [
   `<blockquote>
     This is the time of year that we remember the importance of giving and there's no greater gift than the gift of booty
   </blockquote>Barney`,
+
+  `<img src="images/husky.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1074,6 +1074,34 @@ let cheQuotes = [
   </blockquote>Barney`,
 
   `<img src="images/husky.jpg" class="image"></img>`,
+
+  `<blockquote>
+    ‘Twas the night after Christmas and all through the house<br>
+    We were awake and cuz of Miso, there’s no mouse<br><br>
+
+    The table was covered with lumpia and pancit <br>
+    And a tomato soup – oh, how Rachael can’t stand it<br>
+    As people finished and plates stacked in the kitchen<br>
+    I thought, “if I have no quote, Che won’t stop bitchin”<br><br>
+
+    I thought and I thought and I thought to myself<br>
+    I need a quote, but from whom? Maybe Buddy from Elf?<br>
+    Nay, I say, that movie is childish and cliché<br>
+    Needs to be stimulating, like a lesbian three-way<br><br>
+
+    Perhaps a classic? Die Hard or the Grinch?<br>
+    I ended up going on a Home Alone binge<br>
+    As the night drew near and the day came to an end<br>
+    I needed a quote like how the US needs Biden<br><br>
+
+    I became treasurer by making words rhyme<br>
+    Makin’ it rain like in Hustlers on Showtime<br>
+    So the answer was simple, I had it this whole time<br>
+    Poems are ez as pie – 3 point 1 4 1 5 9<br><br>
+
+    My hand is still red from a Tatcha dog bite<br>
+    Merry Christmas to all and all a good morning
+  </blockquote>`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

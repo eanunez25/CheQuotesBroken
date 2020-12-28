@@ -1101,7 +1101,12 @@ let cheQuotes = [
 
     My hand is still red from a Tatcha dog bite<br>
     Merry Christmas to all and all a good morning
-  </blockquote>`
+  </blockquote>`,
+
+  `<blockquote>
+    Train for what really matters: the bedroom
+  </blockquote>Barbell Brigade`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

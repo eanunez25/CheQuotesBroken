@@ -1107,6 +1107,10 @@ let cheQuotes = [
     Train for what really matters: the bedroom
   </blockquote>Barbell Brigade`,
 
+  `<blockquote>
+    If you see someone shoplifting food, no you didnt
+  </blockquote>`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

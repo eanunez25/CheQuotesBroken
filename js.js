@@ -1111,6 +1111,13 @@ let cheQuotes = [
     If you see someone shoplifting food, no you didnt
   </blockquote>`,
 
+  `<blockquote>
+    brian, I thought of a way to make a few bucks - turning
+    our place into "designers bed and breakfast" - offering young
+    designers who come into town a place to crash during the 4 day
+    event, complete with wireless internet, a small desk space, 
+    sleeping mat, and breakfast each morning. Ha!
+  </blockquote>Email that started Airbnb ($90.2b)`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1118,6 +1118,28 @@ let cheQuotes = [
     event, complete with wireless internet, a small desk space, 
     sleeping mat, and breakfast each morning. Ha!
   </blockquote>Email that started Airbnb ($90.2b)`,
+
+  `<blockquote>
+    I know the shape of your pecs all too well. You da illest 
+    and the cooliest, a party isn't complete without you. Neither
+    is my heart.
+  </blockquote>$ILVA M&#x273F;NEY
+  
+  <br><br><br>
+  <blockquote>
+    Yes. I turned down Princeton so we could have one more year together, 
+    and yes, I am ready to F.S.U.<br>
+    Elvin, though art... mah n<span id="blur">igga</span>.&#9829;
+  </blockquote>MARZ
+  
+  <br><br><br>
+  <blockquote>
+    Did you know I had a crush on you in kindergarten?!
+  </blockquote>Rachael Joy Lumba
+  
+  <br><br><br>
+  Literally had six people sign my yearbook since I misplaced it
+  and y'all were half of them. Stay thirsty my friends.`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

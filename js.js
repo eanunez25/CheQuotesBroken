@@ -1140,6 +1140,8 @@ let cheQuotes = [
   <br><br><br>
   Literally had six people sign my yearbook since I misplaced it
   and y'all were half of them. Stay thirsty my friends.`,
+
+  `<img src="images/yonce.jpg" class="image"></img>Beyonce`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1142,6 +1142,10 @@ let cheQuotes = [
   and y'all were half of them. Stay thirsty my friends.`,
 
   `<img src="images/yonce.jpg" class="image"></img>Beyonce`,
+
+  `<blockquote>
+    Only break one law at a time
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

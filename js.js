@@ -1146,6 +1146,10 @@ let cheQuotes = [
   `<blockquote>
     Only break one law at a time
   </blockquote>`,
+
+  `<blockquote>
+    The first time I see a jogger smiling, I'll consider it
+  </blockquote>Joan Rivers`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

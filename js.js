@@ -1150,6 +1150,10 @@ let cheQuotes = [
   `<blockquote>
     The first time I see a jogger smiling, I'll consider it
   </blockquote>Joan Rivers`,
+
+  `<blockquote>
+    Everything in moderation, including moderation.
+  </blockquote>Oscar Wilde`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

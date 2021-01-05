@@ -1154,6 +1154,12 @@ let cheQuotes = [
   `<blockquote>
     Everything in moderation, including moderation.
   </blockquote>Oscar Wilde`,
+
+  `<blockquote>
+    There would be no civilizations, no art, no literature, 
+    no music, no Beatles, no Microsoft, if sex and mating 
+    were a male choice.
+  </blockquote>Satoshi Kanazawa`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

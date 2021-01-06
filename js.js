@@ -1160,6 +1160,10 @@ let cheQuotes = [
     no music, no Beatles, no Microsoft, if sex and mating 
     were a male choice.
   </blockquote>Satoshi Kanazawa`,
+
+  `<blockquote>
+    Happiness is directly correlated with hair length
+  </blockquote>Justin Key, Twitch founder`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

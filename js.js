@@ -1164,6 +1164,13 @@ let cheQuotes = [
   `<blockquote>
     Happiness is directly correlated with hair length
   </blockquote>Justin Key, Twitch founder`,
+
+ `<blockquote>
+    If <a href="https://www.tuckbot.tv/#/watch/krzo94">that</a> 
+    were Black Lives Matter they'd have tanks rolling 
+    down Pennsylvania Avenue but they let these f<span id="blur">uc</span>king crackers
+    take over the god<span id="blur">damn</span> Capitol! What the f<span id="blur">uck</span> is that?!
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

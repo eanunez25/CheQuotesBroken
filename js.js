@@ -1171,6 +1171,11 @@ let cheQuotes = [
     down Pennsylvania Avenue but they let these f<span id="blur">uc</span>king crackers
     take over the god<span id="blur">damn</span> Capitol! What the f<span id="blur">uck</span> is that?!
   </blockquote>`,
+
+  `<blockquote>
+    In theory there is no difference between theory and practice. 
+    In practice there is.
+  </blockquote>Yogi Berra`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

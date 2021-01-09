@@ -1176,6 +1176,12 @@ let cheQuotes = [
     In theory there is no difference between theory and practice. 
     In practice there is.
   </blockquote>Yogi Berra`,
+
+  `<blockquote>
+    In the end, Trump cost Republicans the Presidency, 
+    the Senate, and the House. The son of a b<span id="blur">itch</span> actually 
+    did it. He made America great again.
+  </blockquote>Jonathan Goldman`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

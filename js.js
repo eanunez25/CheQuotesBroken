@@ -1182,6 +1182,10 @@ let cheQuotes = [
     the Senate, and the House. The son of a b<span id="blur">itch</span> actually 
     did it. He made America great again.
   </blockquote>Jonathan Goldman`,
+
+  `<blockquote>
+    If you want a guarantee, buy a toaster
+  </blockquote>Clint Eastwood`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1186,6 +1186,10 @@ let cheQuotes = [
   `<blockquote>
     If you want a guarantee, buy a toaster
   </blockquote>Clint Eastwood`,
+
+  `<blockquote>
+    Approach life how you approach halo-halo
+  </blockquote>Pastor Bobby`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

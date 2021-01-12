@@ -1190,6 +1190,20 @@ let cheQuotes = [
   `<blockquote>
     Approach life how you approach halo-halo
   </blockquote>Pastor Bobby`,
+
+  `<blockquote>
+    Poopy-di scoop<br>
+    Scoop-diddy-whoop<br>
+    Whoop-di-scoop-di-poop<br>
+    Poop-di-scoopty<br>
+    Scoopty-whoop<br>
+    Whoopity-scoop, whoop-poop<br>
+    Poop-diddy, whoop-scoop<br>
+    Poop, poop<br>
+    Scoop-diddy-whoop<br>
+    Whoop-diddy-scoop<br>
+    Whoop-diddy-scoop, poop<br>
+  </blockquote>Kanye`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1203,7 +1203,9 @@ let cheQuotes = [
     Scoop-diddy-whoop<br>
     Whoop-diddy-scoop<br>
     Whoop-diddy-scoop, poop<br>
-  </blockquote>Kanye`
+  </blockquote>Kanye`,
+
+  `<img src="images/cat.jpg" class="image"></img><br>The Monitor to Trump`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

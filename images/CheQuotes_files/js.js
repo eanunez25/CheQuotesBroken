@@ -1206,12 +1206,6 @@ let cheQuotes = [
   </blockquote>Kanye`,
 
   `<img src="images/cat.jpg" class="image"></img><br>The Monitor to Trump`,
-
-  `<img src="images/pelosi.jpg" class="image"></img><br><br>
-  <blockquote>
-      Honey?! WHERE'S my impeachment suit?!
-  </blockquote>Nancy Pelosi, probably
-  `,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

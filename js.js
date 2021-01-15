@@ -1212,6 +1212,10 @@ let cheQuotes = [
       Honey?! WHERE'S my impeachment suit?!
   </blockquote>Nancy Pelosi, probably
   `,
+
+  `<blockquote>
+    It's not drinking alone if the dog is home
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

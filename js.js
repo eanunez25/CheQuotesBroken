@@ -1216,6 +1216,12 @@ let cheQuotes = [
   `<blockquote>
     It's not drinking alone if the dog is home
   </blockquote>`,
+
+  `<blockquote>
+    The search and rescue dogs on 9/11 were getting so sad from finding 
+    only dead bodies, the human helpers buried themselves in the rubble
+    so that the dogs could find them and be happy
+  </blockquote>Not fun fact of the day`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

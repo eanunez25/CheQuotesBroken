@@ -1222,6 +1222,10 @@ let cheQuotes = [
     only dead bodies, the human helpers buried themselves in the rubble
     so that the dogs could find them and be happy
   </blockquote>Not fun fact of the day`,
+
+  `<blockquote>
+    Start now. Get perfect later. Just do it. End of book.
+  </blockquote>First line of book I started`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

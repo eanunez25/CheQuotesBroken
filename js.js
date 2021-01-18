@@ -1226,6 +1226,10 @@ let cheQuotes = [
   `<blockquote>
     Start now. Get perfect later. Just do it. End of book.
   </blockquote>First line of book I started`,
+
+  `<blockquote>
+    Hit the pussy with an uppercut
+  </blockquote>Not Trung`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1230,6 +1230,11 @@ let cheQuotes = [
   `<blockquote>
     Hit the pussy with an uppercut
   </blockquote>Not Trung`,
+
+  `<blockquote>
+    There is science, logic, reason; there is thought verified by
+    by experience; then there is California
+  </blockquote>Edward Abbey`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

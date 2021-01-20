@@ -1235,6 +1235,10 @@ let cheQuotes = [
     There is science, logic, reason; there is thought verified by
     by experience; then there is California
   </blockquote>Edward Abbey`,
+
+  `<blockquote>
+    Did you know the duck on the Grey Goose bottle can dance
+  </blockquote>Diane`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

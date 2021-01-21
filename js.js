@@ -1239,6 +1239,10 @@ let cheQuotes = [
   `<blockquote>
     Did you know the duck on the Grey Goose bottle can dance
   </blockquote>Diane`,
+
+  `<blockquote>
+    What is a simple bite on the buttocks among friends?
+  </blockquote>King Julien`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

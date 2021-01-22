@@ -1243,6 +1243,11 @@ let cheQuotes = [
   `<blockquote>
     What is a simple bite on the buttocks among friends?
   </blockquote>King Julien`,
+
+  `<blockquote>
+    The coldest winter I ever spent was a summer in 
+    San Francisco
+  </blockquote>Mark Twain`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

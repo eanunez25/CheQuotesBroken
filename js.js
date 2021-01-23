@@ -1248,6 +1248,11 @@ let cheQuotes = [
     The coldest winter I ever spent was a summer in 
     San Francisco
   </blockquote>Mark Twain`,
+
+  `<blockquote>
+    Okay, okay, okay, okay, okay, okay<br>
+    Beggars can't be choosers, b<span id="blur">itch</span> this ain't Chipotle
+  </blockquote>Kanye`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

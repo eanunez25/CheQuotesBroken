@@ -1255,7 +1255,7 @@ let cheQuotes = [
   </blockquote>Kanye`,
 
   `<blockquote>
-    If you wait long enough, the dishes will wash themselves
+    If you wait long enough, the dishes will clean themselves
   </blockquote>Elvin<br><br>
 
   Also applies to laundry and kitchens`,

@@ -1252,7 +1252,13 @@ let cheQuotes = [
   `<blockquote>
     Okay, okay, okay, okay, okay, okay<br>
     Beggars can't be choosers, b<span id="blur">itch</span> this ain't Chipotle
-  </blockquote>Kanye`
+  </blockquote>Kanye`,
+
+  `<blockquote>
+    If you wait long enough, the dishes will wash themselves
+  </blockquote>Elvin<br><br>
+
+  Also applies to laundry and kitchens`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

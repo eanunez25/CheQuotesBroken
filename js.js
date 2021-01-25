@@ -1259,6 +1259,11 @@ let cheQuotes = [
   </blockquote>Elvin<br><br>
 
   Also applies to laundry and kitchens`,
+
+  `<blockquote>
+    When you're downie<br>
+    Eat a brownie
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

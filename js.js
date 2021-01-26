@@ -1264,6 +1264,14 @@ let cheQuotes = [
     When you're downie<br>
     Eat a brownie
   </blockquote>`,
+
+  `<blockquote>
+    Bikinis<br>
+    Zuccinis<br>
+    Martinis<br>
+    No weenie
+  </blockquote>Snoop Dogg`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1272,6 +1272,11 @@ let cheQuotes = [
     No weenie
   </blockquote>Snoop Dogg`,
 
+  `<blockquote>
+    If cauliflower can somehow become pizza, you can
+    become a homeowner
+  </blockquote>Carrie Bluel`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

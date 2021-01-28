@@ -1277,6 +1277,10 @@ let cheQuotes = [
     become a homeowner
   </blockquote>Carrie Bluel`,
 
+  `<blockquote>
+    If everybody in the world dropped out of school, we would have a much more intelligent society
+  </blockquote>Jaden Smith`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1281,6 +1281,7 @@ let cheQuotes = [
     If everybody in the world dropped out of school, we would have a much more intelligent society
   </blockquote>Jaden Smith`,
 
+  `<img src="images/stocks.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

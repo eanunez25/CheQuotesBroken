@@ -1282,6 +1282,10 @@ let cheQuotes = [
   </blockquote>Jaden Smith`,
 
   `<img src="images/stocks.jpg" class="image"></img>`,
+
+  `<blockquote>
+    Never have more children than you have car windows
+  </blockquote>Erma Bombeck`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1286,6 +1286,10 @@ let cheQuotes = [
   `<blockquote>
     Never have more children than you have car windows
   </blockquote>Erma Bombeck`,
+
+  `<blockquote>
+    Looking back f<span id="blur">uck</span>s with your neck
+  </blockquote>Gary V`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

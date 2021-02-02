@@ -1294,6 +1294,10 @@ let cheQuotes = [
   `<blockquote>
     Don't ever, for any reason, do anything to anyone for any reason ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been ever, for any reason whatsoever
   </blockquote>Michael Scott`,
+
+  `<blockquote>
+    Any landing you can walk away from is a good landing
+  </blockquote>Skipper`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

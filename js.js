@@ -1298,6 +1298,11 @@ let cheQuotes = [
   `<blockquote>
     Any landing you can walk away from is a good landing
   </blockquote>Skipper`,
+
+  `<blockquote>
+    Women get to smell like real things (vanilla, lavender)
+    but men have to smell like concepts. What the f<span id="blur">u</span>ck is "cool sport rush"
+  </blockquote>Ron Iver`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

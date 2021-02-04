@@ -1303,6 +1303,10 @@ let cheQuotes = [
     Women get to smell like real things (vanilla, lavender)
     but men have to smell like concepts. What the f<span id="blur">u</span>ck is "cool sport rush"
   </blockquote>Ron Iver`,
+
+  `<blockquote>
+    Life without sushi is like sushi without rice
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

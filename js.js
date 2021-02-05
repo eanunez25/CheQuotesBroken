@@ -1307,6 +1307,11 @@ let cheQuotes = [
   `<blockquote>
     Life without sushi is like sushi without rice
   </blockquote>`,
+
+  `<blockquote>
+    Half of San Antonio's population is of Mexican descent, <br>
+    the other half just eats that way. 
+  </blockquote>Mike Greenberg`, 
 ]
 
 // categories(#used) ------------------------------------------------------------------------

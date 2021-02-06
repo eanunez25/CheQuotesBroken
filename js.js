@@ -1312,6 +1312,8 @@ let cheQuotes = [
     Half of San Antonio's population is of Mexican descent, <br>
     the other half just eats that way. 
   </blockquote>Mike Greenberg`, 
+
+  `<img src="images/winning.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1314,6 +1314,14 @@ let cheQuotes = [
   </blockquote>Mike Greenberg`, 
 
   `<img src="images/winning.jpg" class="image"></img>`,
+
+  `<blockquote>
+    Remember the Alamo
+  </blockquote>`,
+
+  `<blockquote>
+    If i had a twin, I would still choose you
+  </blockquote>Rihanna`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

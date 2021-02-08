@@ -1320,6 +1320,11 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    Long ago a wolf explained to his son, "eat a man and you'll be fed for a day. 
+    Whimper and roll over and play dead, and he'll feed you for a lifetime."
+  </blockquote>`
+
+  `<blockquote>
     If i had a twin, I would still choose you
   </blockquote>Rihanna`,
 ]

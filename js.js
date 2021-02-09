@@ -1325,6 +1325,11 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    The most important part of every plan is planning on your plan
+    not going according to plan
+  </blockquote>Morgan Housel`,
+
+  `<blockquote>
     If i had a twin, I would still choose you
   </blockquote>Rihanna`,
 ]

@@ -1330,6 +1330,10 @@ let cheQuotes = [
   </blockquote>Morgan Housel`,
 
   `<blockquote>
+    Nothing is as good or as bad as it seems
+  </blockquote>Morgan Housel`,
+
+  `<blockquote>
     If i had a twin, I would still choose you
   </blockquote>Rihanna`,
 ]

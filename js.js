@@ -1334,7 +1334,11 @@ let cheQuotes = [
   </blockquote>Morgan Housel`,
 
   `<blockquote>
-    If i had a twin, I would still choose you
+    I don't believe in guilty pleasures. If you f<span id="blur">u</span>cking like something, like it
+  </blockquote>Dave Grohl`,
+
+  `<blockquote>
+    If you had a twin, I would still choose you
   </blockquote>Rihanna`,
 ]
 

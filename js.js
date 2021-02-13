@@ -1340,6 +1340,10 @@ let cheQuotes = [
   `<blockquote>
     If you had a twin, I would still choose you
   </blockquote>Rihanna`,
+
+  `<blockquote>
+    Just as the phrase "what the entire f<span id="blur">u</span>ck" implies the existence of fractional f<span id="blur">u</span>cks, the phrase "what the absolute f<span id="blur">u</span>ck" implies the existance of both positive and negative f<span id="blur">u</span>cks (or else there would be no need for an absolute vlaue operation). Taken together with the phrase "what the actual f<span id="blur">u</span>ck" (which implies the existence of imaginary f<span id="blur">u</span>cks), we may thus conclude that f<span id="blur">u</span>ckery is isomorphic with the complex field
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

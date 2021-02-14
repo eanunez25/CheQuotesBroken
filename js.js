@@ -1344,6 +1344,502 @@ let cheQuotes = [
   `<blockquote>
     Just as the phrase "what the entire f<span id="blur">u</span>ck" implies the existence of fractional f<span id="blur">u</span>cks, the phrase "what the absolute f<span id="blur">u</span>ck" implies the existance of both positive and negative f<span id="blur">u</span>cks (or else there would be no need for an absolute vlaue operation). Taken together with the phrase "what the actual f<span id="blur">u</span>ck" (which implies the existence of imaginary f<span id="blur">u</span>cks), we may thus conclude that f<span id="blur">u</span>ckery is isomorphic with the complex field
   </blockquote>`,
+
+  `<blockquote>
+  Evening Star<br><br>
+  There was, as in the fairy tales,<br>
+  As ne'er in the time's raid,<br>
+  There was, of famous royal blood<br>
+  A most beautiful maid.<br><br>
+  
+  She was her parents' only child,<br>
+  Bright like the sun at noon,<br>
+  Like the Virgin midst the saints<br>
+  And among stars the moon.<br><br>
+  
+  From the deep shadow of the vaults<br>
+  Her step now she directs<br>
+  Toward a window; at its nook<br>
+  Bright Evening-star expects.<br><br>
+  
+  She looks as in the distant seas<br>
+  He rises, darts his rays<br>
+  And leads the blackish, loaded ships<br>
+  On the wet, moving, ways.<br><br>
+  
+  To look at him every night<br>
+  Her soul her instincts spur;<br>
+  And as he looks at her for weeks<br>
+  He falls in love with her.<br><br>
+  
+  And as on her elbows she leans<br>
+  Her temple and her whim<br>
+  She feels in her heart and soul that<br>
+  She falls in love with him.<br><br>
+  
+  And ev'ry night his stormy flames<br>
+  More stormily renew<br>
+  When in the shadow of the castle<br>
+  She shows to his bright view.<br><br>
+  
+  And to her room with her slow steps<br>
+  He bears his steps and aims<br>
+  Weaving out of his sparkles cold<br>
+  A toil of shaking flames.<br><br>
+  
+  And when she throws upon her bed<br>
+  Her tired limbs and reposes,<br>
+  He glides his light along her hands<br>
+  And her sweet eyelash closes.<br><br>
+  
+  And from the mirror on her shape<br>
+  A beam has spread and burns,<br>
+  On her big eyes that beat though closed<br>
+  And on her face that turns.<br><br>
+  
+  Her smiles view him; the mirror shows<br>
+  Him trembling in the nook<br>
+  For he is plunging in her dream<br>
+  So that their souls may hook.<br><br>
+  
+  She speaks with him in sleep and sighs<br>
+  While her heart's swelled veins drum:<br>
+  -"O sweet Lord of my fairy nights,<br>
+  Why comest thou not? Come!<br><br>
+  
+  Descend to me, mild Evening-star<br>
+  Thou canst glide on a beam,<br>
+  Enter my dwelling and my mind<br>
+  And over my life gleam!"<br><br>
+  
+  And he listens and trembles and<br>
+  Still more for her love craves<br>
+  And as quick as the lightning he<br>
+  Plunges into the waves.<br><br>
+  
+  The water in that very spot<br>
+  Moves rolling many rings<br>
+  And out of the unknown, dark, depth<br>
+  A superb young man springs.<br><br>
+  
+  As on a threshold o'er the sill<br>
+  His hasty steps he leads,<br>
+  Holds in his hand a staff with, at<br>
+  Its top, a crown of reeds!<br><br>
+  
+  A young Voivode he seems to be<br>
+  With soft and golden hair;<br>
+  A blue shroud binds in a knot on<br>
+  His naked shoulder fair.<br><br>
+  
+  The shade of his face is of wax<br>
+  And thou canst see throughout -<br>
+  A handsome dead man with live eyes<br>
+  That throw their sparkles out.<br><br>
+  
+  -"From my sphere hardly I come to<br>
+  Follow thy call and thee,<br>
+  The heaven is my father and<br>
+  My mother is the sea.<br><br>
+  
+  So that I could come to thy room<br>
+  And look at thee from near<br>
+  With my light reborn from waves my<br>
+  Fate toward thee I steer.<br><br>
+  
+  O come, my treasure wonderful<br>
+  And thy world leave aside;<br>
+  For I am Evening-star up from<br>
+  And thou wouldst be my bride.<br><br>
+  
+  In my palace of coral I'll<br>
+  Take thee for evermore<br>
+  And the entire world of the sea<br>
+  Will kneel before thy door."<br><br>
+  
+  -"O thou art beautiful as but<br>
+  In dreams an angel shows,<br>
+  The way though thou hast oped for me<br>
+  For me's for ever close.<br><br>
+  
+  Thy port and mien and speech are strange<br>
+  Life thy gleams don't impart,<br>
+  For I'm alive and thou art dead<br>
+  And thy eyes chill my heart."<br><br>
+  
+  Days have past since: but Evening-star<br>
+  Comes up againd and stays<br>
+  Just as before, spreading o'er her<br>
+  His clear, translucent rays.<br><br>
+  
+  In sleep she would remember him<br>
+  And, as before, her whole<br>
+  Wish for the Master of the waves<br>
+  Is clinching now her soul.<br><br>
+  
+  -"Descend to me, mild Evening-star<br>
+  Thou canst glide on a beam,<br>
+  Enter my dwelling and my mind<br>
+  And over my life gleam!"<br><br>
+  
+  He hears: and from the dire despair<br>
+  Of such an woeful weird<br>
+  He dies, and the heavens revolve<br>
+  Where he has disappeared.<br><br>
+  
+  Soon in the air flames ruddy spread,<br>
+  The world in their grip hold;<br>
+  A superb form the spasms of the<br>
+  Chaotic valleys mold.<br><br>
+  
+  On his locks of black hair he bears<br>
+  His crown a fierce fire frames;<br>
+  He floats as he really comes<br>
+  Swimming in the sun's flames.<br><br>
+  
+  His black shroud lets develop out<br>
+  His arms marbly and hale;<br>
+  He pensively and sadly brings<br>
+  His face awfully pale.<br><br>
+  
+  But his big wonderful eyes' gleam,<br>
+  Chimerically deep,<br>
+  Shows two unsatiated spasms<br>
+  That but into dark peep.<br><br>
+  
+  -"From my sphere hardly I come to<br>
+  Follow thy voice, thy sight;<br>
+  The bright sun is my father and<br>
+  My mother is the night.<br><br>
+  
+  O come, my treasure wonderful<br>
+  And thy world leave aside<br>
+  For I am Evening-star from up<br>
+  And thou wouldst be my bride.<br><br>
+  
+  O come, and upon thy blond hair<br>
+  Crowns of stars I shall crowd,<br>
+  And more that all of them, up there,<br>
+  Thou wild look fair and proud."<br><br>
+  
+  -"O thou art beautiful as but<br>
+  In dreams a demon shows,<br>
+  The way though hast oped for me<br>
+  For me's for ever close.<br><br>
+  
+  The depths of my breast ache from the<br>
+  Desire of thy fierce love<br>
+  My heavy, big eyes also ache<br>
+  When into them thine shove".<br><br>
+  
+  -"But how wouldst thou that I come down?<br>
+  Know this - for, do I lie? -:<br>
+  I am immortal, while thou art<br>
+  One of those that must die!"<br><br>
+  
+  -"I hate big words, nor do I know<br>
+  How to begin my plea;<br>
+  And although thy discourse is clear<br>
+  I don't understand thee.<br><br>
+  
+  But if thou wantest my flamed love<br>
+  And that would not be sham,<br>
+  Come down on this temporal earth,<br>
+  Be mortal as I am!"<br><br>
+  
+  -"I'd lose my immortality<br>
+  For but one kiss of thine!<br>
+  Well, I will show thee how much too<br>
+  For thy fierce love I pine!<br><br>
+  
+  Yes, I shall be reborn from sin,<br>
+  Receive another creed:<br>
+  From that endlessness to which I<br>
+  Am tied, I shall be freed!"<br><br>
+  
+  And out he went, he went, went out,<br>
+  Loving a human fay,<br>
+  He plucked himself off from the sky,<br>
+  Went for many a day.<br><br>
+  
+  
+  Meanwhile, the house-boy, Catalin,<br>
+  Sly, and who often jests<br>
+  When he's filling with wine the cups<br>
+  Of the banqueting guests;<br><br>
+  
+  A page that carries step by step<br>
+  The trail of the Queen's gown,<br>
+  A wandering bastard, but bold<br>
+  Like no one in the town;<br><br>
+  
+  His little cheek - a peony<br>
+  That under the sun stews;<br>
+  Watchful, just like a thief, he sneaks<br>
+  In Catalina's views.<br><br>
+  
+  -"How beautiful she grew" - thinks he -<br>
+  "A flower just to pluck!<br>
+  Now, Catalin, but now it is<br>
+  Thy chance to try thy luck!"<br><br>
+  
+  And by the way, hurriedly, he<br>
+  Corners that human fay:<br>
+  -"What's with thee, Catalin? Let me<br>
+  Alone and go thy way!"<br><br>
+  
+  -"No! I want thee to stay away<br>
+  From thoughts that have no fun<br>
+  . I want to see thee only laugh,<br>
+  Give me a kiss, just one!"<br><br>
+  
+  -"I don't know what it is about<br>
+  And, believe me, retire!<br>
+  But for one Evening-star up from<br>
+  I've kept my strong desire!"<br><br>
+  
+  -"If thou dost not know I could show<br>
+  Thee all about love's balm!<br>
+  Only, don't give way to thy ire<br>
+  And listen and be calm.<br><br>
+  
+  So as the hunter throws the net<br>
+  That many birds would harm,<br>
+  When I'll stretch my left arm to thee,<br>
+  Enlace me with thy arm.<br><br>
+  
+  Under my eyes keep thine and don't<br>
+  Let them move on their wheels<br>
+  And if I lift thee by the waist<br>
+  Thou must lift on thy heels.<br><br>
+  
+  When I bend down my face, to hold<br>
+  Thine up must be thy strife;<br>
+  So, to each other we could throw<br>
+  Sweet, eager, looks for life.<br><br>
+  
+  And so that thou have about love<br>
+  A knowledge true and plain,<br>
+  When I stoop to kiss thee, thou must<br>
+  Kiss me too and again."<br><br>
+  
+  With much bewilderment her mind<br>
+  The little boy's word fills,<br>
+  And shyly and nicely now she<br>
+  Wills not, and now she wills.<br><br>
+  
+  And slowly she tells him:- "Since thy<br>
+  Childhood I've known thy wit,<br>
+  And as thou art and glib and small<br>
+  My temper thou wouldst fit.<br><br>
+  
+  But Evening-star sprung from the calm<br>
+  Of the oblivion,<br>
+  Though, gives horizon limitless<br>
+  To the sea lone and dun.<br><br>
+  
+  And secretly, I close my eyes<br>
+  For my eyelash tears dim<br>
+  When the waves of the sea go on<br>
+  Travelling toward him.<br><br>
+  
+  He shines with love unspeakable<br>
+  So that my pains he'd leach,<br>
+  But higher and higher soars, so<br>
+  That his hand I'd ne'er reach.<br><br>
+  
+  Sadly thrusts from the worlds which from<br>
+  My soul his cold ray bar...<br>
+  I shall love him for ever and<br>
+  For ever he'll rove far.<br><br>
+  
+  Like the unmeasured steppes my days<br>
+  Are deaf and wild, therefore,<br>
+  But my nights spread a holy charm<br>
+  I understand no more!"<br><br>
+  
+  -"Thou art a child! Let's go! Through new<br>
+  Lands our own fate let's frame!<br>
+  Soon they shall have lost our trace and<br>
+  Forgot even our name!<br><br>
+  
+  We shall be both wise, glad and whole<br>
+  As my judgement infers<br>
+  And thou wouldst not long for thy kin<br>
+  Nor yearn for Evening-stars!"<br><br>
+  
+  
+  Then Evening-star went out. His wings<br>
+  Grow, into heavens dash,<br>
+  And on his way millenniums<br>
+  Flee in less than a flash.<br><br>
+  
+  Below, a depth of stars; above,<br>
+  The heaven stars begem, -<br>
+  He seems an endless lightning that<br>
+  Is wandering through them.<br><br>
+  
+  And from the Chaos' vales he sees<br>
+  How in an immense ring<br>
+  Round him, as in the World's first day,<br>
+  Lights from their sources spring;<br><br>
+  
+  How, springing, they hem him like an<br>
+  Ocean that swimming nears...<br>
+  He flees carried by his desire<br>
+  Until he disappears.<br><br>
+  
+  For that region is boundless and<br>
+  Searching regards avoids<br>
+  And Time strive vainly there to come<br>
+  To life from the dark voids.<br><br>
+  
+  'Tis nought. 'Tis, though, thirst that sips him<br>
+  And which he cannot shun,<br>
+  'Tis depth unknown, comparable<br>
+  To blind oblivion.<br><br>
+  
+  -"From that dark, choking, endlessness<br>
+  Into which I am furled,<br>
+  Father, undo me, and for e'er<br>
+  Be praised in the whole world!<br><br>
+  
+  Ask anything for this new fate<br>
+  For with mine I am through:<br>
+  O hear my prayer, O my Lord, for<br>
+  Thou gives life and death too.<br><br>
+  
+  Take back my endlessness, the fires<br>
+  That my being devour<br>
+  And in return give me a chance<br>
+  To love but for an hour!<br><br>
+  
+  I've come from Chaos; I'd return<br>
+  To that my former nest...<br>
+  And as I have been brought to life<br>
+  From rest, I crave for rest!"<br><br>
+  
+  -"Hyperion, that comest from<br>
+  The depths with the world's swarm,<br>
+  Do not ask signs and miracles<br>
+  That have no name nor form.<br><br>
+  
+  Thou wantest to count among men,<br>
+  Take their resemblance vain;<br>
+  But would now the whole mankind die<br>
+  Men will be born again.<br><br>
+  
+  But they are building on the wind<br>
+  Ideals void and blind;<br>
+  When human waves run into graves<br>
+  New waves spring from behind.<br><br>
+  
+  Fate's persecutions, lucky stars,<br>
+  They only are to own;<br>
+  Here we know neither time nor space,<br>
+  Death we have never known.<br><br>
+  
+  From the eternal yesterday<br>
+  Drinks what to-day will drain<br>
+  And if a sun dies on the sky<br>
+  A sun quickens again.<br><br>
+  
+  Risen as for ever, death though<br>
+  Follows them like a thorn<br>
+  For all are born only to die<br>
+  And die to be reborn.<br><br>
+  
+  But thou remainest wheresoe'er<br>
+  Thou wouldst set down or flee.<br>
+  Thou art of the prime form and an<br>
+  Eternal prodigy.<br><br>
+  
+  Thou wilt now hear the wondrous voice<br>
+  At whose bewitched singing<br>
+  Mounts woody get skipping to skies<br>
+  Into sea Island sinking!<br><br>
+  
+  Perhaps thou wilt more: show in deeds<br>
+  Thy sense of justice, might,<br>
+  Out of the earth's lumps make an empire<br>
+  And settle on its height!<br><br>
+  
+  I can give thee millions of vessels<br>
+  And hosts; thou, bear thy breath<br>
+  O'er all the lands, o'er all the oceans:<br>
+  I cannot give thee death.<br><br>
+  
+  For whom thou wantest then to die?<br>
+  Just go and see what's worth<br>
+  All that is waiting there for thee<br>
+  On that wandering earth!"<br><br>
+  
+  
+  His first dominion on the sky<br>
+  Hyperion restores<br>
+  And like in his first day, his light<br>
+  All o'er again he pours.<br><br>
+  
+  For it is evening and the night<br>
+  Her duty never waives.<br>
+  Now the moon rises quietly<br>
+  And shaking from the waves,<br><br>
+  
+  And upon the paths of the groves<br>
+  Her sparkles again drone...<br>
+  Under the row of linden-trees<br>
+  Two youths sit all alone.<br><br>
+  
+  -"O darling, let my blessed ear feel<br>
+  How thy heart's pulses beat,<br>
+  Under the ray of thy eyes clear<br>
+  And unspeakably sweet.<br><br>
+  
+  With the charms of their cold light pierce<br>
+  My thought's faery glades,<br>
+  Pour an eternal quietness<br>
+  On my passion's dark shades.<br><br>
+  
+  And there, above, remain to stop<br>
+  Thy woe's violet stream,<br>
+  For thou art my first source of love<br>
+  And also my last dream!"<br><br>
+  
+  Hyperion beholds how love<br>
+  Their eyes equally charms:<br>
+  Scarcely his arm touches her neck,<br>
+  She takes him in her arms.<br><br>
+  
+  The silvery blooms spread their smells<br>
+  And their soft cascade strokes<br>
+  The tops of the heads of both youths<br>
+  With long and golden locks.<br><br>
+  
+  And all bewitched by love, she lifts<br>
+  Her eyes toward the fires<br>
+  Of the witnessing Evening-star<br>
+  And trusts him her desires:<br><br>
+  
+  -"Descend to me, mild Evening-star<br>
+  Thou canst glide on a beam,<br>
+  Enter my forest and my mind<br>
+  And o'er my good luck gleam!"<br><br>
+  
+  As he did it once, into woods,<br>
+  On hills, his rays he urges,<br>
+  Guiding throughout so many wilds<br>
+  The gleaming, moving, surges.<br><br>
+  
+  But he falls not as he did once<br>
+  From his height into swells:<br>
+  -"What matters thee, clod of dust, if<br>
+  'Tis me or some one else?<br><br>
+  
+  You live in your sphere's narrowness<br>
+  And luck rules over you -<br>
+  But in my steady world I feel<br>
+  Eternal, cold and true!"
+  </blockquote>Mihal Eminescu`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

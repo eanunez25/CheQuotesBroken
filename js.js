@@ -1840,6 +1840,13 @@ let cheQuotes = [
   But in my steady world I feel<br>
   Eternal, cold and true!"
   </blockquote>Mihal Eminescu`,
+
+  `<blockquote>
+    The sun did not shine<br>
+    It was too cold to play<br>
+    So we sat in the house<br>
+    All that cold, cold, wet day
+  </blockquote>Dr. Seuss`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1847,12 +1847,16 @@ let cheQuotes = [
     So we sat in the house<br>
     All that cold, cold, wet day
   </blockquote>Dr. Seuss`,
+
+  `<blockquote>
+    Prevent your pet from using the bathroom in unwanted places by not feeding them
+  </blockquote>Elvin's Life Pro Tips #3`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
 // Literal Elvin Shower Thoughts #12
-// Elvin's Life Pro Tips #2
+// Elvin's Life Pro Tips #3
 // REAL TALC #1
 
 // `<img src="images/.jpg" class="image"></img>`,

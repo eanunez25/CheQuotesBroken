@@ -1851,12 +1851,16 @@ let cheQuotes = [
   `<blockquote>
     Prevent your pet from using the bathroom in unwanted places by not feeding them
   </blockquote>Elvin's Life Pro Tips #3`,
+
+  `<blockquote>
+    Your day can't get any worse if you start it with an ice cold shower
+  </blockquote>Elvin's Life Pro Tips #4`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
 
 // Literal Elvin Shower Thoughts #12
-// Elvin's Life Pro Tips #3
+// Elvin's Life Pro Tips #4
 // REAL TALC #1
 
 // `<img src="images/.jpg" class="image"></img>`,

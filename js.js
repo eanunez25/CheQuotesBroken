@@ -1855,6 +1855,10 @@ let cheQuotes = [
   `<blockquote>
     Your day can't get any worse if you start it with an ice cold shower
   </blockquote>Elvin's Life Pro Tips #4`,
+
+  `<blockquote>
+    Cocaine is God's way of saying, 'Son, you make too much money'
+  </blockquote>Robin Williams`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

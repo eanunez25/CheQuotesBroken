@@ -1859,6 +1859,8 @@ let cheQuotes = [
   `<blockquote>
     Cocaine is God's way of saying, 'Son, you make too much money'
   </blockquote>Robin Williams`,
+
+  `<img src="images/ted.png" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

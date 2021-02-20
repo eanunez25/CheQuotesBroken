@@ -1861,6 +1861,10 @@ let cheQuotes = [
   </blockquote>Robin Williams`,
 
   `<img src="images/ted.png" class="image"></img>`,
+
+  `<blockquote>
+    The naked man fears no pickpocket
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

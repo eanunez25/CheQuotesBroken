@@ -1865,6 +1865,10 @@ let cheQuotes = [
   `<blockquote>
     The naked man fears no pickpocket
   </blockquote>`,
+
+  `<blockquote>
+    Start every phone call with "my phone is about to die" so that you can hang up when you get bored
+  </blockquote>Elvin's Life Pro Tips #5`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

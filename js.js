@@ -1869,6 +1869,10 @@ let cheQuotes = [
   `<blockquote>
     Start every phone call with "my phone is about to die" so that you can hang up when you get bored
   </blockquote>Elvin's Life Pro Tips #5`,
+
+  `<blockquote>
+    The great thing about Mariachi, as long as you pay their fees and a little extra tip for some Coronas after, they'll play anywhere you want them, absolutely no place is taboo for them
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

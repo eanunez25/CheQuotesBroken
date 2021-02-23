@@ -1873,6 +1873,12 @@ let cheQuotes = [
   `<blockquote>
     The great thing about Mariachi, as long as you pay their fees and a little extra tip for some Coronas after, they'll play anywhere you want them, absolutely no place is taboo for them
   </blockquote>`,
+
+  `<blockquote>
+    Candy is dandy but liquor is quicker
+  </blockquote>Ogden Nash`,
+
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

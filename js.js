@@ -1878,7 +1878,18 @@ let cheQuotes = [
     Candy is dandy but liquor is quicker
   </blockquote>Ogden Nash`,
 
+  `<blockquote>
+    Do or do not
+  </blockquote>Yoda`,
 
+  `<blockquote>
+    ALL I WANT FOR MY BIRTHDAY IS A BIG BOOTY HOE
+  </blockquote>`,
+
+  `<blockquote>
+    Remember all the those women on the Titanic
+    who waved off the dessert cart
+  </blockquote>Erma Bombeck`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

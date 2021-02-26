@@ -1887,7 +1887,7 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
-    Remember all the those women on the Titanic
+    Remember all those women on the Titanic
     who waved off the dessert cart
   </blockquote>Erma Bombeck`,
 ]

@@ -1890,6 +1890,12 @@ let cheQuotes = [
     Remember all those women on the Titanic
     who waved off the dessert cart
   </blockquote>Erma Bombeck`,
+
+  `<blockquote>
+    When temperatures get too high<br>
+    The elderly will start to die
+  </blockquote>Marissa`,
+  
 ]
 
 // categories(#used) ------------------------------------------------------------------------

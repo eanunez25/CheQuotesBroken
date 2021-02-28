@@ -1896,6 +1896,9 @@ let cheQuotes = [
     The elderly will start to die
   </blockquote>Marissa`,
   
+  `<blockquote>
+    The first hundred years are the hardest
+  </blockquote>Wison Mizner`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1898,7 +1898,14 @@ let cheQuotes = [
   
   `<blockquote>
     The first hundred years are the hardest
-  </blockquote>Wison Mizner`
+  </blockquote>Wison Mizner`,
+
+  `<blockquote>
+    Let's face it, I'm scrawny and small, except for 
+    my forehead. Why was I born with such a big, wide 
+    forehead?
+  </blockquote>Sakura`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

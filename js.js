@@ -1906,6 +1906,11 @@ let cheQuotes = [
     forehead?
   </blockquote>Sakura`,
 
+  `<blockquote>
+    Jiu-Jitsu will never work on me. 
+    I will simply kiss them.
+  </blockquote>`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

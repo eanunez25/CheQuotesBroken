@@ -1911,6 +1911,11 @@ let cheQuotes = [
     I will simply kiss them.
   </blockquote>`,
 
+  `<blockquote>
+    Pierced niples taste like keys and there's 
+    no place like home
+  </blockquote>`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

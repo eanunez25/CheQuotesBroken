@@ -1921,6 +1921,11 @@ let cheQuotes = [
     and live in hell
   </blockquote>Gen. Philip Sheridan`,
 
+  `<blockquote>
+    Unfortunately after the storm, some Texans were
+    left alive. I have take swift action to correct that.
+  </blockquote>Greg Abbott, probably`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1916,6 +1916,11 @@ let cheQuotes = [
     no place like home baby
   </blockquote>`,
 
+  `<blockquote>
+    If I owned Texas and Hell, I'd rent out Texas
+    and live in hell
+  </blockquote>Gen. Philip Sheridan`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

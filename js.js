@@ -1926,6 +1926,7 @@ let cheQuotes = [
     left alive. I have take swift action to correct that.
   </blockquote>Greg Abbott, probably`,
 
+  `<img src="images/airplane.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

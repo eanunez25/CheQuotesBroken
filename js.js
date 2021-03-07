@@ -1927,6 +1927,10 @@ let cheQuotes = [
   </blockquote>Greg Abbott, probably`,
 
   `<img src="images/airplane.jpg" class="image"></img>`,
+
+  `<blockquote>
+    Weak people are ugly
+  </blockquote>Madara Uchiha`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

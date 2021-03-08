@@ -1931,6 +1931,11 @@ let cheQuotes = [
   `<blockquote>
     Weak people are ugly
   </blockquote>Madara Uchiha`,
+
+ `<blockquote>
+    Never get too proud. The size of your
+    funeral will likely depend on the weather.
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

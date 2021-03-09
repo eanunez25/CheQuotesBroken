@@ -1936,6 +1936,8 @@ let cheQuotes = [
     Never get too proud. The size of your
     funeral will likely depend on the weather.
   </blockquote>`,
+
+  `<img src="images/eye.jpeg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

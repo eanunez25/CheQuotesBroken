@@ -1938,6 +1938,10 @@ let cheQuotes = [
   </blockquote>`,
 
   `<img src="images/eye.jpeg" class="image"></img>`,
+
+ `<blockquote>
+    Only the mediocre are always at their best
+  </blockquote>Jean Giraudoux`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

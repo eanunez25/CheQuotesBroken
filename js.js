@@ -1944,6 +1944,10 @@ let cheQuotes = [
   </blockquote>Jean Giraudoux`,
 
   `<img src="images/divoc.jpg" class="image"></img>`,
+
+  `<blockquote>
+    Each year, millions of skiers come to Colorado to experience its superb emergency medical facilities.
+  </blockquote>Dave Barry`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

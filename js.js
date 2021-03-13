@@ -1952,6 +1952,10 @@ let cheQuotes = [
   `<blockquote>
     Downtime is important
   </blockquote>Lord Jiraiya`,
+
+  `<blockquote>
+    The Only Thing More Important Than Wearing The Right Underwear To The Doctor Is Wearing The Right Underwear Into Battle!
+  </blockquote>Konohamaru`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

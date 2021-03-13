@@ -1948,6 +1948,10 @@ let cheQuotes = [
   `<blockquote>
     Each year, millions of skiers come to Colorado to experience its superb emergency medical facilities.
   </blockquote>Dave Barry`,
+
+  `<blockquote>
+    Downtime is important
+  </blockquote>Lord Jiraiya`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

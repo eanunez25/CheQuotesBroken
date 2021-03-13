@@ -1956,6 +1956,10 @@ let cheQuotes = [
   `<blockquote>
     The Only Thing More Important Than Wearing The Right Underwear To The Doctor Is Wearing The Right Underwear Into Battle!
   </blockquote>Konohamaru`,
+
+  `<blockquote>
+    Laziness Is The Mother Of All Bad Habits. But Ultimately, She Is A Mother And We Should Respect Her.
+  </blockquote>Shikamaru`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

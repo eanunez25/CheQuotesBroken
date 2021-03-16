@@ -1960,6 +1960,8 @@ let cheQuotes = [
   `<blockquote>
     Laziness Is The Mother Of All Bad Habits. But Ultimately, She Is A Mother And We Should Respect Her.
   </blockquote>Shikamaru`,
+
+  `<img src="images/snail.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

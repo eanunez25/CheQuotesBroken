@@ -1962,6 +1962,10 @@ let cheQuotes = [
   </blockquote>Shikamaru`,
 
   `<img src="images/snail.jpg" class="image"></img>`,
+
+  `<blockquote>
+    Home is where the bra isn't
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -1966,6 +1966,19 @@ let cheQuotes = [
   `<blockquote>
     Home is where the bra isn't
   </blockquote>`,
+
+  `<blockquote>
+    Several years later, I'm like walking down 
+    the street and this car drives by and a 
+    guy yells, 'Asian Jim!' And drives off. 
+    And I'm thinking like, 'Is this some 
+    racist thing that I don't know about?' 
+    I thought it was a hate crime because 
+    I had forgotten about my appearance on 
+    The Office. People would be walking up 
+    to me and saying, 'What's up, Asian 
+    Jim?' And I'd be like, ‘F<span id="blur">u</span>ck you!’
+  </blockquote>Randall Park`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

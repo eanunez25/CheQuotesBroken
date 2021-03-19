@@ -1978,7 +1978,18 @@ let cheQuotes = [
     The Office. People would be walking up 
     to me and saying, 'What's up, Asian 
     Jim?' And I'd be like, ‘F<span id="blur">u</span>ck you!’
-  </blockquote>Randall Park`
+  </blockquote>Randall Park`,
+
+  `<blockquote>
+    Today you are you!<br>
+    That is truer than true!<br>
+    There is no one alive<br>
+    who is You-er than You.
+  </blockquote>Dr. Seuss`,
+
+  `<blockquote>
+    Walking slow gets you far
+  </blockquote>Japanese proverb`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

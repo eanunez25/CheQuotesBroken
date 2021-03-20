@@ -1988,6 +1988,10 @@ let cheQuotes = [
   </blockquote>Dr. Seuss`,
 
   `<blockquote>
+    The first $100,000 is a b<span id="blur">it</span>ch
+  </blockquote>Charlie Munger`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

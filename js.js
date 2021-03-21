@@ -1992,6 +1992,15 @@ let cheQuotes = [
   </blockquote>Charlie Munger`,
 
   `<blockquote>
+    If you ever feel useless just remember that Ash
+    tried throwing hands with Mewtwo
+  </blockquote>`,
+
+  `<blockquote>
+    No laws when you're drinking Claws
+  </blockquote>`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

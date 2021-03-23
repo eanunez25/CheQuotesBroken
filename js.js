@@ -2001,6 +2001,11 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    You lose some and win some <br>
+    long as the outcome is income
+  </blockquote>Drake`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

@@ -2006,6 +2006,10 @@ let cheQuotes = [
   </blockquote>Drake`,
 
   `<blockquote>
+    Don't let your dreams be memes
+  </blockquote>`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

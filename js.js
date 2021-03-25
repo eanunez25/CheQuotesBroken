@@ -2009,6 +2009,8 @@ let cheQuotes = [
     Don't let your dreams be memes
   </blockquote>`,
 
+  `<img src="images/whata.png" class="image"></img>`,
+
   `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,

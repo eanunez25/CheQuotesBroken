@@ -2012,6 +2012,10 @@ let cheQuotes = [
   `<img src="images/whata.png" class="image"></img>`,
 
   `<blockquote>
+    Giving too many f<span id="blur">u</span>cks is bad for you
+  </blockquote>Mark Manson`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

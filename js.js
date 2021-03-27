@@ -2016,6 +2016,11 @@ let cheQuotes = [
   </blockquote>Mark Manson`,
 
   `<blockquote>
+    The three most harmful addictions are heroin, 
+    carbohydates, and a monthly salary
+  </blockquote>Nassim Nicholas Taleb`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

@@ -2021,6 +2021,10 @@ let cheQuotes = [
   </blockquote>Nassim Nicholas Taleb`,
 
   `<blockquote>
+    Everything I know, I learned from dogs
+  </blockquote>Nora Roberts`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

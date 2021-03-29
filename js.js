@@ -2025,6 +2025,10 @@ let cheQuotes = [
   </blockquote>Nora Roberts`,
 
   `<blockquote>
+    Never put off till tomorrow what you can do the day after tomorrow.
+  </blockquote>Mark Twain`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

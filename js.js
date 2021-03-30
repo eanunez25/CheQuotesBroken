@@ -2029,6 +2029,10 @@ let cheQuotes = [
   </blockquote>Mark Twain`,
 
   `<blockquote>
+    Things that have never happened before happen all the time
+  </blockquote>Morgan Housel`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

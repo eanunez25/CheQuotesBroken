@@ -2033,6 +2033,10 @@ let cheQuotes = [
   </blockquote>Morgan Housel`,
 
   `<blockquote>
+    Never floss with a stranger
+  </blockquote>Joan River`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

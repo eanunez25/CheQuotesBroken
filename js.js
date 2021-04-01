@@ -2037,6 +2037,11 @@ let cheQuotes = [
   </blockquote>Joan River`,
 
   `<blockquote>
+    Let us be thankful for the fools. But for them
+    the rest of us could not succeed.
+  </blockquote>Mark Twain`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

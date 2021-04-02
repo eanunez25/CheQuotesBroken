@@ -2042,6 +2042,10 @@ let cheQuotes = [
   </blockquote>Mark Twain`,
 
   `<blockquote>
+    When in doubt, lechon
+  </blockquote>`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

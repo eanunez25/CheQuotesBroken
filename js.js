@@ -2051,6 +2051,11 @@ let cheQuotes = [
   </blockquote>Dita von Teese`,
 
   `<blockquote>
+    Money is not everything. Make sure you earn a lot
+    before speaking such nonsense.
+  </blockquote>Warren Buffet`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

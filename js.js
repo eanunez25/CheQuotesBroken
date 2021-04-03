@@ -2046,6 +2046,11 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    You can be a juicy ripe peach and there'll still be 
+    someone who doesn't like peaches
+  </blockquote>Dita von Teese`,
+
+  `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
 ]

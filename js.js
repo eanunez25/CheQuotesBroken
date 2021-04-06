@@ -2058,6 +2058,12 @@ let cheQuotes = [
   `<blockquote>
     Walking slow gets you far
   </blockquote>Japanese proverb`,
+
+  `<blockquote>
+    <blockquote>
+      Success is not an accident. Success is actually a choice.
+    </blockquote>Steph Curry
+  </blockquote>Sci-Tech`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

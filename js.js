@@ -2064,6 +2064,8 @@ let cheQuotes = [
       Success is not an accident. Success is actually a choice.
     </blockquote>Steph Curry
   </blockquote>Sci-Tech`,
+
+  `<img src="images/vaxxed.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

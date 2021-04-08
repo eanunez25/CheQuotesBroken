@@ -2066,6 +2066,10 @@ let cheQuotes = [
   </blockquote>Sci-Tech`,
 
   `<img src="images/vaxxed.jpg" class="image"></img>`,
+
+  `<blockquote>
+    If you can't feed a hundred people, then feed just one.
+  </blockquote>Mother Teresa`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -2070,6 +2070,10 @@ let cheQuotes = [
   `<blockquote>
     If you can't feed a hundred people, then feed just one.
   </blockquote>Mother Teresa`,
+
+  `<blockquote>
+    Macho does not prove mucho
+  </blockquote>Zsa Zsa Gabor`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

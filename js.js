@@ -2074,6 +2074,8 @@ let cheQuotes = [
   `<blockquote>
     Macho does not prove mucho
   </blockquote>Zsa Zsa Gabor`,
+
+  `<img src="images/hugdog.jpeg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

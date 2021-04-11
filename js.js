@@ -2076,6 +2076,10 @@ let cheQuotes = [
   </blockquote>Zsa Zsa Gabor`,
 
   `<img src="images/hugdog.jpeg" class="image"></img>`,
+
+  `<blockquote>
+    Serenitea: the absense of stress while drinking tea
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

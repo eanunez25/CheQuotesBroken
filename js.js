@@ -2080,6 +2080,11 @@ let cheQuotes = [
   `<blockquote>
     Serenitea: the absense of stress while drinking tea
   </blockquote>`,
+
+  `<blockquote>
+    Laziness is the mother of all bad habits but ultimately
+    she is a mother and we should respect her
+  </blockquote>Shikamaru Nara`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

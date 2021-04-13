@@ -2085,6 +2085,10 @@ let cheQuotes = [
     Laziness is the mother of all bad habits but ultimately
     she is a mother and we should respect her
   </blockquote>Shikamaru Nara`,
+
+  `<blockquote>
+    A person is smart, people are dumb
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

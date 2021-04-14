@@ -2089,6 +2089,15 @@ let cheQuotes = [
   `<blockquote>
     A person is smart, people are dumb
   </blockquote>`,
+
+  `<blockquote>
+    Learn the rules like a pro so you can break them
+    like an artist
+  </blockquote>Picasso`,
+
+  `<blockquote>
+    You're not you when you're hungry
+  </blockquote>Snickers`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

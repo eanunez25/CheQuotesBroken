@@ -2096,6 +2096,12 @@ let cheQuotes = [
   </blockquote>Picasso`,
 
   `<blockquote>
+    An accident is knocking over a glass of milk
+  </blockquote>Jeff Storms, attorney to Daunte Wright who 
+  was murdered-- 10 miles away from where George Floyd's killer is being tried--
+  by a 26-year police veteran who mistook a handgun for a tazer`, 
+
+  `<blockquote>
     You're not you when you're hungry
   </blockquote>Snickers`,
 ]

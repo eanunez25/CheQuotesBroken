@@ -2104,6 +2104,12 @@ let cheQuotes = [
   `<blockquote>
     You're not you when you're hungry
   </blockquote>Snickers`,
+
+  `<blockquote>
+    If you want happiness for an hour, take a nap.<br>
+    If you want happiness for a day, go fishing. <br>
+    If you want happiness for a year, inherit a fortune.
+  </blockquote>Chinese Proverb`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

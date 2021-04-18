@@ -2110,6 +2110,10 @@ let cheQuotes = [
     If you want happiness for a day, go fishing. <br>
     If you want happiness for a year, inherit a fortune.
   </blockquote>Chinese Proverb`,
+
+  `<blockquote>
+    I can't support my family with only $34 million
+  </blockquote>Dak Prescott`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

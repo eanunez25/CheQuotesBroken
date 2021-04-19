@@ -2118,6 +2118,10 @@ let cheQuotes = [
   `<blockquote>
     Some people never go crazy. What truly horrible lives they must lead.
   </blockquote>Charles Bukowski`,
+
+  `<blockquote>
+    At any given moment, you are doing what you most want to be doing
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

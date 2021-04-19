@@ -2114,6 +2114,10 @@ let cheQuotes = [
   `<blockquote>
     I can't support my family with only $34 million
   </blockquote>Dak Prescott`,
+
+  `<blockquote>
+    Some people never go crazy. What truly horrible lives they must lead.
+  </blockquote>Charles Bukowski`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

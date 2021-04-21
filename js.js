@@ -2122,6 +2122,33 @@ let cheQuotes = [
   `<blockquote>
     At any given moment, you are doing what you most want to be doing
   </blockquote>`,
+
+  `<blockquote>
+    Floyd: They're going to kill me.<br>
+    Chauvin: Takes a heck of a lot of oxygen to say that.
+  </blockquote>
+
+  <blockquote>
+    Floyd: I can't breathe. I can't breathe.<br>
+    Thao: He's talking so he's fine.
+  </blockquote>
+
+  <blockquote>
+    Thao: You guys alright?<br>
+    Lane: My knee might be a little scratched but I'll survive.
+  </blockquote>
+
+  <blockquote>
+    Floyd: Tell my kids I love them. I'm dead.<br>
+    Chauvin: You're doing a lot of talking man.
+  </blockquote>
+
+  <blockquote>
+    Bystander firefighter: Does he have a pulse? Check his pulse please.<br>
+    Lane: You got one?<br>
+    Keung: I can't find one<br>
+    Chauvin: [Keeps knee on Floyd's neck]
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

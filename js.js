@@ -2149,6 +2149,11 @@ let cheQuotes = [
     Keung: I can't find one<br>
     Chauvin: [Keeps knee on Floyd's neck]
   </blockquote>`,
+
+  `<blockquote>
+    Everyone hath a plan until they get punched
+    in the f<span id="blur">uck</span>ing mouth
+  </blockquote>Mike Tyson`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

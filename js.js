@@ -2153,7 +2153,11 @@ let cheQuotes = [
   `<blockquote>
     Everyone hath a plan until they get punched
     in the f<span id="blur">uck</span>ing mouth
-  </blockquote>Mike Tyson`
+  </blockquote>Mike Tyson`,
+
+  `<blockquote>
+    A millionaire's joke is always funny
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

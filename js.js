@@ -2158,6 +2158,11 @@ let cheQuotes = [
   `<blockquote>
     A millionaire's joke is always funny
   </blockquote>`,
+
+  `<blockquote>
+    Programming is like sex: one mistake and you hve to support
+    it for the rest of your life
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
@@ -2288,6 +2293,12 @@ for(let i = 0; i < neemTimes; i++) {
   zucchiniDay.push("It's National Sneak Some Zucchini Onto Your Neighbor's Porch Day")
 }
 
+let oneYear = []
+let oyTimes = 10000
+for(let i = 0; i < oyTimes; i++) {
+  oneYear.push("One Year of CheQuotes")
+}
+
 
 
 //  nicknames------------------------------------------------------------------------
@@ -2348,6 +2359,8 @@ timebasedGreeting = () =>{
       timebasedArray = timebasedArray.concat(nationalEyeExamMonth)
     } else if (month == 8 && dayofMonth == 8) {
       timebasedArray = timebasedArray.concat(zucchiniDay)
+    } else if (month == 4 && dayofMonth == 24) {
+      timebasedArray = timebasedArray.concat(oneYear)
     }
     return timebasedArray;
 }

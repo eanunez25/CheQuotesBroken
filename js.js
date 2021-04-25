@@ -2163,6 +2163,12 @@ let cheQuotes = [
     Programming is like sex: one mistake and you hve to support
     it for the rest of your life
   </blockquote>`,
+
+  `<blockquote>
+    Outside of a dog, a book is man's best friend. Inside 
+    of a dog, it's too dark to read
+  </blockquote>Groucho Marx`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

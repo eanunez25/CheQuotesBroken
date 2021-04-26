@@ -2169,6 +2169,10 @@ let cheQuotes = [
     of a dog, it's too dark to read
   </blockquote>Groucho Marx`,
 
+  `<blockquote>
+    I need a room full of mirrors so I can be surrounded by winners.
+  </blockquote>Kanye`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

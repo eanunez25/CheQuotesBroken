@@ -2173,6 +2173,9 @@ let cheQuotes = [
     I need a room full of mirrors so I can be surrounded by winners.
   </blockquote>Kanye`,
 
+  `<blockquote>
+    I am happy, at peace, I love my life & myself & good people
+  </blockquote>Penelope Nguyen`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

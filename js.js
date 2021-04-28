@@ -2176,6 +2176,10 @@ let cheQuotes = [
   `<blockquote>
     I am happy, at peace, I love my life & myself & good people
   </blockquote>Penelope Nguyen`,
+
+  `<blockquote>
+    You can't wake a person who is pretending to be asleep
+  </blockquote>Navajo Proverb`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

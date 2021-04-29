@@ -2180,6 +2180,10 @@ let cheQuotes = [
   `<blockquote>
     You can't wake a person who is pretending to be asleep
   </blockquote>Navajo Proverb`,
+
+  `<blockquote>
+    Your brows introduce you before you speak
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

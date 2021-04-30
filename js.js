@@ -2184,6 +2184,11 @@ let cheQuotes = [
   `<blockquote>
     Your brows introduce you before you speak
   </blockquote>`,
+
+  `<blockquote>
+    We marked the swearing in of the first woman in American history elected to national office- 
+    Vice President Kamala Harris. Don't tell me things can't change. 
+  </blockquote>Joe Biden`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

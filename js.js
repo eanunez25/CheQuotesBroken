@@ -2189,6 +2189,10 @@ let cheQuotes = [
     We marked the swearing in of the first woman in American history elected to national office- 
     Vice President Kamala Harris. Don't tell me things can't change. 
   </blockquote>Joe Biden`,
+
+  `<blockquote>
+    Not even Kanye can keep up with the Kardashians
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

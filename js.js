@@ -2193,6 +2193,10 @@ let cheQuotes = [
   `<blockquote>
     Not even Kanye can keep up with the Kardashians
   </blockquote>`,
+
+  `<blockquote>
+    You can never be overdressed or overeducated
+  </blockquote>Oscar Wilde`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

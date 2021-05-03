@@ -2197,6 +2197,8 @@ let cheQuotes = [
   `<blockquote>
     You can never be overdressed or overeducated
   </blockquote>Oscar Wilde`,
+
+  `<img src="images/express.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

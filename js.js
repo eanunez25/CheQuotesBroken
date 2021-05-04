@@ -2199,6 +2199,10 @@ let cheQuotes = [
   </blockquote>Oscar Wilde`,
 
   `<img src="images/express.jpg" class="image"></img>`,
+  
+  `<blockquote>
+    I'm strong to the finish cause I eats my spinach
+  </blockquote>Popeye`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

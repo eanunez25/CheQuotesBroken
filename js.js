@@ -2203,6 +2203,10 @@ let cheQuotes = [
   `<blockquote>
     I'm strong to the finish cause I eats my spinach
   </blockquote>Popeye`,
+
+  `<blockquote>
+    The trick is, when there is nothing to do, do nothing
+  </blockquote>Warren Buffet`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

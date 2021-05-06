@@ -2207,6 +2207,16 @@ let cheQuotes = [
   `<blockquote>
     The trick is, when there is nothing to do, do nothing
   </blockquote>Warren Buffet`,
+
+  `<blockquote>
+    I said my face bomb, <span id="blur">a</span>ss tight<br>
+    Racks stack up, Shaq hight<br>
+    Jewelry on me, flashlight<br>
+    I been lit since last night<br>
+    Him him with that good-good<br>
+    Make a n<span id="blur">igg</span>a act right<br>
+    Broke boys don't deserve no pussy
+  </blockquote>Cardi B`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

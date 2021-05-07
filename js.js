@@ -2213,10 +2213,14 @@ let cheQuotes = [
     Racks stack up, Shaq hight<br>
     Jewelry on me, flashlight<br>
     I been lit since last night<br>
-    Him him with that good-good<br>
+    Hit him with that good-good<br>
     Make a n<span id="blur">igg</span>a act right<br>
     Broke boys don't deserve no pussy
   </blockquote>Cardi B`,
+
+  `<blockquote>
+    A little party never killed nobody
+  </blockquote>Fergie`,
 
   `<blockquote>
     Don't judge your taco by its price

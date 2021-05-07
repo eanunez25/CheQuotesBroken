@@ -2217,6 +2217,10 @@ let cheQuotes = [
     Make a n<span id="blur">igg</span>a act right<br>
     Broke boys don't deserve no pussy
   </blockquote>Cardi B`,
+
+  `<blockquote>
+    Don't judge your taco by its price
+  </blockquote>Hunter S. Thompson`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -2225,6 +2225,14 @@ let cheQuotes = [
   `<blockquote>
     Don't judge your taco by its price
   </blockquote>Hunter S. Thompson`,
+
+  `<blockquote>
+    Parenting is f<span id="blur">uc</span>king hard
+  </blockquote>Adele`,
+
+  `<blockquote>
+    Well-behaved women seldom make history
+  </blockquote>Laurel Thatcher Ulrich`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

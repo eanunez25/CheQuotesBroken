@@ -2233,6 +2233,10 @@ let cheQuotes = [
   `<blockquote>
     Well-behaved women seldom make history
   </blockquote>Laurel Thatcher Ulrich`,
+
+  `ß<blockquote>
+    You miss 100% of the dogs you don't pet
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

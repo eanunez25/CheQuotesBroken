@@ -2403,6 +2403,7 @@ let nicknames = [
   "1x FSA RGV Co-President",
   "Tatcha's Human",
   "K9 Kila",
+  "Future Client",
 ];
 
 

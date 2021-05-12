@@ -2237,6 +2237,10 @@ let cheQuotes = [
   `ß<blockquote>
     You miss 100% of the dogs you don't pet
   </blockquote>`,
+
+  `<blockquote>
+    When it's done probably, taco should be a verb
+  </blockquote>Jonathan Gold`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

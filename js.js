@@ -2239,6 +2239,13 @@ let cheQuotes = [
   </blockquote>`,
 
   `<blockquote>
+    On Wednesday, when the sky is blue,<br>
+    and I have nothing else to do,<br>
+    I sometimes wonder if it’s true<br>
+    That who is what and what is who.
+  </blockquote>Winnie the Pooh`,
+
+  `<blockquote>
     When it's done probably, taco should be a verb
   </blockquote>Jonathan Gold`,
 ]

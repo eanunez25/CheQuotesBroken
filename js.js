@@ -2248,6 +2248,10 @@ let cheQuotes = [
   `<blockquote>
     When it's done probably, taco should be a verb
   </blockquote>Jonathan Gold`,
+
+  `<blockquote>
+    The drunk is temporary but the gay is forever
+  </blockquote>Read on skincare forum`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

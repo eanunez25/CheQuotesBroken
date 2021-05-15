@@ -2252,6 +2252,10 @@ let cheQuotes = [
   `<blockquote>
     The drunk is temporary but the gay is forever
   </blockquote>Read on skincare forum`,
+
+  `<blockquote>
+    <a href="https://v.redd.it/0r53vxwz95z61">ooooooooOoooaahaAAAAAAAaAAAAAAAAAaAAA  aOOAAAAAAAAAAAAAOOAAAAAOAAAAAAhOOOOho owoOOOOOOAAAAAAAAAAAA owooAAAAAAAaAAAAA owoooAAAAAAAAAAAAHaA</a>
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

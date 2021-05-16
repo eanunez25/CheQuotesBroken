@@ -2256,6 +2256,12 @@ let cheQuotes = [
   `<blockquote>
     <a href="https://v.redd.it/0r53vxwz95z61">ooooooooOoooaahaAAAAAAAaAAAAAAAAAaAAA  aOOAAAAAAAAAAAAAOOAAAAAOAAAAAAhOOOOho owoOOOOOOAAAAAAAAAAAA owooAAAAAAAaAAAAA owoooAAAAAAAAAAAAHaA</a>
   </blockquote>`,
+
+  `<blockquote>
+    Look good<br>
+    Feel good<br>
+    Do good
+  </blockquote>Mean Machine`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

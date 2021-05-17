@@ -2262,6 +2262,8 @@ let cheQuotes = [
     Feel good<br>
     Do good
   </blockquote>Mean Machine`,
+
+  `<img src="images/madara.png" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

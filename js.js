@@ -2264,6 +2264,24 @@ let cheQuotes = [
   </blockquote>Mean Machine`,
 
   `<img src="images/madara.png" class="image"></img>`,
+
+  `<blockquote>
+    Got the club going up on a Tuesday<br>
+    Got yo girl in the cut and she choosy<br>
+    Club going up on a Tuesday<br>
+    Got yo girl in the cut and she choosy<br>
+    Club going up on a Tuesday<br>
+    Got yo girl in the cut and she choosy<br>
+    Club going up on a Tuesday<br>
+    Got yo girl in the cut and she choosy<br>
+    Club going up on a Tuesday<br>
+    Got yo girl in the cut and she choosy<br>
+    Club going up on a Tuesday<br>
+    Got yo girl in the cut and she choosy<br>
+    Got the club going up
+  </blockquote>ILoveMakonnen`,
+
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

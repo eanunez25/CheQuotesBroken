@@ -2286,7 +2286,9 @@ let cheQuotes = [
     things
   </blockquote>George Carlin`,
 
-
+  `<blockquote>
+    Isn't it a bit unnerving that doctors call what they do practice
+  </blockquote>George Carlin`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

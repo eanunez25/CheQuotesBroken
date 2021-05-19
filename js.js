@@ -2281,6 +2281,11 @@ let cheQuotes = [
     Got the club going up
   </blockquote>ILoveMakonnen`,
 
+  `<blockquote>
+    Don't sweat the petty things and don't pet the sweaty
+    things
+  </blockquote>George Carlin`,
+
 
 ]
 

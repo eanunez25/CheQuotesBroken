@@ -2289,6 +2289,10 @@ let cheQuotes = [
   `<blockquote>
     Isn't it a bit unnerving that doctors call what they do practice
   </blockquote>George Carlin`,
+
+  `<blockquote>
+    If I were to die right now in a fiery explosion due to the carelessness of a friend…. Then it would just be alright
+  </blockquote>Spongebob`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

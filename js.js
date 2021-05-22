@@ -2296,7 +2296,7 @@ let cheQuotes = [
 
   `<blockquote>
     The belly rules the mind
-  </blockquote>`,
+  </blockquote>Spanish Proverb`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

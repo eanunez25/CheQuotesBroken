@@ -2293,6 +2293,10 @@ let cheQuotes = [
   `<blockquote>
     If I were to die right now in a fiery explosion due to the carelessness of a friend…. Then it would just be alright
   </blockquote>Spongebob`,
+
+  `<blockquote>
+    The belly rules the mind
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

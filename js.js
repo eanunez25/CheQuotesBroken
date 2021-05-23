@@ -2297,6 +2297,10 @@ let cheQuotes = [
   `<blockquote>
     The belly rules the mind
   </blockquote>Spanish Proverb`,
+
+  `<blockquote>
+    One cannot think, love, sleep well if one has not dined well
+  </blockquote>Virginia Woolf`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

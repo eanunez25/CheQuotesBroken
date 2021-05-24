@@ -2301,6 +2301,11 @@ let cheQuotes = [
   `<blockquote>
     One cannot think, love, sleep well if one has not dined well
   </blockquote>Virginia Woolf`,
+
+  `<blockquote>
+    You dim sum<br>
+    You lose some
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

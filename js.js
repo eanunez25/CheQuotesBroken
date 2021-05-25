@@ -2306,6 +2306,10 @@ let cheQuotes = [
     You dim sum<br>
     You lose some
   </blockquote>`,
+
+  `<blockquote>
+    The best journey takes you home
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

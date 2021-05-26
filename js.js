@@ -2310,6 +2310,11 @@ let cheQuotes = [
   `<blockquote>
     The best journey takes you home
   </blockquote>`,
+
+  `<blockquote>
+    Mama doesn't play to get even<br>
+    Mama plays to win
+  </blockquote>Sam Puckett`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

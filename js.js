@@ -2315,6 +2315,10 @@ let cheQuotes = [
     Mama doesn't play to get even<br>
     Mama plays to win
   </blockquote>Sam Puckett`,
+
+  `<blockquote>
+    Fill your belly to 80%
+  </blockquote>Japanese proverb`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

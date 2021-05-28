@@ -2319,6 +2319,10 @@ let cheQuotes = [
   `<blockquote>
     Fill your belly to 80%
   </blockquote>Japanese proverb`,
+
+  `<blockquote>
+    Washing pigs with soap is losing time and soap
+  </blockquote>Spanish proverb`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

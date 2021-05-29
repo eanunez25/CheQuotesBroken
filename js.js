@@ -2323,6 +2323,10 @@ let cheQuotes = [
   `<blockquote>
     Washing pigs with soap is losing time and soap
   </blockquote>Spanish proverb`,
+
+  `<blockquote>
+    Drinking everynight because we drink to my accomplishments
+  </blockquote>Drake`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

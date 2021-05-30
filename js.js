@@ -2327,6 +2327,11 @@ let cheQuotes = [
   `<blockquote>
     Drinking everynight because we drink to my accomplishments
   </blockquote>Drake`,
+
+  `<blockquote>
+    If i had a nickel for each woman who finds me unattractive,
+    they would eventually find me attractive
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

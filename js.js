@@ -2332,6 +2332,11 @@ let cheQuotes = [
     If i had a nickel for each woman who finds me unattractive,
     they would eventually find me attractive
   </blockquote>`,
+
+  `<blockquote>
+    Excellence is a habit<br>
+    -Aristotle, paraphrased
+  </blockquote>Pia`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -2337,6 +2337,11 @@ let cheQuotes = [
     Excellence is a habit<br>
     -Aristotle, paraphrased
   </blockquote>Pia`,
+
+  `<blockquote>
+    It is a mistake to believe you can solve any major 
+    problems just with potatoes
+  </blockquote>Douglas Adams`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

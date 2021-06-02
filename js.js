@@ -2342,6 +2342,10 @@ let cheQuotes = [
     It is a mistake to believe you can solve any major 
     problems just with potatoes
   </blockquote>Douglas Adams`,
+
+  `<blockquote>
+    Being gay is like glitter- it never goes away
+  </blockquote>Lady Gaga`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

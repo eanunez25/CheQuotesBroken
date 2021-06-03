@@ -2346,6 +2346,8 @@ let cheQuotes = [
   `<blockquote>
     Being gay is like glitter- it never goes away
   </blockquote>Lady Gaga`,
+
+  `<img src="images/meta.png" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

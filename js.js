@@ -2348,6 +2348,10 @@ let cheQuotes = [
   </blockquote>Lady Gaga`,
 
   `<img src="images/meta.png" class="image"></img>`,
+
+  `<blockquote>
+    Napping, I highly recommend it- zero calories and zero dollars
+  </blockquote>Danielle Town`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

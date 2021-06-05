@@ -2352,6 +2352,11 @@ let cheQuotes = [
   `<blockquote>
     Napping, I highly recommend it- zero calories and zero dollars
   </blockquote>Danielle Town`,
+
+  `<blockquote>
+    I WANNA DANCE<br>
+    YOU WANNA DANCE
+  </blockquote>Joanna`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

@@ -2357,6 +2357,11 @@ let cheQuotes = [
     I WANNA DANCE<br>
     YOU WANNA DANCE
   </blockquote>Joanna`,
+
+  `<blockquote>
+    I don't believe in sunblock. You're ugly when you're old anyways.
+  </blockquote>Leilani`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

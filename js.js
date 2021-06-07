@@ -2362,6 +2362,10 @@ let cheQuotes = [
     I don't believe in sunblock. You're ugly when you're old anyways.
   </blockquote>Leilani`,
 
+  `<blockquote>
+    Ain't no need to watch where I'm going. Just need to know where I've been.
+  </blockquote>Mater`,
+
 ]
 
 // categories(#used) ------------------------------------------------------------------------

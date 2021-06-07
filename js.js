@@ -2365,7 +2365,6 @@ let cheQuotes = [
   `<blockquote>
     Ain't no need to watch where I'm going. Just need to know where I've been.
   </blockquote>Mater`,
-
 ]
 
 // categories(#used) ------------------------------------------------------------------------

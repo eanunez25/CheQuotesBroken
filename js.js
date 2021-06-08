@@ -2365,6 +2365,10 @@ let cheQuotes = [
   `<blockquote>
     Ain't no need to watch where I'm going. Just need to know where I've been.
   </blockquote>Mater`,
+
+  `<blockquote>
+    The worst form of procrastination is reading a procrastination quote, feeling the guilt and not doing anything about it
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

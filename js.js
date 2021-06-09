@@ -2369,6 +2369,10 @@ let cheQuotes = [
   `<blockquote>
     The worst form of procrastination is reading a procrastination quote, feeling the guilt and not doing anything about it
   </blockquote>`,
+
+  `<blockquote>
+    To wear a floral shirt is an experience
+  </blockquote>Brian Wilson`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

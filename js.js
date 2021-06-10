@@ -2375,7 +2375,7 @@ let cheQuotes = [
   </blockquote>Brian Wilson`,
 
   `<blockquote>
-    CLothes make a man. Naked people have little or no inlfuence on society.
+    Clothes make a man. Naked people have little or no inlfuence on society.
   </blockquote>Mark Twain`,
 ]
 

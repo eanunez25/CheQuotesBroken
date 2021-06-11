@@ -2377,6 +2377,10 @@ let cheQuotes = [
   `<blockquote>
     Clothes make a man. Naked people have little or no inlfuence on society.
   </blockquote>Mark Twain`,
+
+  `<blockquote>
+    June. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, October, December, August, and February.
+  </blockquote>Mark Twain`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

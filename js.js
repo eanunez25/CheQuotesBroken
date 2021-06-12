@@ -2381,6 +2381,10 @@ let cheQuotes = [
   `<blockquote>
     June. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, October, December, August, and February.
   </blockquote>Mark Twain`,
+
+  `<blockquote>
+    It even helps stupid people to try hard.
+  </blockquote>Lucius Annaeus Seneca`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

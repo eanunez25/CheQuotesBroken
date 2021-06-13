@@ -2385,6 +2385,10 @@ let cheQuotes = [
   `<blockquote>
     It even helps stupid people to try hard.
   </blockquote>Lucius Annaeus Seneca`,
+
+  `<blockquote>
+    You heal an outside wound with rubbing alcohol and an inside wound with drinking alcohol
+  </blockquote>Nick Miller`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

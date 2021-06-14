@@ -2389,6 +2389,10 @@ let cheQuotes = [
   `<blockquote>
     You heal an outside wound with rubbing alcohol and an inside wound with drinking alcohol
   </blockquote>Nick Miller`,
+
+  `<blockquote>
+    In times like these it is good to remember that there have always been times like these
+  </blockquote>Paul Harvey`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

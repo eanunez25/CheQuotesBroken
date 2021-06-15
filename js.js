@@ -2393,6 +2393,10 @@ let cheQuotes = [
   `<blockquote>
     In times like these it is good to remember that there have always been times like these
   </blockquote>Paul Harvey`,
+
+  `<blockquote>
+    It is not enough to conquer; one must know how to seduce
+  </blockquote>Francois-Marie Arouet Voltaire`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

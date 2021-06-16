@@ -2397,6 +2397,10 @@ let cheQuotes = [
   `<blockquote>
     It is not enough to conquer; one must know how to seduce
   </blockquote>Francois-Marie Arouet Voltaire`,
+
+  `<blockquote>
+    Whoever created the tradition of not seeing the bride in the wedding dress beforehand saved countless husbands everywhere from hours of dress shopping and will forever be a hero to all man
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

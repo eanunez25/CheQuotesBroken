@@ -2401,6 +2401,10 @@ let cheQuotes = [
   `<blockquote>
     Whoever created the tradition of not seeing the bride in the wedding dress beforehand saved countless husbands everywhere from hours of dress shopping and will forever be a hero to all man
   </blockquote>`,
+
+  `<blockquote>
+    Sometimes you just have to pee in the sink
+  </blockquote>Charles Bukowski`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

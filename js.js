@@ -2405,6 +2405,10 @@ let cheQuotes = [
   `<blockquote>
     Sometimes you just have to pee in the sink
   </blockquote>Charles Bukowski`,
+
+  `<blockquote>
+    How many legs does a dog have if you call the tail a leg? Four. Calling a tail a leg doesn't make it a leg.
+  </blockquote>Abraham Lincoln`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

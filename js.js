@@ -2409,6 +2409,10 @@ let cheQuotes = [
   `<blockquote>
     How many legs does a dog have if you call the tail a leg? Four. Calling a tail a leg doesn't make it a leg.
   </blockquote>Abraham Lincoln`,
+
+  `<blockquote>
+    I freed a thousand slaves. I could have freed a thousand more if only they knew they were slaves.
+  </blockquote>Harriet Tubman`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

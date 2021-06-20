@@ -2413,6 +2413,10 @@ let cheQuotes = [
   `<blockquote>
     I freed a thousand slaves. I could have freed a thousand more if only they knew they were slaves.
   </blockquote>Harriet Tubman`,
+
+  `<blockquote>
+    Sci-Tech was the worst experience of my life
+  </blockquote>Christopher Martinez`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

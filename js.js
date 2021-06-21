@@ -2417,6 +2417,10 @@ let cheQuotes = [
   `<blockquote>
     Sci-Tech was the worst experience of my life
   </blockquote>Christopher Martinez`,
+
+  `<blockquote>
+    No problem is too big to run away from
+  </blockquote>Charles M Schulz`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

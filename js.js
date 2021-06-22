@@ -2421,6 +2421,10 @@ let cheQuotes = [
   `<blockquote>
     No problem is too big to run away from
   </blockquote>Charles M Schulz`,
+
+  `<blockquote>
+    Success is like being pregnant. Everyone says congratulations but nobody knows how many times you got f<span id="blur">uc</span>ked.
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

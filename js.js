@@ -2425,6 +2425,10 @@ let cheQuotes = [
   `<blockquote>
     Success is like being pregnant. Everyone says congratulations but nobody knows how many times you got f<span id="blur">uc</span>ked.
   </blockquote>`,
+
+  `<blovkquote>
+    Be decisive. The road of life is paved with flat squirrels who couldn't make a decision.
+  </blovkquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

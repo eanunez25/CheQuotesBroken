@@ -2429,6 +2429,10 @@ let cheQuotes = [
   `<blovkquote>
     Be decisive. The road of life is paved with flat squirrels who couldn't make a decision.
   </blovkquote>`,
+
+  `<blockquote>
+    A woman without a man is like a fish without a bicycle
+  </blockquote>Gloria Steinen`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

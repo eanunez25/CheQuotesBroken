@@ -2433,6 +2433,10 @@ let cheQuotes = [
   `<blockquote>
     A woman without a man is like a fish without a bicycle
   </blockquote>Gloria Steinen`,
+
+  `<blockquote>
+    Who needs a degree when you're schooling life
+  </blockquote>Beyonce`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

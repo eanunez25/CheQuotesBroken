@@ -2437,6 +2437,10 @@ let cheQuotes = [
   `<blockquote>
     Who needs a degree when you're schooling life
   </blockquote>Beyonce`,
+
+  `<blockquote>
+    All I ever wanted was an honest weeks pay for an honest days work
+  </blockquote>Steve Martin`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

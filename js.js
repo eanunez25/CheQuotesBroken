@@ -2441,6 +2441,10 @@ let cheQuotes = [
   `<blockquote>
     All I ever wanted was an honest weeks pay for an honest days work
   </blockquote>Steve Martin`,
+
+  `<blockquote>
+    Just wing it. Life, eyeliner, everything.
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

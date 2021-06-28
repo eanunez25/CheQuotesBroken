@@ -2445,6 +2445,10 @@ let cheQuotes = [
   `<blockquote>
     Just wing it. Life, eyeliner, everything.
   </blockquote>`,
+
+  `<blockquote>
+    Shine bright like your forehead
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

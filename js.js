@@ -2449,6 +2449,10 @@ let cheQuotes = [
   `<blockquote>
     Shine bright like your forehead
   </blockquote>`,
+
+  `<blockquote>
+    Becoming an adult is probably the dumbest thing you could ever do
+  </blockquote>Calvin`
 ]
 
 // categories(#used) ------------------------------------------------------------------------

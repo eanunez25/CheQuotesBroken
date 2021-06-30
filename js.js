@@ -2452,7 +2452,12 @@ let cheQuotes = [
 
   `<blockquote>
     Becoming an adult is probably the dumbest thing you could ever do
-  </blockquote>Calvin`
+  </blockquote>Calvin`,
+
+  `<blockquote>
+    Scooby Doo taught us that the real monsters 
+    were always human
+  </blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------

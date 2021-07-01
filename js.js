@@ -2458,6 +2458,11 @@ let cheQuotes = [
     Scooby Doo taught us that the real monsters 
     were always human
   </blockquote>`,
+
+  `<blockquote>
+    Everything and anything you want to do, you can
+    do in Las Vegas
+  </blockquote>Drew Carey`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
